@@ -47,3 +47,6 @@ Hold skills until frenzy mob will appear, don't circle around the boss, stay on 
 **Be careful!** It could be that boss will charge from spawn point before bat appears. Don't run to boss, wait for mob. Push bat to the boss with CA or Active skill (depends which companion and weapon you have). Once bat will be near dragon use Resonance, you need to hit them both with it.
 
 You need to kill bat while Resonance on cooldown. If you see that bat has a little hp left and you can kill it with Resonance and hit the boss too - you can use it. Make sure you can do proper rotation in boss when you break it. Use second oath in weakness boss.
+
+---
+<sup>v1.0 by @kemrian</sup>

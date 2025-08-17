@@ -9,7 +9,7 @@ const links = [
 
 const ExternalLinks: QuartzComponent = ({ displayClass }: QuartzComponentProps) => (
   <div class={displayClass ?? ""}>
-    <h3>External Resources</h3>
+    <h3>External Links</h3>
     <ul>
       {links.map(link => (
         <li>
