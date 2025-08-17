@@ -14,8 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          {"The wiki is maded and maitanied by combat Lads community. If you have any questions or proposals, please contact on Discord @kemrian or use email ladscombatwiki@proton.me"}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
