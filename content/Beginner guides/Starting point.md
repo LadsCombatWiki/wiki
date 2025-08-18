@@ -31,4 +31,4 @@ Unless your only goal in this game is to combat, priority on who to main should 
 5. If you have spare diamonds and want to use them on lunar banners, prioritise the ones that have your main’s **primary or secondary colours**. Card memoria can always be found elsewhere if you just want to experience the stories.
 
 ---
-<sup>v1.0 by @jayci</sup>
+<sup>v1.0 by @jayci_3280</sup>
