@@ -26,6 +26,7 @@ In team window you have:
 - Companion choice button - change companion for LI
 - 6 slots for cards - 2 solars and 4 lunars
 - "Details" button to see team stats
+
 ![[teamUI.png]]
 
 ---
