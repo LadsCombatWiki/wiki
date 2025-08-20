@@ -48,14 +48,16 @@ Boss with 4 protoshields:
 Myth solar pair (5 star) > 4 star pair R3 > one 5* and one 4* R0-2 > 4* pair R0-2
 
 When you have equipped pair it gives you passive bonuses. All 4* pairs has the same bonuses among all LI:
-- R1: +5% DMG Boost
-- R2: +10% ORB
-- R3: + 5% DMG Redaction
+- R0: +5% DMG Boost
+- R1: +10% ORB
+- R2: + 5% DMG Redaction
+- R3: +5% DMG Boost
 
 Myth pairs includes universal bonuses and exclusive bonuses for companion that their represent. Universal bonuses:
+- R0: +8% DMG Boost + 8%DMG Reduction
 - R1: +20% ORB
 - R2: +1 to max energy (you will have total 4 energy in battle)
-- R3: no universal bonus here
+- R3: +8% DMG Boost + 8%DMG Reduction
 
 **Lunar cards**:
 Lunar's ranks doesn't have special bonuses. Ranks increase base stats on the card. 
@@ -80,4 +82,4 @@ For free companions we are using claymore or guns.
 - Guns - for mob stages, when we need to fight multiple enemies at once.
 
 ---
-<sup>v1.0 by @jayci_3280 and @kemrian. Proofreading by @.kitty143</sup>
+<sup>v1.0 by @jayci_3280 and @kemrian. Proofreading by @.kitty143 @anan1n</sup>
