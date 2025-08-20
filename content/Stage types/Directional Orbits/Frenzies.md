@@ -8,7 +8,7 @@ tags:
 
 **Recommended companions**:
 - **Xavier**: All myths are good for stage. Chose who ever you have better builded. Free companion Distant Youth or Deepspace Hunter, both with claymore.
-- **Raphael**: MS or AB. Free companion Fresh Paint with claymore.
+- **Rafayel**: MS or AB. Free companion Fresh Paint with claymore.
 - **Zayne**: SF with exclusive sword or hunter guns. Free companion Medic with claymore.
 - **Sylus**: All myths are good. Chose who ever you have better builded. Free companion OV with claymore.
 - **Caleb**: LR. Free companion Pilot with claymore.

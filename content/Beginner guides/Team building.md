@@ -1,5 +1,5 @@
 ---
-title: "Team building: Stella match vs Brute Force"
+title: Team building
 draft: false
 tags:
 ---
@@ -12,7 +12,17 @@ Team building can be very intimidating if you are starting out. Here are the bas
 3. 5* cards will always have higher base stats than 4* cards (at similar levels), even if the 4* is max ranked. [|link to stats table]
 4. However, 5* cards are not always better to use than 4* cards. Stella matched battles are a lot easier to fight due to the weakened mechanic, compared to brute forcing a level. Using a 4* (or even 3*) card to stella match the stage will greatly reduce the stats required to beat it. 
 5. The “auto-equip” function will always prioritise stella-matching a team. We do not recommend using the function because it does not recognise who your main is. This means it would rather choose six 1 level cards that can stella match the team, instead of six 80 level cards that do not stella match.
-# What to chose between Stella match and Brute
+# Assembling a team
+In team window you have: 
+- Stellas for stage.
+- Weapon choice button - you can change weapon here
+- Companion choice button - change companion for LI
+- 6 slots for cards - 2 solars and 4 lunars
+- "Details" button to see team stats
+<p style="text-align: center;"> <img src="/Images/teamUI.png" alt="Team window" /> </p>
+
+# The Team Assembly Plan
+## Stellactrum
 **Stella Matched** - when the cards in the team matches the protofield stellactrum. Stella matched team:
 <p style="text-align: center;"> <img src="/Images/stella_match1.png" alt="Stella Match" /> </p>
 
@@ -33,14 +43,41 @@ Boss with 4 protoshields:
 **Partial Stella Match** - Any card that is in the team that matches the protofield stellactrum grants a 5% bonus, even if the team is bruting. 
 <p style="text-align: center;"> <img src="/Images/stella_match2.png" alt="Partial Stella Match" /> </p>
 
-# Assembling a team
-In team window you have: 
-- Stellas for stage.
-- Weapon choice button - you can change weapon here
-- Companion choice button - change companion for LI
-- 6 slots for cards - 2 solars and 4 lunars
-- "Details" button to see team stats
-<p style="text-align: center;"> <img src="/Images/teamUI.png" alt="Team window" /> </p>
+## Solar Pairs and Ranks
+**Solar pair priority**:
+Myth solar pair (5 star) > 4 star pair R3 > one 5* and one 4* R0-2 > 4* pair R0-2
+
+When you have equipped pair it gives you passive bonuses. All 4* pairs has the same bonuses among all LI:
+- R1: +5% DMG Boost
+- R2: +10% ORB
+- R3: + 5% DMG Redaction
+
+Myth pairs includes universal bonuses and exclusive bonuses for companion that their represent. Universal bonuses:
+- R1: +20% ORB
+- R2: +1 to max energy (you will have total 4 energy in battle)
+- R3: no universal bonus here
+
+**Lunar cards**:
+Lunar's ranks doesn't have special bonuses. Ranks increase base stats on the card. 
+- Stella match: prioritise needed colour for it.
+- Brute force: ranked > partial stella match > talent on cards
+
+**Notes**: all those prioritise assumes your cards on the same level and you have decent cores for them.
+## Weapon and Companion
+**Companion**:
+Always prioritise myth companion over free.
+
+If you don't have myth you will use free one. Sylus and Caleb has only one free companion, OG3 has a few of them to chose. Recommended OG3 free companions:
+- Xavier: Deepspace hunter
+- Rafayel: Fresh Paint
+- Zayne: Medic of the Arctic
+
+**Weapon**:
+If you are using myth companion in most cases you will use exclusive weapon. For attack scaling myth companion we also use claymore. For more details visit their corresponded guides.
+
+For free companions we are using claymore or guns.
+- Claymore - for boss stages. Rare for mob stages with minstats.
+- Guns - for mob stages, when we need to fight multiple enemies at once.
 
 ---
-<sup>v1.0 by @jayci_3280 and @kemrian</sup>
+<sup>v1.0 by @jayci_3280 and @kemrian. Proofreading by @.kitty143</sup>
