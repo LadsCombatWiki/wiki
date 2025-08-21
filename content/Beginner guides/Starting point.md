@@ -3,6 +3,9 @@ title: Starting point
 draft: false
 tags:
 ---
+# Before we start
+The combat guides include some terminology and acronyms, and also if you go to combat chats you will see them a lot.
+In beginner guides we are trying to avoid using acronyms, or explain them right away, but if you don't know what something mean or need to make sure - we have an [[Glossary]] page to check them.
 # Starting point
 Every combat player has to start somewhere, but for first time players, the amount of things to do can be overwhelming. For a game that’s marketed as an otome, there sure is a lot of combat content, and we understand that it can be *a lot.* We recommend focusing your efforts on the below at the start:
 1. Decide what your monetary commitment to this game is. This will help you [[#Picking a main|pick your main(s)]].
