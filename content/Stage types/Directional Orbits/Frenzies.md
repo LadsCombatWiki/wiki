@@ -25,9 +25,9 @@ The stage has 3 waves, each of it has frenzy mob. Each wave spawns at the same p
 
 The tactic below is a general tactic, but you might want make an adjustment for your rotation if you use NV, MS, LR or FA.
 # 1st wave
-First wave consist from **2 regular knaves and 1 frenzy knave**. Don't use Resonance skill or Active skill on the start, wait for frenzy mob to appear. Try to group mobs close to spawn point. 
+<p align="justify">First wave consist from **2 regular knaves and 1 frenzy knave**. Don't use Resonance skill or Active skill on the start, wait for frenzy mob to appear. Try to group mobs close to spawn point. 
 
-Once frenzy mob appears use your Resonance skill and Active skill. Kill frenzy mob as soon as possible to get the first buff.
+Once frenzy mob appears use your Resonance skill and Active skill. Kill frenzy mob as soon as possible to get the first buff.</p>
 ![[frenzy1stwave.png]]
 # 2nd wave
 Time stamp to start wave - 2:10
