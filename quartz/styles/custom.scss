@@ -44,3 +44,15 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.borderless-table table,
+.borderless-table th,
+.borderless-table td,
+.borderless-table tr {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.borderless-table th {
+  font-weight: normal !important;
+}

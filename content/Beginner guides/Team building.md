@@ -5,14 +5,16 @@ tags:
 ---
 # Basic about a team
 Team building can be very intimidating if you are starting out. Here are the basics!
-1. A team is always made up of 2 <div class="tooltip">solar cards<span class="tooltiptext">Card with sun in it</span> </div>, and 4 lunar cards. You cannot mix and match cards from different LI.
-2. Where possible, always pick a solar pair. Pair bonuses can greatly increase your damage output. You can identify solar pair by matching letters in the right corner of card.
+1. A team is always made up of 2 <div class="tooltip">solar cards<span class="tooltiptext">Card has the “sun” icon</span> </div>, and 4 <div class="tooltip">lunar cards<span class="tooltiptext">Card has a crescent moon icon</span></div>. You cannot mix and match cards from different LI.
+2. Where possible, always pick a <div class="tooltip">solar pair<span class="tooltiptext">Two solar cards that are matched</span></div>. Pair bonuses can greatly increase your damage output. You can identify solar pair by matching letters in the right corner of card.
 <p style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="Solar Pairs" /> </p>
 
-3. You can use myth companion on *any* solar cards (or even without them).
-4. 5* cards will always have higher base stats than 4* cards (at similar levels), even if the 4* is max ranked. [|link to stats table]
-5. However, 5* cards are not always better to use than 4* cards. Stella matched battles are a lot easier to fight due to the weakened mechanic, compared to brute forcing a level. Using a 4* (or even 3*) card to stella match the stage will greatly reduce the stats required to beat it. 
-6. The “auto-equip” function will always prioritise stella-matching a team. We do not recommend using the function because it does not recognise who your main is. This means it would rather choose six 1 level cards that can stella match the team, instead of six 80 level cards that do not stella match.
+3. 5* cards will always have higher base stats than 4* cards (at similar levels), even if the 4* is max ranked. [|link to stats table]
+4. However, 5* cards are not always better to use than 4* cards. Stella matched battles are a lot easier to fight due to the weakened mechanic, compared to brute forcing a level. Using a 4* (or even 3*) card to stella match the stage will greatly reduce the stats required to beat it. 
+5. The “auto-equip” function will always prioritise stella-matching a team. We do not recommend using the function because it does not recognise who your main is. This means it would rather choose six 1 level cards that can stella match the team, instead of six 80 level cards that do not stella match.
+
+>[!tip]+ Myth companion
+>You can use myth companion on *any* solar cards (or even without them).
 # Assembling a team
 In team window you have: 
 - Stellas for stage.
@@ -71,12 +73,14 @@ Lunar's ranks don't have special bonuses. Ranks increase base stats on the card.
 - Stella match: prioritise needed colour for it.
 - Brute force: ranked > partial stella match > talent on cards
 
-**Notes**: all those prioritises assume your cards are on the same level and you have decent cores for them.
+>[!NOTE]- Notes
+>All those prioritises assume your cards are on the same level and you have decent cores for them.
 ## Weapon and Companion
 **Companion**:
 Always prioritise myth companion over free, even if you don't use myth solars.
 
-**Notes**: Don't use FA Caleb for mob stages. If FA is the only myth you have for him, use his free companion to fight mobs.
+>[!NOTE]- Notes for Caleb companions
+>Don't use FA Caleb for mob stages. If FA is the only myth you have for him, use his free companion to fight mobs.
 
 If you don't have myth you will use free one. Sylus and Caleb has only one free companion, OG3 has a few of them to choose. Recommended OG3 free companions:
 - Xavier: Deepspace hunter

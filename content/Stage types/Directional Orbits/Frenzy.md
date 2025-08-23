@@ -1,5 +1,5 @@
 ---
-title: Frenzies
+title: Frenzy
 draft: false
 tags:
 ---
@@ -16,12 +16,15 @@ tags:
 Frenzy stages is a type of stages where you have special buff that you can obtain by killing special mob with frenzy aura. Frenzy buff gives you a **DMG Boost** to all your and LI attacks. It can be stacked 3 times.
 ![[frenzybuff.png]]
 
-**Notes**: the frenzy buff icon is similar to claymore stacks and some other companions buff, if you use claymore and not sure if it is frenzy buff or not do stack to check it, claymore stacks will have separate icon.
+>[!NOTE]- Notes
+>The frenzy buff icon is similar to claymore stacks and some other companions buff, if you use claymore and not sure if it is frenzy buff or not do stack to check it, claymore stacks will have separate icon.
 
 Frenzy mob can give you buff only if you manage to kill it in a short time (20 sec). The timer is on the left side of screen.
 ![[frenzytimer.png]]
 
-The stage has 3 waves, each of it has frenzy mob. Each wave spawns at the same point of the map. **Be careful!** Frenzy mob appears with time delay!
+The stage has 3 waves, each of it has frenzy mob. Each wave spawns at the same point of the map. 
+>[!WARNING]- Be careful!
+>Frenzy mob appears with time delay!
 
 The tactic below is a general tactic, but you might want make an adjustment for your rotation if you use NV, MS, LR or FA.
 # 1st wave
@@ -44,7 +47,8 @@ Hold skills until frenzy mob will appear, don't circle around the boss, stay on 
 
 ![[frenzy3rdwave.png]]
 
-**Be careful!** It could be that boss will charge from spawn point before bat appears. Don't run to boss, wait for mob. Push bat to the boss with CA or Active skill (depends which companion and weapon you have). Once bat will be near dragon use Resonance, you need to hit them both with it.
+>[!WARNING]- Be careful!
+>It could be that boss will charge from spawn point before bat appears. Don't run to boss, wait for mob. Push bat to the boss with CA or Active skill (depends which companion and weapon you have). Once bat will be near dragon use Resonance, you need to hit them both with it.
 
 You need to kill bat while Resonance on cooldown. If you see that bat has a little hp left and you can kill it with Resonance and hit the boss too - you can use it. Make sure you can do proper rotation in boss when you break it. Use second oath in weakness boss.
 
