@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {"The wiki is maded and maitanied by combat Lads community. If you have any questions or proposals, please contact on Discord @kemrian or use email ladscombatwiki@proton.me"}
+          {"The wiki is made and maintained by combat Lads community. If you have any questions or proposals, please contact on Discord @kemrian or use email ladscombatwiki@proton.me"}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
