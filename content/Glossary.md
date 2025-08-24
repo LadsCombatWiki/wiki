@@ -8,7 +8,7 @@ tags:
 - **OG3** - refers to original 3 men: Xavier, Rafayel, Zayne.
 - **RNG** - “random number generation” except no one actually calls it that. Basically just the randomness of anything (trust us, this game’s combat has way too much RNG to explain here). A “good RNG run” means that lady luck was on your side and you got lots of high damage numbers.
 ## Companion kit
-- **Companion** - this is who you fight alongside with in battles.
+- **Companion** - this is who you fight alongside in battles.
 - **Free companion** - the game gives free 4* companions for all LI.
 - **Myth companion** - 5* companion that needs to be unlocked from gacha.
 - **Kit** - general term for the sum of all the skills a companion can do
@@ -32,8 +32,7 @@ tags:
 - **Pair Bonus** - when solar pairs are equipped, they will activate a bonus based on their rank. Ranked 5* solar pairs result in additions to the kit.
 	- **R-1** - is used in reference to a 5* companion used on a team that has not equipped the companions solar pair.
 >[!WARNING]- Ranked solar pair
->A solar pair is only considered ranked when **both** cards have been ranked to the same level. If they are not the same, the rank of the pair will be the same as the card with the lowest rank -image of matching vs lopsided solar pairs + description-
-
+>A solar pair is only considered ranked when **both** cards have been ranked to the same level. If they are not the same, the rank of the pair will be the same as the card with the lowest rank.
 ## Battle
 - **D-Pad** - “directional pad”; is on the left side of the screen and controls the movement of MC
 - **Basic Attack (BA)** - tap the weapon icon
@@ -105,4 +104,4 @@ tags:
 - LO - red
 
 ---
-<sup>v1.0 by @jayci @kemrian @kiironeechan. Proofreading by @anan1n @.kiity143</sup>
+<sup>v1.0 by @jayci_3280 @kemrian @kiironeechan. Proofreading by @anan1n @.kiity143</sup>

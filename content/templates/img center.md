@@ -1,0 +1,1 @@
+<p style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="Solar Pairs" /> </p>
