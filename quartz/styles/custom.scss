@@ -74,7 +74,7 @@ body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content {
   gap: 0 1rem;
 
   @media all and ($mobile) {
-    grid-template-columns: repeat(auto-fill, minmax(10rem, max-content));
+    grid-template-columns: repeat(auto-fill, minmax(5rem, max-content));
   }
 
 }
