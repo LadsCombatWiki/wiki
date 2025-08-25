@@ -15,6 +15,7 @@ All cards can be sorted by their stellactrum, or stella for short. There are onl
 - Amber (yellow)
 - Ruby (red)
 - Pearl (pink) 
+
 Each LI will have a stella prioritization (below table), meaning they are more likely to have cards of a certain stella. 
 
 |         |                  |                  |                  |                  |                  |                  |
@@ -95,10 +96,8 @@ Clicking on the details button opens up a box that breaks down all the stats on 
 <p style="text-align: center;"> <img src="/Images/memories cards/card_stats_long.jpg" alt="Card stats in detail" /> </p>
 
 ## Basic Stats
-
-The card’s base stats are listed in BLACK, while any additional stats from cores are listed in YELLOW. In the above example, the equipped cores have no added HP and DEF, but add 394 ATK, 8.8% crit rate and 4.3% crit dmg. The sum of the black and yellow values are shown on the main memory screen (for example, 480 + 394 ATK add up to the 874 ATK in the previous image)
+The card’s base stats are listed in **Black**, while any additional stats from cores are listed in **Yellow**. In the above example, the equipped cores have no added HP and DEF, but add 394 ATK, 8.8% crit rate and 4.3% crit dmg. The sum of the black and yellow values are shown on the main memory screen (for example, 480 + 394 ATK add up to the 874 ATK in the previous image)
 ## Advanced Stats
-
 Listed here are things like Oath’s Strength, Expedited Energy Boost, Oath Recovery Boost and DMG Boost to Weakened. The DMG Boost to Weakened value includes any core substats as well as talent bonus. In the above image, there is a total of 5.9% D2W: 1.2% comes from the card talent, and the remaining 4.7% is from the equipped cores.
 ## Card Talents
 All cards come with a talent that is used to increase the D2W boost. Card talents **should not** be considered in most team set-ups, and are only used to passively add additional D2W stats to the team. Advanced players can try to match lunar talents with their companion if they are brute forcing or using minstats for a stage. 
