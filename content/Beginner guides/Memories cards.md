@@ -105,9 +105,11 @@ All cards come with a talent that is used to increase the D2W boost. Card talent
 A card’s talent is used to determine the card’s base stats, and are not dependent on whether it is a solar card or a lunar card. All 5* cards with an ATK talent at the same rank will have the same base stats, all 5* cards with an HP talent at the same rank will have the same base stats, etc. 
 ## Cards stats table
 
--insert table-
+![[Cards stats table#5 star cards]]
 
-  
+![[Cards stats table#4 star cards]]
+
+![[Cards stats table#3 star cards]]
 
 ---
 <sup>v1.0 by @jayci_3280</sup>

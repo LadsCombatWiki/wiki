@@ -1,9 +1,4 @@
----
-title: WIP
-draft: true
-tags:
----
-> [!tabbed-column] Tables 
+> [!tabbed] Tables 
 > 
 > <label>![[r0.png]]<input type="radio" name="test" checked="checked"/></label>
 > >First one!

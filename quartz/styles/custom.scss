@@ -70,11 +70,11 @@ body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content {
   padding: 0.25rem;
   /*! width: 100%; */
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(11.7rem, max-content));
+  grid-template-columns: repeat(auto-fill, minmax(11rem, max-content));
   gap: 0 1rem;
 
   @media all and ($mobile) {
-    grid-template-columns: repeat(auto-fill, minmax(5rem, max-content));
+    grid-template-columns: repeat(auto-fill, minmax(3rem, max-content));
   }
 
 }
@@ -123,3 +123,81 @@ body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content > blockquot
   padding-left: 0;
   border: 0;
 }
+
+.callout-content img
+{
+  margin: 0.3rem 0;
+}
+
+
+
+/*test tabs with button in columns
+
+[data-callout=tabbed-column] {
+  outline:1px solid var(--color-base-30);
+  border-radius:.5rem
+}
+[data-callout=tabbed-column]>.callout-content>.callout-content-inner,
+body>:not(#quartz-root) [data-callout=tabbed-column]>.callout-content {
+  display: grid !important;
+  grid-template-columns: 220px 1fr;   //left sidebar, right content 
+  grid-auto-rows: min-content;        // rows only as tall as needed
+  gap: 1rem;
+  align-items: start;
+  align-content: start;
+}
+[data-callout=tabbed-column]>.callout-title {
+  display:none
+}
+[data-callout=tabbed-column]>.callout-content>.callout-content-inner p,
+body>:not(#quartz-root) [data-callout=tabbed-column]>.callout-content p {
+  grid-column: 1 / 2 !important;      // all label <p>s live in column 1
+  margin: 0;
+  display: flex;
+  flex-direction: column;             // stack labels vertically inside each <p>
+  gap: 0.5rem;
+  align-self: center;                  // pin them to the top of the left column
+}
+[data-callout=tabbed-column]>.callout-content>.callout-content-inner label>input,
+body>:not(#quartz-root) [data-callout=tabbed-column]>.callout-content label>input {
+  display:none
+}
+[data-callout=tabbed-column]>.callout-content>.callout-content-inner label,
+body>:not(#quartz-root) [data-callout=tabbed-column]>.callout-content label {
+  color:#ccc;
+  background-color:var(--lightgray);
+  text-align:center;
+  cursor:pointer;
+  width:100%;
+  padding:.15rem .75ch;
+  font-size:1.15rem;
+  font-weight:700;
+  display:inline-block
+}
+[data-callout=tabbed-column]>.callout-content>.callout-content-inner label:has(input:checked) {
+  color:#fff;
+  background-color:var(--gray)
+}
+body>:not(#quartz-root) [data-callout=tabbed-column]>.callout-content label:has(input:checked) {
+  color:#fff;
+  background-color:var(--gray)
+}
+[data-callout=tabbed-column]>.callout-content>.callout-content-inner p:not(:has(label input:checked))+blockquote {
+  display:none
+}
+body>:not(#quartz-root) [data-callout=tabbed-column]>.callout-content p:not(:has(label input:checked))+blockquote {
+  display:none
+}
+[data-callout=tabbed-column]>.callout-content>.callout-content-inner>blockquote,
+body>:not(#quartz-root) [data-callout=tabbed-column]>.callout-content>blockquote {
+  grid-column: 2 / 3 !important;     // right column
+  grid-row: 1 / -1;                   // overlap so active item sits top-right
+  margin: 0;
+  padding: 0;
+  border: 0;
+  // IMPORTANT: limit height and allow scrolling inside the right column
+  max-height: 60vh;                   // adjust: 60vh is a good starting point
+  overflow: auto;
+  box-sizing: border-box;
+}
+*/
