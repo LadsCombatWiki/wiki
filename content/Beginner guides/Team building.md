@@ -13,7 +13,7 @@ Team building can be very intimidating if you are starting out. Here are the bas
 4. However, 5* cards are not always better to use than 4* cards. Stella matched battles are a lot easier to fight due to the weakened mechanic, compared to brute forcing a level. Using a 4* (or even 3*) card to stella match the stage will greatly reduce the stats required to beat it. 
 5. The “auto-equip” function will always prioritise stella-matching a team. We do not recommend using the function because it does not recognise who your main is. This means it would rather choose six 1 level cards that can stella match the team, instead of six 80 level cards that do not stella match.
 
->[!tip]+ Myth companion
+>[!tip] Myth companion
 >You can use myth companion on *any* solar cards (or even without them).
 # Assembling a team
 In team window you have: 
@@ -50,20 +50,20 @@ Boss with 4 protoshields:
 ## Brute Force vs Stella matching
 Depending on the stage, there will be required stellactrum colours that you will need to match. Although matching all colours is the optimal way to go, this can be difficult especially for players who do not build all LIs and have limited card selection. But no need to worry, where there’s, a will there’s a way!
 
-**Stella matching** - this is when all stella colors are matched as required. You have the advantage of getting the enemies into weakened state. Your stat priority will be relatively *high Damage boost to weakness (D2W)*.
+**Stella matching** - this is when all stella colors are matched as required. You have the advantage of putting the enemies into a weakened state. Your stat priority will be relatively *high Damage boost to weakness (D2W)*.
 
-**Brute team** - this can be either partial stella match or no stella matching at all. Stat priority will be high *Crit rate %* and *Crit dmg %*. This would also require your companion scaling stats (Atk, Def, HP) to be higher than a stella match team.
+**Brute team** - this can be either partial stella match or no stella match at all. Stat priority will be high *Crit rate %* and *Crit dmg %* -  a “crit build”. Brute force teams also require higher scaling stats when compared to a stella matched team.
 ## Solars, Weapon and Companion priorities
 **Solar pair priority**:
 Myth solar pair (5 star pair) > 4 star pair R3 > one 5* and one 4* > 4* pair R0-2
 
 **Companion**:
-Always prioritise myth companion over free, even if you don't use myth solars.
+Always prioritise using a myth companion over a free companion, even if you don't use myth solars.
 
 >[!NOTE]- Notes for Caleb companions
->Don't use FA Caleb for mob stages. If FA is the only myth you have for him, use his free companion to fight mobs.
+>Don't use FA Caleb for mob stages. If FA is the only myth you have for him, use his free companion Pilot to fight mobs.
 
-If you don't have myth you will use free one. Sylus and Caleb has only one free companion, OG3 has a few of them to choose. Recommended OG3 free companions:
+If you don't have any myth companions, you will have to use a free 4* companion. Sylus and Caleb have only one free companion, while the OG3 have a few to choose from. Recommended OG3 free companions:
 - Xavier: Deepspace hunter
 - Rafayel: Fresh Paint
 - Zayne: Medic of the Arctic
@@ -71,9 +71,9 @@ If you don't have myth you will use free one. Sylus and Caleb has only one free 
 **Weapon**:
 If you are using myth companion in most cases you will use exclusive weapon. For attack scaling myth companion we also use claymore. For more details visit their corresponding guides.
 
-For free companions we are using claymore or guns.
-- Claymore - for boss stages. Rare for mob stages with minstats.
-- Guns - for mob stages, when we need to fight multiple enemies at once.
+For free companions, we recommend using the hunter claymore or guns.
+- Claymore - for boss stages, and mobs stages when using <div class="tooltip">minstats<span class="tooltiptext">The minimal stats to pass a stage</span></div>.
+- Guns - good for mob stages, when we need to fight multiple enemies at once.
 
 ---
 <sup>v1.0 by @jayci_3280 @kiironeechan @kemrian. Proofreading by @.kitty143 @anan1n</sup>

@@ -5,7 +5,7 @@ tags:
 ---
 # Introduction
 Cards in Love and Deepspace are called “Memories”. They can have varying stella, rarity and rank, and are classified as solar or lunar.
-<p style="text-align: center;"> <img src="/Images/memories cards/card_ui.png" alt="Car UI" /> </p>
+<p style="text-align: center;"> <img src="/Images/memories cards/card_ui.png" alt="Card UI" /> </p>
 
 # Stellactrum
 All cards can be sorted by their stellactrum, or stella for short. There are only six stella that each card will be sorted into: 
@@ -18,26 +18,19 @@ All cards can be sorted by their stellactrum, or stella for short. There are onl
 
 Each LI will have a stella prioritization (below table), meaning they are more likely to have cards of a certain stella. 
 
-|         |                  |                  |                  |                  |                  |                  |
-| ------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-|         | Primary          | Secondary        | Tertiary         | 4th              | 5th              | 6th              |
-| Xavier  | ![[green.webp]]  | ![[yellow.webp]] | ![[red.webp]]    | ![[pink.webp]]   | ![[blue.webp]]   | ![[purple.webp]] |
-| Zayne   | ![[blue.webp]]   | ![[red.webp]]    | ![[pink.webp]]   | ![[yellow.webp]] | ![[purple.webp]] | ![[green.webp]]  |
-| Rafayel | ![[purple.webp]] | ![[pink.webp]]   | ![[yellow.webp]] | ![[red.webp]]    | ![[green.webp]]  | ![[blue.webp]]   |
-| Sylus   | ![[pink.webp]]   | ![[green.webp]]  | ![[blue.webp]]   | ![[purple.webp]] | ![[yellow.webp]] | ![[red.webp]]    |
-| Caleb   | ![[red.webp]]    | ![[purple.webp]] | ![[green.webp]]  | ![[blue.webp]]   | ![[pink.webp]]   | ![[yellow.webp]] |
+<p style="text-align: center;"> <img src="/Images/memories cards/LI_stellas.png" alt="LI's Stellas" /> </p>
 
 Primary and secondary stella are essential for fighting in orbits and should be leveled first. Tertiary colours become important when fighting in high level orbits with the release of 3rd generation myths. 4th, 5th, and 6th stella are considered “off colour” and are considered low priority when managing resources to level cards. 
 
 Stella are important when entering battles with protofield stellactrum. Please see our [[Team building#The Team Assembly Plan|stella match vs brute force]] page for an in depth guide on how to use a card’s stella in team building.
 # Card Rarity & Ranks
-Memories in this game can be of three rarities: 3* (R), 4*(SR) or 5*(SSR). As rarity increases, so do the card’s base stats. 
+Memories in this game can be of three rarities: 3 star (R), 4 star (SR) or 5 star (SSR). As rarity increases, so do the card’s base stats. 
 
 Cards gain ranks when you obtain multiple copies of the card. These copies are converted to shards, which are used to rank up a card. Shards can also be obtained in the galaxy explorer (GE). We refer to card ranks with the short form of R0, R1, R2, and R3. 
 
 <p style="text-align: center;"> <img src="/Images/memories cards/card_rank_ui.png" alt="Ranks" /> </p>
 
-Ranking a card will increase the card’s base stats but never above a similarly leveled higher rarity card (ie. An R3 4* card at level 1 will have lower stats than an R0 5* card also at level 1.) An R0 5* card will have nearly twice the base stats of an R3 3* card - this is why it is generally not recommended to level 3* cards at all. 
+Ranking a card will increase the card’s base stats but never above a similarly leveled higher rarity card (ie. An R3 4 star card at level 1 will have lower stats than an R0 5 star card also at level 1.) An R0 5 star card will have nearly twice the base stats of an R3 3 star card - this is why it is generally not recommended to level 3 star cards at all. 
 
 Ranking a solar card will grant additional **Crit DMG**, while ranking a lunar card will grant additional **Crit rate**. 
 ## Solar vs Lunar Cards
@@ -99,6 +92,9 @@ Clicking on the details button opens up a box that breaks down all the stats on 
 The card’s base stats are listed in **Black**, while any additional stats from cores are listed in **Yellow**. In the above example, the equipped cores have no added HP and DEF, but add 394 ATK, 8.8% crit rate and 4.3% crit dmg. The sum of the black and yellow values are shown on the main memory screen (for example, 480 + 394 ATK add up to the 874 ATK in the previous image)
 ## Advanced Stats
 Listed here are things like Oath’s Strength, Expedited Energy Boost, Oath Recovery Boost and DMG Boost to Weakened. The DMG Boost to Weakened value includes any core substats as well as talent bonus. In the above image, there is a total of 5.9% D2W: 1.2% comes from the card talent, and the remaining 4.7% is from the equipped cores.
+
+>[!warning] Oath Recovery Boost
+>Any oath boost from an R1 solar pair bonus is not shown here as part of the Oath Recovery Boost.
 ## Card Talents
 All cards come with a talent that is used to increase the D2W boost. Card talents **should not** be considered in most team set-ups, and are only used to passively add additional D2W stats to the team. Advanced players can try to match lunar talents with their companion if they are brute forcing or using minstats for a stage. 
 
@@ -112,4 +108,4 @@ A card’s talent is used to determine the card’s base stats, and are not depe
 ![[Cards stats table#3 star cards]]
 
 ---
-<sup>v1.0 by @jayci_3280</sup>
+<sup>v1.0 by @jayci_3280 @kemrian. Proofreading by @anan1n @kiironiichan @.kitty143</sup>

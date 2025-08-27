@@ -8,20 +8,21 @@ The combat guides include some terminology and acronyms, and also if you go to c
 In beginner guides we are trying to avoid using acronyms, or explain them right away, but if you don't know what something mean or need to make sure - we have an [[Glossary]] page to check them.
 # Starting point
 Every combat player has to start somewhere, but for first time players, the amount of things to do can be overwhelming. For a game that’s marketed as an otome, there sure is a lot of combat content, and we understand that it can be *a lot.* We recommend focusing your efforts on the below at the start:
-1. Decide what your monetary commitment to this game is. This will help you [[#Picking a main|pick your main(s)]].
-2. Level 5* cards to 60/60 and 4* cards to 50/50.Focus on your main’s primary and secondary colours [|list in table]. Do not level any 3* cards unless you are doing so for affinity. 
-3. Clearing all 9 bounty hunt levels for each of the different types.
+1. Understand that this is a gacha game. The business model of all gacha games is to encourage spending money by purposely make it hard for ftp players to advance quickly.. If you are ftp, you will have to be more strategic in [[#Picking a main|pick your main]] and resource/stamina management. As long as you have patience, you can advance in this game without spending lots of money.
+2. Decide what your monetary commitment to this game is. This will help you [[#Picking a main|pick your main(s)]].
+3. Level 5* cards to 60/60 and 4* cards to 50/50.Focus on your main’s [[Memories cards#Stellactrum|primary and secondary colours]]. Do not level any 3* cards unless you are doing so for affinity. 
+4. Clearing all 9 bounty hunt levels for each of the different types.
 	1. [|Mr Beanie]
 	2. [|Heartbreaker]
 	3. [|Pumpkin Magus]
 	4. [|Lemonette]
 	5. [|Snoozer]
-4. Clearing Core Hunts Zone 10
+5. Clearing Core Hunts Zone 10
 	1. [|Fusion Area (Green/Red)]
 	2. [|Dissociation Area (Blue/Pink)]
 	3. [|Disambiguation Area (Purple/Yellow)]
-5. Work on hunter contests and orbits only as far as you can get without leveling cores unless you are comfortable with [|cores basics]. Struggling in stages without cores can be very frustrating. 
-6. Once comfortable with how to build your [|companions], focus on SHC more than orbits - SHC is a renewable source of income, while orbits are one time only and not time limited. As you level teams for SHC, your orbit teams will also naturally get built.
+6. Work on hunter contests and orbits only as far as you can get without leveling cores unless you are comfortable with [|cores basics]. Struggling in stages without cores can be very frustrating. 
+7. Once comfortable with how to build your [|companions], focus on SHC more than orbits - SHC is a renewable source of income, while orbits are one time only and not time limited. As you level teams for SHC, your orbit teams will also naturally get built.
 # Picking a main
 All battles in Love and Deepspace require fighting with your partner. As you progress through orbits and hunter contests, you will have to build your team to face the harshest of opponents. 
 
@@ -34,4 +35,4 @@ Unless your only goal in this game is to combat, priority on who to main should 
 5. If you have spare diamonds and want to use them on lunar banners, prioritise the ones that have your main’s **primary or secondary colours**. Card memoria can always be found elsewhere if you just want to experience the stories.
 
 ---
-<sup>v1.0 by @jayci_3280</sup>
+<sup>v1.0 by @jayci_3280. Proofreading by @.kitty143</sup>

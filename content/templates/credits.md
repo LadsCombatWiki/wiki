@@ -1,3 +1,3 @@
 
 ---
-<sup>v1.0 by @</sup>
+<sup>v1.0 by @  Proofreading by @</sup>

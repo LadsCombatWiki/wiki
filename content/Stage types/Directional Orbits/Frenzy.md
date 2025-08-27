@@ -4,53 +4,60 @@ draft: false
 tags:
 ---
 # General
-**Recommended build**: *crit build*.
+**Recommended build**: *Crit Build*.
 
 **Recommended companions**:
-- **Xavier**: All myths are good for stage. Chose who ever you have better builded. Free companion Distant Youth or Deepspace Hunter, both with claymore.
+- **Xavier**: All myths are good. Chose who ever is better built. Free companion Distant Youth or Deepspace Hunter, both with claymore.
 - **Rafayel**: MS or AB. Free companion Fresh Paint with claymore.
 - **Zayne**: SF with exclusive sword or hunter guns. Free companion Medic with claymore.
-- **Sylus**: All myths are good. Chose who ever you have better builded. Free companion OV with claymore.
+- **Sylus**: All myths are good. All myths are good. Chose who ever is better built. Free companion OV with claymore.
 - **Caleb**: LR. Free companion Pilot with claymore.
 
-Frenzy stages is a type of stages where you have special buff that you can obtain by killing special mob with frenzy aura. Frenzy buff gives you a **DMG Boost** to all your and LI attacks. It can be stacked 3 times.
-![[frenzybuff.png]]
+Frenzy stages is a type of stage where you can obtain a special buff by killing special mobs with a frenzy aura. Defeating these enemies within the time limit grants a ATK Boost to all your and LI attacks. It can be stacked 3 times.
+
+<p style="text-align: center;"> <img src="/Images/frenzybuff.png" alt="Frenzy buff" /> </p>
 
 >[!NOTE]- Notes
->The frenzy buff icon is similar to claymore stacks and some other companions buff, if you use claymore and not sure if it is frenzy buff or not do stack to check it, claymore stacks will have separate icon.
+>The frenzy buff icon is similar to claymore stacks and some other companions buffs -  if you use claymore and are not sure if it is frenzy buff or a claymore stack, verify by attempting to do a claymore stack. Claymore stacks will have separate icon from the frenzy buffs.
 
-Frenzy mob can give you buff only if you manage to kill it in a short time (20 sec). The timer is on the left side of screen.
-![[frenzytimer.png]]
+Defeating a frenzy mob only grants a buff if done so within 20s. The 20s timer is on the upper left part of screen.
 
-The stage has 3 waves, each of it has frenzy mob. Each wave spawns at the same point of the map. 
->[!WARNING]- Be careful!
->Frenzy mob appears with time delay!
+<p style="text-align: center;"> <img src="/Images/frenzytimer.png" alt="Timer" /> </p>
 
-The tactic below is a general tactic, but you might want make an adjustment for your rotation if you use NV, MS, LR or FA.
+The stage has 3 waves, each of which has a frenzy mob. Each wave spawns at the same point of the map.
+>[!WARNING] Be careful!
+>Frenzy mob appears with time delay and can be differentiated by a red glow around them
+
+The strategies listed below are very generalized, and may need adjustment when using specific companions or personal gameplay preference.
 # 1st wave
-<p align="justify">First wave consist from **2 regular knaves and 1 frenzy knave**. Don't use Resonance skill or Active skill on the start, wait for frenzy mob to appear. Try to group mobs close to spawn point. 
+The first wave of enemies consists of  **2 regular knaves and 1 frenzy knave**. Don't immediately use Resonance skill or Active skill when the first two wanderers spawn - wait for the frenzy mob to spawn to use these to ensure you do max damage to the frenzy mob. While waiting for the frenzy mob to spawn, try to group mobs close to spawn point.
 
-Once frenzy mob appears use your Resonance skill and Active skill. Kill frenzy mob as soon as possible to get the first buff.</p>
-![[frenzy1stwave.png]]
+Once frenzy mob appears use your Resonance skill and Active skill. Kill frenzy mob as soon as possible to get the first buff (use manual target on the Frenzy mob if your MC keeps attacking the non-frenzy wanderers instead).
+
+<p style="text-align: center;"> <img src="/Images/frenzy1stwave.png" alt="Frenzy 1st wave" /> </p>
+
 # 2nd wave
-Time stamp to start wave - 2:10
+Recommended time stamp to start second wave - 2:10
 
-Second wave consist from **1 wolf with shields and 1 frenzy dog without shield**. Hold Resonance once again, keep the wolf around spawn point. Once dog is appeared use Resonance skill and Active. You can use first oath here. Kill the frenzy mob in time to collect buff. You might need to use second Resonance on wolf to finish it.
-![[frenzy2ndwave.png]]
+Second wave consists of **1 wolf with shields and 1 frenzy dog without shield**. Once again, only use Resonance and Active skills when the frenzy mob appears to deal the most damage to it. Try to prevent the shielded dog from dashing away to ensure good grouping. Oath can be used on the two dogs since you will have enough time to recharge a second oath for the third wave.
+
+<p style="text-align: center;"> <img src="/Images/frenzy2ndwave.png" alt="Frenzy 2nd wave" /> </p>
+
 # 3rd wave
 Time stamp to start wave - 1:30
 
-Third wave is a boss **Lightning Dragon** and **1 frenzy little bat**. While dragon is landing go to the spawn point and face near the cliff (wall), facing the point where boss is landing. 
-![[frenzydragonpoint.png]]
+Third wave is a boss **Lightning Dragon** and **1 frenzy bat**. While waiting for the dragon to land, go to the edge of the cliff and face towards the initial starting point of the stage.
 
-Hold skills until frenzy mob will appear, don't circle around the boss, stay on the point. Once frenzy mobs is spawned use Resonance skill.
+<p style="text-align: center;"> <img src="/Images/frenzydragonpoint.png" alt="Point to wait boss" /> </p>
 
-![[frenzy3rdwave.png]]
+Again, do not use Resonance and Active skills until the frenzy bat appears. You may attack the dragon while waiting, but do not move from the previous mentioned location to make sure you are close to the frenzy mob when it spawns so your resonance will auto target it.
+
+<p style="text-align: center;"> <img src="/Images/frenzy3rdwave.png" alt="Frenzy 3rd wave" /> </p>
 
 >[!WARNING]- Be careful!
->It could be that boss will charge from spawn point before bat appears. Don't run to boss, wait for mob. Push bat to the boss with CA or Active skill (depends which companion and weapon you have). Once bat will be near dragon use Resonance, you need to hit them both with it.
+>If the boss does a dashing attack that has it leave the preferred battle location, do not chase it. Instead, wait for the frenzy bat to appear and push it towards the dragon with weapon attacks or active skills only. Once they are grouped, use resonance skill to hit both the frenzy bat and the dragon. If a second resonance is needed to kill the frenzy bat within the time limit, try to do it close to the dragon so that it will be hit as well.
 
-You need to kill bat while Resonance on cooldown. If you see that bat has a little hp left and you can kill it with Resonance and hit the boss too - you can use it. Make sure you can do proper rotation in boss when you break it. Use second oath in weakness boss.
+Once the frenzy bat is defeated, use regular strategy on the dragon, including using an oath in weakness to maximize oath damage.
 
 ---
-<sup>v1.0 by @kemrian</sup>
+<sup>v1.0 by @kemrian @jayci_3280</sup>
