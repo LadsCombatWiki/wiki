@@ -16,13 +16,35 @@ Team building can be very intimidating if you are starting out. Here are the bas
 >[!tip] Myth companion
 >You can use myth companion on *any* solar cards (or even without them).
 # Assembling a team
-In team window you have: 
-- Stellas for stage.
-- Weapon choice button - you can change weapon here
-- Companion choice button - change companion for LI
-- 6 slots for cards - 2 solars and 4 lunars (not all of the 6 slots have to be filled to start battle)
-- "Details" button to see team stats
+Before you can enter a battle, you must pick the team that you will bring into combat with you. A team is made up of a maximum of 6 cards, and must all be of one LI.
+
 <p style="text-align: center;"> <img src="/Images/teamUI.png" alt="Team window" /> </p>
+
+In team window you have: 
+- **Information**: This button opens up a quick summary of all the info in this guide if you need a reminder.
+- **Team Stats**: This opens up a summary of the team stats of your current equipped memories. It includes a table of the sum of all the stats of the memories used in the team as well at the active pair bonuses (if available).
+
+>[!warning] Oath Recovery Boost
+>Any oath boost from an R1 solar pair bonus is not shown here as part of the Oath Recovery Boost.
+<p style="text-align: center;"> <img src="/Images/team_stats.jpg" alt="Team stats" /> </p>
+
+>[!tip] Sharing stats
+>When discussing teams or asking for help in the LaDs Discord server, give a screenshot of both the main team set up page as well as the team stats page so helpers can more easily give you advice.
+
+- **Recommended Memory Level**: The game puts a recommendation for what level your memories should be to easily beat the stage. Note that while this is useful in early and story battles, it quickly over-recommends levels on orbits and SHC because it does not take into account cores. Following this recommendation too early will result in mismanagement of stamina. Refer to our [[Starting point]] guide for player recommended starter card levels.
+
+>[!note]- Expert note
+>The game has a damage formula that takes into account the difference between enemy level and the average level of the team. The bigger the difference between these two values, the less damage your team does to this enemy. In general, this difference is not notable enough to be considered when building your team stats.
+
+- **Change Weapon/Change Companion**: These two circles allow you to customize what you bring into battle. Both will open into the overall same interface that will allow you to change your companion, your weapon or your battle outfit. All free and myth companions are available to use for any team of the same LI, regardless of the cards used. All [|hunter weapons] can be used with any companion (including myths), while exclusive weapons can only be used with their matching myth companion. Battle outfits do not change combat at all and are only changed for aesthetics.
+- **Change Companion Outfit**: Make your partner look pretty in battle if you have an alternate outfit available for the companion. 💅 Has no effect on battle abilities.
+- **Team Assembly**: Here you can change memories that are equipped to the team. Tap any of the boxes to enter the memories choosing page. For battles outside of directional orbits, if you want to change LI, you must empty the entire team and choose memories again.
+- **Team Auto Equip**: Let the computer choose a team based on certain priorities (default, rarity, level, rank). In general, it will try to match the stage’s stella first. We do not recommend using this function at all since it does not take into account your cores or your main LI.
+- **View & Apply Pre-set teams**: If you have any teams set up on your memories page, this button will pull them up and allow you to quickly equip those teams.
+- **Enter Battle**: Let’s go combat! Only click this button once you are ready, as you cannot return from combat to make changes without exiting.
+
+>[!warning]
+>Note that for battles that require two teams, make sure you are happy with **both** team set-ups before entering battle.
 
 # The Team Assembly Plan
 ## Stellactrum

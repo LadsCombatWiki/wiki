@@ -68,17 +68,12 @@ body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content {
   padding: 0.25rem;
   /*! width: 100%; */
   display: grid;
+  /*
+  // flex amount of tabs
   grid-template-columns: repeat(auto-fill, minmax(11rem, max-content));
+  */
+  grid-template-columns: auto auto auto auto; // 4 tabs but adjust size
   gap: 0 1rem;
-
-  @media all and ($tablet) {
-    grid-template-columns: repeat(auto-fill, minmax(5rem, max-content));
-  }
-
-  @media all and ($mobile) {
-    grid-template-columns: repeat(auto-fill, minmax(3rem, max-content));
-  }
-
 }
 
 [data-callout="tabbed"] > .callout-title {
