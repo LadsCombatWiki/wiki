@@ -31,7 +31,7 @@ The bottom half of the screen is where the majority of the active combat control
 <p style="text-align: center;"> <img src="/Images/battle_controls/dirrect_dodge.gif" alt="Direct Dodge" /> </p>
 
 - **Perfect Dodge**: If this button is tapped at the exact time that an enemy is about to attack MC, this is called a “Perfect Dodge”. A perfect dodge will trigger an empowered support skill (see below).
-- **Basic Attack**: Tapping the button will make MC use her basic attack. Tapping repeatedly will execute a chain of basic attacks. Usually chain of attacks is calling as 4BA or 2BA, etc. It that case number before BA indicates how much attack in chain you need to do.
+- **Basic Attack (BA)**: Tapping the button will make MC use her basic attack. Tapping repeatedly will execute a chain of basic attacks. Usually chain of attacks is calling as 4BA or 2BA, etc. It that case number before BA indicates how much attack in chain you need to do.
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/BA.gif" alt="Basic attack" /> </p>
 <p style="text-align: center;"> <img src="/Images/battle_controls/4BA.gif" alt="Chain of 4 Basic attacks" /> </p>
@@ -40,7 +40,7 @@ The bottom half of the screen is where the majority of the active combat control
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/2BA.gif" alt="Chain of 2 Basic attacks with cancel" /> </p>
 
-- **Charged Attack**: Holding the button will make MC use a charged attack. 
+- **Charged Attack (CA)**: Holding the button will make MC use a charged attack. 
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/CA.gif" alt="Charged attack" /> </p>
 
@@ -85,3 +85,6 @@ When an enemy is weakened, they cannot take normal or critical damage. All damag
 
 >[!tip] Why does this matter?
 > When [[Team building#Assembling a team|assembling teams]], it is important to know what sort of enemies are in the stage - this will determine how often the enemy is in a state when it will take normal & critical damage, vs a state when it will take weakened damage.
+
+---
+<sup>v1.0 by @jayci_3280 @kemrian. Proofreading by @anan1n @.kitty143</sup>

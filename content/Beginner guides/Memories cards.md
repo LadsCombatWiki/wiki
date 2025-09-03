@@ -54,7 +54,8 @@ Pair bonuses for 4* solar pairs are all the same: 
 - R2: Reduces DMG taken by 5%
 - R3: Increase DMG by 5%
 
-Pair bonuses for 5* solar pairs (myths) have both standard bonuses as well as unique additions to the companion kit (listed in their individual companion guides). 
+Pair bonuses for 5* solar pairs (myths) have both passive bonuses as well as active bonuses that are unique to the companion kit (listed in their individual companion guides).
+Passive bonuses are the same for all myth pairs:
 - R0: Increases DMG by 8% and reduces DMG taken by 8%
 - R1: Boost oath recovery boost by 20%
 - R2: Adds a permanent extra energy charge (also unlocks the special colour for the companion)
@@ -69,14 +70,14 @@ When discussing Myth companions, “R-1” is often to used to describe a team u
 >[!example]- Myth companion on 4* solar pair
 >For example, in the below team set up, the solar pair is the 4 star R1 VL, but the companion is Lightseeker. Lightseeker has his own 5 star solar cards (LT), which are not deployed on this team. In this team, only the VL pair bonuses apply, and none of the LT pair bonuses apply (if your account has an R3 LT pair, none of those pair bonuses apply to this R1 VL team).
 >
->In this case, we often call it an R-1 LT: you can use LT’s base companion kit, but do not have access to any of the pair bonuses. This can often completely change the companion’s gameplay.
+>In this case, we often call it an R-1 LT: you can use LT’s base companion kit, but do not have access to any of the myth pair bonuses. This can often completely change the companion’s gameplay.
 >
 ><p style="text-align: center;"> <img src="/Images/memories cards/r-1_4starpair.jpg" alt="Myth companion on 4* solar pair" /> </p>
 
 >[!example]- Myth companion with different 5* solar pair
 >In the case of using Myth companions with 5 star solar cards that do not belong to the companion, then the standard 5* bonuses would apply, but not the companion specific bonuses. This can be done by clicking on the floating circle to the right of your companion - any companion can be used with any team of the same LI.
 >
->For example, in the Sylus team below, the myth Abysm Sovereign (AS) companion is being used on a R2 Relentless Conqueror (CA) solar pair. In this case, the R-1 AS companion would have the 8% DMG bonus, 8% reduced DMG taken, 20% oath recovery, and the 4th energy charge granted by the R2 CA standard pair bonuses, but none of the kit specific bonuses (listed in the companion guide). Typically, the higher the rank of the 5* solar pair cards, the less ideal it is to use a different companion, as you lose out on a lot of additional damage from the companion-specific pair bonuses.
+>For example, in the Sylus team below, the 5* Abysm Sovereign (AS) companion is being used on a R2 Relentless Conqueror (CA) solar pair. In this case, the R-1 AS companion would have the 8% DMG bonus, 8% reduced DMG taken, 20% oath recovery, and the 4th energy charge granted by the R2 CA passive pair bonuses, but none of the kit specific bonuses (listed in the companion guide). Typically, the higher the rank of the 5 star solar pair cards, the less ideal it is to use a different companion, as you lose out on a lot of additional damage from the companion-specific pair bonuses.
 >
 ><p style="text-align: center;"> <img src="/Images/memories cards/r-1_5starpair.jpg" alt="Myth companion on 5* solar pair" /> </p>
 # How to Read a Card’s Stats
@@ -91,14 +92,14 @@ Clicking on the details button opens up a box that breaks down all the stats on 
 ## Basic Stats
 The card’s base stats are listed in **Black**, while any additional stats from cores are listed in **Yellow**. In the above example, the equipped cores have no added HP and DEF, but add 394 ATK, 8.8% crit rate and 4.3% crit dmg. The sum of the black and yellow values are shown on the main memory screen (for example, 480 + 394 ATK add up to the 874 ATK in the previous image)
 ## Advanced Stats
-Listed here are things like Oath’s Strength, Expedited Energy Boost, Oath Recovery Boost and DMG Boost to Weakened. The DMG Boost to Weakened value includes any core substats as well as talent bonus. In the above image, there is a total of 5.9% D2W: 1.2% comes from the card talent, and the remaining 4.7% is from the equipped cores.
+Listed here are Oath’s Strength, Expedited Energy Boost, Oath Recovery Boost and DMG Boost to Weakened. The DMG Boost to Weakened value includes any core substats as well as talent bonus. In the above image, there is a total of 5.9% D2W: 1.2% comes from the card talent, and the remaining 4.7% is from the equipped cores.
 
 >[!warning] Oath Recovery Boost
->Any oath boost from an R1 solar pair bonus is not shown here as part of the Oath Recovery Boost.
+>Any oath boost from an R1 solar pair passive bonus is not shown here as part of the Oath Recovery Boost stat.
 ## Card Talents
-All cards come with a talent that is used to increase the D2W boost. Card talents **should not** be considered in most team set-ups, and are only used to passively add additional D2W stats to the team. Advanced players can try to match lunar talents with their companion if they are brute forcing or using minstats for a stage. 
+All cards come with a talent that is used to increase the card's D2W. Card talents **should not** be considered in most team set-ups, and are only used to passively add additional D2W stats to the team. Advanced players can try to match lunar talents with their companion if they are brute forcing or using minstats for a stage. 
 
-A card’s talent is used to determine the card’s base stats, and are not dependent on whether it is a solar card or a lunar card. All 5* cards with an ATK talent at the same rank will have the same base stats, all 5* cards with an HP talent at the same rank will have the same base stats, etc. 
+A card’s talent is used to determine the card’s base stats, and are not dependent on whether it is a solar card or a lunar card. All 5 star cards with an ATK talent at the same rank will have the same base stats, all 5 star cards with an HP talent at the same rank will have the same base stats, etc.
 ## Cards stats table
 
 ![[Cards stats table#5 star cards]]

@@ -7,6 +7,8 @@ tags:
 - **LI** - love interest.
 - **OG3** - refers to original 3 men: Xavier, Rafayel, Zayne.
 - **RNG** - “random number generation” except no one actually calls it that. Basically just the randomness of anything (trust us, this game’s combat has way too much RNG to explain here). A “good RNG run” means that lady luck was on your side and you got lots of high damage numbers.
+- **Minstat** - using very low overall stats to clear a stage. Usually the lowest stats that can be used to clear that stage.
+- **Overstat** - the team’s stats are a good deal higher than is needed to beat the stage if the companion’s kit is played properly
 ## Companion kit
 - **Companion** - this is who you fight alongside in battles.
 - **Free companion** - the game gives free 4* companions for all LI.
@@ -48,6 +50,10 @@ tags:
 - **Ardent Oath (oath)** - consumes the oath charge to deal an “ultimate” attack with your companion.
 - **Support skill** - your companion’s icon to command him to perform his special attack.
 	- **Empowered support** - when you trigger a perfect dodge, your companion’s support will become fully charged and deal special damage if used when it is flashing.
+- **Shield Lock** - some enemies enter a phase that prevents their protocore shields from breaking from a resonance skill.
+- **HP Lock**- some enemies enter a phase that prevents any damage from being dealt to it.
+- **Boss** - typical only appear in stages by themselves and half special skills like HP lock; have 4 protocore shields.
+- **Mob** - typically appear in groups and have lower HP and easier-to-deal-with skills; have 2 or no protocore shields.
 ## Stats
 - **Base stat** - a card’s fixed stats. The black stats in card description.
 - **Mainstat** - the top most line on a core.
@@ -65,9 +71,12 @@ tags:
 - **Roll** - a term used to describe increasing the levels, usually of a substat, on a core.
 ## LI's pairs
 **Xavier**:
+5 star:
 - LT - [Lightseeker] (Standard Myth, green)
 - MN - [Lumiere] (Limited Myth, yellow)
 - NV - [King of Darknight] (Limited Myth, red)
+
+4 star:
 - LS - green
 - SN - yellow
 - HC - red
@@ -75,31 +84,43 @@ tags:
 - GX - blue
 
 **Rafayel**:
+5 star:
 - AB - [Abysswalker] (Standard Myth, purple)
 - TP - [God of the Tides] (Limited Myth, pink)
 - MS - [Lemurian Sea God] (Limited Myth, yellow)
+
+4 star:
 - RD - purple
 - DT - pink
 - HC - yellow
 - TF - green
 
 **Zayne**:
+5 star:
 - FS - [Foreseer] (Standard Myth, blue)
 - SF - [Master of Fate] (Limited Myth (red)
+
+4 star:
 - TQ - blue 
 - NT - red
 - HC - pink
 - FR - yellow
 
 **Sylus**:
+5 star:
 - CA - [Relentless Conqueror] (Standard Myth, pink)
 - AS - [Abysm Sovereign] (Limited Myth, green)
+
+4 star:
 - RZ - pink
 - BN - blue
 
 **Caleb**:
+5 star:
 - FA - [Farspace Colonel] (Standard Myth, red)
 - LR - [Ultimate Weapon X-02] (Limited Myth, purple)
+
+4 star:
 - FD - green
 - LO - red
 
