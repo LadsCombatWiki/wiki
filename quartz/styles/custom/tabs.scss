@@ -1,0 +1,76 @@
+@use "../base.scss";
+@use "../variables.scss" as *;
+
+
+/*
+author: FireIsGood
+source: https://discord.com/channels/686053708261228577/702656734631821413/1092995965583114341
+*/
+/* Adapted from FireIsGood snippet for Quartz compatibility by kapirklaa*/
+
+[data-callout="tabbed"] {
+  outline: 1px solid var(--color-base-30);
+  border-radius: 0.5rem;
+}
+[data-callout="tabbed"] > .callout-content > .callout-content-inner,
+body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content {
+  padding: 0.25rem;
+  /*! width: 100%; */
+  display: grid;
+  /*
+  // flex amount of tabs
+  grid-template-columns: repeat(auto-fill, minmax(11rem, max-content));
+  */
+  grid-template-columns: auto auto auto auto; // 4 tabs but adjust size
+  gap: 0 1rem;
+}
+
+[data-callout="tabbed"] > .callout-title {
+  display: none;
+}
+[data-callout="tabbed"] > .callout-content > .callout-content-inner p,
+body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content p {
+  margin: 0;
+}
+[data-callout="tabbed"] > .callout-content > .callout-content-inner label > input,
+body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content label > input {
+  display: none;
+}
+[data-callout="tabbed"] > .callout-content > .callout-content-inner label,
+body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content label {
+  width: 100%;
+  display: inline-block;
+  padding: 0.15rem 0.75ch;
+  //border-radius: 1rem;
+
+  color: #ccc;
+  background-color: var(--lightgray);
+  
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.15rem;
+  cursor: pointer;
+}
+[data-callout="tabbed"] > .callout-content > .callout-content-inner label:has(input:checked),
+body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content label:has(input:checked) {
+  color: white;
+  background-color: var(--gray);
+}
+[data-callout="tabbed"] > .callout-content > .callout-content-inner p:not(:has(label input:checked)) + blockquote,
+body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content p:not(:has(label input:checked)) + blockquote {
+  display: none;
+}
+[data-callout="tabbed"] > .callout-content > .callout-content-inner > blockquote,
+body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content > blockquote {
+  order: 999;
+  grid-column: 1 / -1;
+
+  background-color: transparent;
+  padding-left: 0;
+  border: 0;
+}
+
+.callout-content img
+{
+  margin: 0.3rem 0;
+}
