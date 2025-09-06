@@ -4,6 +4,7 @@ draft: false
 tags:
 ---
 # Battle Controls
+
 Despite being marketed as an otome game, LaDs has significant combat gameplay modes. All combat stages have a similar layout:
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/combat_ui.png" alt="Combat UI" /> </p>

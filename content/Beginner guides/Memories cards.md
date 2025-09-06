@@ -8,6 +8,12 @@ Cards in Love and Deepspace are called “Memories”. They can have varying ste
 <p style="text-align: center;"> <img src="/Images/memories cards/card_ui.png" alt="Card UI" /> </p>
 
 # Stellactrum
+> [!caption|right]
+> 
+> ![[LI_stellas.png]]
+> 
+> LI's stellas
+
 All cards can be sorted by their stellactrum, or stella for short. There are only six stella that each card will be sorted into: 
 - Emerald (green)
 - Sapphire (blue)
@@ -17,8 +23,6 @@ All cards can be sorted by their stellactrum, or stella for short. There are onl
 - Pearl (pink) 
 
 Each LI will have a stella prioritization (below table), meaning they are more likely to have cards of a certain stella. 
-
-<p style="text-align: center;"> <img src="/Images/memories cards/LI_stellas.png" alt="LI's Stellas" /> </p>
 
 Primary and secondary stella are essential for fighting in orbits and should be leveled first. Tertiary colours become important when fighting in high level orbits with the release of 3rd generation myths. 4th, 5th, and 6th stella are considered “off colour” and are considered low priority when managing resources to level cards. 
 
@@ -87,7 +91,11 @@ Each card is individually built and a summary of the card’s stats can be seen 
 
 Clicking on the details button opens up a box that breaks down all the stats on that card that are not summarized on the main screen. There are three sections: basic stats, advanced stats, and card talent: 
 
-<p style="text-align: center;"> <img src="/Images/memories cards/card_stats_long.jpg" alt="Card stats in detail" /> </p>
+> [!caption|left]
+> 
+> ![[card_stats_long.jpg]]
+> 
+> Stats menu
 
 ## Basic Stats
 The card’s base stats are listed in **Black**, while any additional stats from cores are listed in **Yellow**. In the above example, the equipped cores have no added HP and DEF, but add 394 ATK, 8.8% crit rate and 4.3% crit dmg. The sum of the black and yellow values are shown on the main memory screen (for example, 480 + 394 ATK add up to the 874 ATK in the previous image)

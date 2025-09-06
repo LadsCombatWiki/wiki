@@ -114,3 +114,8 @@ Here are some core basics to understand before you start using our companion gui
 > >  </table>
 > > </div>
 
+<Carousel>
+<img src="Images/protocores_basics/cope/cope_1.png" alt="First image">
+<img src="Images/protocores_basics/cope/cope_2.png" alt="First image">
+<img src="Images/protocores_basics/cope/cope_3.png" alt="First image">
+</Carousel>
