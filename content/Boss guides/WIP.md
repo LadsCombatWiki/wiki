@@ -20,5 +20,3 @@ tags:
 <img src="frenzy2ndwave.png" alt="Second image">
 <img src="frenzy3rdwave.png" alt="Third image">
 </Carousel>
-
-![[cope_1.png]]![[cope_2.png]]![[cope_3.png]]
