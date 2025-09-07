@@ -7,7 +7,7 @@ tags:
 ## 5 star cards
 
 >[!tip]- ATK talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="5atk" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/5atk-r0.png" /> </p>
@@ -22,7 +22,7 @@ tags:
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/5atk-r3.png" /> </p>
 
 >[!tip]- HP talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="5hp" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/5hp-r0.png" /> </p>
@@ -37,7 +37,7 @@ tags:
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/5hp-r3.png" /> </p>
 
 >[!tip]- DEF talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="5def" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/5def-r0.png" /> </p>
@@ -53,7 +53,7 @@ tags:
 
 ## 4 star cards
 >[!tip]- ATK talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="4atk" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/4atk-r0.png" /> </p>
@@ -68,7 +68,7 @@ tags:
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/4atk-r3.png" /> </p>
 
 >[!tip]- HP talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="4hp" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/4hp-r0.png" /> </p>
@@ -83,7 +83,7 @@ tags:
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/4hp-r3.png" /> </p>
 
 >[!tip]- DEF talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="4def" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/4def-r0.png" /> </p>
@@ -99,7 +99,7 @@ tags:
 
 ## 3 star cards
 >[!tip]- ATK talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="3atk" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/3atk-r0.png" /> </p>
@@ -114,7 +114,7 @@ tags:
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/3atk-r3.png" /> </p>
 
 >[!tip]- HP talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="3hp" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/3hp-r0.png" /> </p>
@@ -129,7 +129,7 @@ tags:
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/3hp-r3.png" /> </p>
 
 >[!tip]- DEF talented
-> > [!tabbed] Tables 
+> > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="3def" checked="checked"/></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/3def-r0.png" /> </p>

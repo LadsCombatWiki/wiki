@@ -28,7 +28,7 @@ Flat stats add directly to the card’s base stat while bonus stats add a multip
 # Core Classifications
 > [!tabbed] cores 
 > 
-> <label>Alpha 𝛂 - “Diamond”<input type="radio" name="cores" checked="checked"/></label>
+> <label>Alpha 𝛂 - Diamond<input type="radio" name="cores" checked="checked"/></label>
 > > <div class="borderless-table">
 > ><table>
 > >  <tr>
@@ -51,7 +51,7 @@ Flat stats add directly to the card’s base stat while bonus stats add a multip
 > >  </table>
 > > </div>
 > 
-> <label>Beta β - “Cube”<input type="radio" name="cores" /></label>
+> <label>Beta β - Cube<input type="radio" name="cores" /></label>
 > > <div class="borderless-table">
 > ><table>
 > >  <tr>
@@ -79,7 +79,7 @@ Flat stats add directly to the card’s base stat while bonus stats add a multip
 > >  </table>
 > > </div>
 > 
-> <label>Gamma ɣ - “Spikey”<input type="radio" name="cores" /></label>
+> <label>Gamma ɣ - Spikey<input type="radio" name="cores" /></label>
 > > <div class="borderless-table">
 > ><table>
 > >  <tr>
@@ -102,7 +102,7 @@ Flat stats add directly to the card’s base stat while bonus stats add a multip
 > >  </table>
 > > </div>
 > 
-> <label>Delta δ - “Triangle”<input type="radio" name="cores" /></label>
+> <label>Delta δ - Triangle<input type="radio" name="cores" /></label>
 > > <div class="borderless-table">
 > ><table>
 > >  <tr>
