@@ -138,7 +138,7 @@ Regardless of mainstat level or type, a core can have a minimum of TWO substats,
 >Cores with 4 substats have an overall higher roll value and zero chance of adding an undesirable substat, compared to cores with 2 substats that have the risk of adding a dead stat. However, 2-liner cores have greater potential for a very high single substat value.
 >
 >For example, the two cores below are both excellent for an atk-scaling companion. The one on the left is overall very good, but it would be impossible to get 35.5% ATK bonus on it like the core on the right.
-> >[!column]
+> >[!column | flex]
 > > >[!note| clean no-t center]
 > > >
 > > > ![[core_4lines.jpg]]
@@ -170,7 +170,7 @@ In general we have 3 types of builds for different kind of stages. Usually deter
 - Full d2w consist from **1cr + 3d2w or 4d2w**.
 >[!example]- Example d2w build
 >The field stella is 4 purple and 2 yellow and this team matches it. If this is a shielded mob level, a full D2W build is recommended. All four triangle cores have a D2W mainstat. 
-> >[!Column]
+> >[!Column | flex]
 > > > [!note | clean no-t center]
 > > > 
 > > > ![[d2w_example_1.jpg]]
@@ -181,7 +181,7 @@ In general we have 3 types of builds for different kind of stages. Usually deter
 - Hybrid build consist from **2 crit rate (or 1 crit rate + 1 crit dmg) + 2 d2w.**
 >[!example]- Example hybrid build
 >The field stella is 4 purple and 2 yellow and this team matches it. If this is a boss level, a hybrid build is recommended. This usually means 1 CR, 1CD and 2 D2W cores. Try to get a minimum of 40-50 CR. This is also a possible build for stella-matched stages with mixed shielded and unshielded mobs. 
-> >[!Column]
+> >[!Column | flex 2]
 > > > [!note | clean no-t center]
 > > > 
 > > > ![[d2w_example_1.jpg]]
@@ -192,7 +192,7 @@ In general we have 3 types of builds for different kind of stages. Usually deter
 - Crit build consist from **only crit rate and crit dmg**. You should follow recommended crit ration for those build to determine which main stats you need to pick for deltas. Usually they are 2 crit rate + 2 crit dmg.
 >[!example]- Example crit build
 >The field stella is 4 purple and 2 yellow and this team does not match . If this is a boss level, a brute force / crit build is recommended. All four triangle cores have either CR or CD as a main stat, with the goal of achieving the recommended ratios. In cases where the stage cannot be stella matched, but includes only shielded mobs, a hybrid build can be considered.
-> >[!Column]
+> >[!Column | flex]
 > > > [!note | clean no-t center]
 > > > 
 > > > ![[crit_example_1.jpg]]
