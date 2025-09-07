@@ -44,21 +44,24 @@ Cards are sorted into solar or lunar functionality and are identified by symbols
 
 Once you’ve reached Hunter Level 40, you will have access to a full team of 6 cards/memories. Each memory’s stats are added to the total team’s stats and not all of the 6 slots have to be filled to be deployed.
 - Lunar cards do not provide any bonus to the team, only stats.
-- Solar cards grand a special boost to the team from “pair bonus” have the potential of boosting the overall team’s damage through pair bonuses. 
+- Solar cards grant a special boost to the team from “pair bonuses” and can change a companion’s gameplay.
 ## Solar Pairs
-Apart from 3 stars, solar cards come as a pair and are identified by a **ribbon with two letters** on their memory icon. When two solar cards have matching letters, they activate a “**pair bonus**”. The amount of pair bonuses they get depends on the overall rank of the pair (the lowest rank of the two cards).
+Apart from 3 stars, solar cards come as a pair and are identified by a **ribbon with two letters** on their memory icon. When two solar cards have matching letters, they activate a “**pair bonus**”.
+>[!WARNING] Ranked solar pair
+>A solar pair is only considered ranked when **both** cards have been ranked to the same level. If they are not the same, the rank of the pair will be the same as the card with the lowest rank.
 
-For example, in the image below, the pair in use is an “R1 VL”. Rank bonuses are additive (if you have an R2 pair, you receive all the bonuses listed for R0, R1, and R2).
+For example, in the image below, the pair in use is an “R1 VL”.
 
 <p style="text-align: center;"> <img src="/Images/memories cards/pair_ribbon.png" alt="Pair Symbols" /> </p>
 
-Pair bonuses for 4* solar pairs are all the same: 
+Pair bonuses for 4 star solar pairs are all the same: 
 - R0: Increases DMG by 5%
 - R1: Boost oath recovery boost by 10%
 - R2: Reduces DMG taken by 5%
 - R3: Increase DMG by 5%
 
-Pair bonuses for 5* solar pairs (myths) have both passive bonuses as well as active bonuses that are unique to the companion kit (listed in their individual companion guides).
+Pair bonuses for 5 star solar pairs (myths) have both passive bonuses as well as active bonuses that are unique to the companion kit (listed in their individual companion guides).
+
 Passive bonuses are the same for all myth pairs:
 - R0: Increases DMG by 8% and reduces DMG taken by 8%
 - R1: Boost oath recovery boost by 20%
@@ -69,7 +72,7 @@ Passive bonuses are the same for all myth pairs:
 >Pair bonuses are additive (ex. if you have an R2 pair, you receive all the bonuses listed for R0, R1, and R2).
 
 ### R-1
-When discussing Myth companions, “R-1” is often to used to describe a team using a Myth companion that does not match the solar pair cards. 
+When discussing Myth companions, “R-1” is often used to describe a team using a Myth companion that does not match the solar pair cards. 
 
 >[!example]- Myth companion on 4* solar pair
 >For example, in the below team set up, the solar pair is the 4 star R1 VL, but the companion is Lightseeker. Lightseeker has his own 5 star solar cards (LT), which are not deployed on this team. In this team, only the VL pair bonuses apply, and none of the LT pair bonuses apply (if your account has an R3 LT pair, none of those pair bonuses apply to this R1 VL team).
@@ -79,7 +82,7 @@ When discussing Myth companions, “R-1” is often to used to describe a team u
 ><p style="text-align: center;"> <img src="/Images/memories cards/r-1_4starpair.jpg" alt="Myth companion on 4* solar pair" /> </p>
 
 >[!example]- Myth companion with different 5* solar pair
->In the case of using Myth companions with 5 star solar cards that do not belong to the companion, then the standard 5* bonuses would apply, but not the companion specific bonuses. This can be done by clicking on the floating circle to the right of your companion - any companion can be used with any team of the same LI.
+>In the case of using Myth companions with 5 star solar cards that do not belong to the companion, then the standard 5* bonuses would apply, but not the companion-specific bonuses.
 >
 >For example, in the Sylus team below, the 5* Abysm Sovereign (AS) companion is being used on a R2 Relentless Conqueror (CA) solar pair. In this case, the R-1 AS companion would have the 8% DMG bonus, 8% reduced DMG taken, 20% oath recovery, and the 4th energy charge granted by the R2 CA passive pair bonuses, but none of the kit specific bonuses (listed in the companion guide). Typically, the higher the rank of the 5 star solar pair cards, the less ideal it is to use a different companion, as you lose out on a lot of additional damage from the companion-specific pair bonuses.
 >
@@ -91,11 +94,7 @@ Each card is individually built and a summary of the card’s stats can be seen 
 
 Clicking on the details button opens up a box that breaks down all the stats on that card that are not summarized on the main screen. There are three sections: basic stats, advanced stats, and card talent: 
 
-> [!caption|left]
-> 
-> ![[card_stats_long.jpg]]
-> 
-> Stats menu
+<p style="text-align: center;"> <img src="/Images/memories cards/card_stats_long.png" alt="Card stats in long" /> </p>
 
 ## Basic Stats
 The card’s base stats are listed in **Black**, while any additional stats from cores are listed in **Yellow**. In the above example, the equipped cores have no added HP and DEF, but add 394 ATK, 8.8% crit rate and 4.3% crit dmg. The sum of the black and yellow values are shown on the main memory screen (for example, 480 + 394 ATK add up to the 874 ATK in the previous image)

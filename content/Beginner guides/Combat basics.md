@@ -32,12 +32,12 @@ The bottom half of the screen is where the majority of the active combat control
 <p style="text-align: center;"> <img src="/Images/battle_controls/dirrect_dodge.gif" alt="Direct Dodge" /> </p>
 
 - **Perfect Dodge**: If this button is tapped at the exact time that an enemy is about to attack MC, this is called a “Perfect Dodge”. A perfect dodge will trigger an empowered support skill (see below).
-- **Basic Attack (BA)**: Tapping the button will make MC use her basic attack. Tapping repeatedly will execute a chain of basic attacks. Usually chain of attacks is calling as 4BA or 2BA, etc. It that case number before BA indicates how much attack in chain you need to do.
+- **Basic Attack (BA)**: Tapping the button will make MC use her basic attack. Tapping repeatedly will execute a chain of basic attacks. Usually, a chain of attacks is referred to as 4BA or 2BA, etc.  The number before BA indicates how many attacks in the chain you need to do.
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/BA.gif" alt="Basic attack" /> </p>
 <p style="text-align: center;"> <img src="/Images/battle_controls/4BA.gif" alt="Chain of 4 Basic attacks" /> </p>
 
-- **Cancel animation**: dodge button often use to cancel animation or to interrupt chains of attacks. Sometimes in guides it is recommend to not do full chain of BA. In that case you need to dodge to interrupt it.
+- **Cancel animation**: The dodge button is often uses to cancel long skill animations or to interrupt chains of attacks. Sometimes in guides, it is recommended to not do the full chain of BA. In that case you need to dodge to interrupt it.
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/2BA.gif" alt="Chain of 2 Basic attacks with cancel" /> </p>
 
@@ -53,7 +53,7 @@ The bottom half of the screen is where the majority of the active combat control
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/reso.gif" alt="Resonance skill" /> </p>
 
-- **Ardent Oath**: Can be considered an ultimate (ult) attack. MC and companion will work together to unless a heavier attack. It comes with an animation that does not use up battle time and can be skipped if allowed in the battle settings. 
+- **Ardent Oath**: Can be considered an ultimate (ult) attack. MC and companion will work together to unleash a heavier attack. It comes with an animation that does not use up battle time and can be skipped if allowed in the battle settings. 
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/oath.gif" alt="Ardent Oath" /> </p>
 

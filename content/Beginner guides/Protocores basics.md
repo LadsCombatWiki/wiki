@@ -137,7 +137,7 @@ Regardless of mainstat level or type, a core can have a minimum of TWO substats,
 >[!note]+ Expert note: 
 >Cores with 4 substats have an overall higher roll value and zero chance of adding an undesirable substat, compared to cores with 2 substats that have the risk of adding a dead stat. However, 2-liner cores have greater potential for a very high single substat value.
 >
->For example, the two cores below are both excellent for an atk-scaling companion. The one on the left is overall very good, but it would be impossible to get 35.5% ATK bonus on it like the core on the right.
+>For example, the two cores below are both excellent for an atk-scaling companion. The one on the left is overall very good, but it would be impossible to get 35.5% ATK bonus on it like the purple core.
 > >[!column | flex]
 > > >[!note| clean no-t center]
 > > >
