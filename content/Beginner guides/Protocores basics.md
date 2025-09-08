@@ -189,7 +189,7 @@ In general we have 3 types of builds for different kind of stages. Usually deter
 > > > [!note | clean no-t center]
 > > > 
 > > > ![[hybrid_example_2.jpg]]
-- Crit build consist from **only crit rate and crit dmg**. You should follow recommended crit ration for those build to determine which main stats you need to pick for deltas. Usually they are 2 crit rate + 2 crit dmg.
+- Crit build consist from **only crit rate and crit dmg**. You should follow recommended crit ratio for those build to determine which main stats you need to pick for deltas. Usually they are 2 crit rate + 2 crit dmg.
 >[!example]- Example crit build
 >The field stella is 4 purple and 2 yellow and this team does not match . If this is a boss level, a brute force / crit build is recommended. All four triangle cores have either CR or CD as a main stat, with the goal of achieving the recommended ratios. In cases where the stage cannot be stella matched, but includes only shielded mobs, a hybrid build can be considered.
 > >[!Column | flex]
