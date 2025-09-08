@@ -3,18 +3,16 @@ title: Home page
 ---
 Welcome to Love and Deepspace combat wiki.
 
-A lot of guides still are WIP but we have ready for you guides for newbies in combat and general building. You can pick whatever guide you need first and read them but we have a recommended pattern. Those guides where written with thought in mind that you know information from previous.
+Our beginner guides are ready to help you take the first steps into understanding combat in this game! We understand that some guides are still missing, and we will continue to work on updates to this site so please be patient! In the meantime, enjoy your time here and we hope you can learn lots about the complicated battle mechanics in this game. 
 
-The recommended order:
+For those who are completely new to combat, we recommend reading in the following order:
 1. [[Starting point]]
 2. [[Memories cards]]
 3. [[Team building]]
 4. [[Combat basics]]
 5. [[Protocores basics]]
 
-While protocores guide is listed last, you also can read it after guide about [[Memories cards]]. Depends if you unlocked protocore farms or not.
-
-If you are lost in battle terms you can always refer to [[Glossary]].
+Feel free to explore out of order, but keep in mind we may reference content in a previous guide. If you ever get lost with some of the terminology, you can also head to the [[Glossary]] for a refresher.
 
 Disclaimer: 
 
