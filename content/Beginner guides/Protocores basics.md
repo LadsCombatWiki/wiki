@@ -167,7 +167,7 @@ Choosing between crit and d2w cores is based solely on the stage/enemy and wheth
 
 ### Types of builds
 In general we have 3 types of builds for different kind of stages. Usually determines by main stats on delta cores, but also for higher stages in orbit it is useful to have those stats in substats. Those builds are: full d2w build, hybrid build and crit build.
-- Full d2w consist from **1cr + 3d2w or 4d2w**.
+- Full d2w consists from **1cr + 3d2w or 4d2w**.
 >[!example]- Example d2w build
 >The field stella is 4 purple and 2 yellow and this team matches it. If this is a shielded mob level, a full D2W build is recommended. All four triangle cores have a D2W mainstat. 
 > >[!Column | flex]
@@ -178,7 +178,7 @@ In general we have 3 types of builds for different kind of stages. Usually deter
 > > > [!note | clean no-t center]
 > > > 
 > > > ![[d2w_example_2.jpg]]
-- Hybrid build consist from **2 crit rate (or 1 crit rate + 1 crit dmg) + 2 d2w.**
+- Hybrid build consists from **2 crit rate (or 1 crit rate + 1 crit dmg) + 2 d2w.**
 >[!example]- Example hybrid build
 >The field stella is 4 purple and 2 yellow and this team matches it. If this is a boss level, a hybrid build is recommended. This usually means 1 CR, 1CD and 2 D2W cores. Try to get a minimum of 40-50 CR. This is also a possible build for stella-matched stages with mixed shielded and unshielded mobs. 
 > >[!Column | flex 2]
@@ -189,7 +189,7 @@ In general we have 3 types of builds for different kind of stages. Usually deter
 > > > [!note | clean no-t center]
 > > > 
 > > > ![[hybrid_example_2.jpg]]
-- Crit build consist from **only crit rate and crit dmg**. You should follow recommended crit ratio for those build to determine which main stats you need to pick for deltas. Usually they are 2 crit rate + 2 crit dmg.
+- Crit build consists from **only crit rate and crit dmg**. You should follow recommended crit ratio for those builds to determine which main stats you need to pick for deltas. Usually they are 2 crit rate + 2 crit dmg.
 >[!example]- Example crit build
 >The field stella is 4 purple and 2 yellow and this team does not match . If this is a boss level, a brute force / crit build is recommended. All four triangle cores have either CR or CD as a main stat, with the goal of achieving the recommended ratios. In cases where the stage cannot be stella matched, but includes only shielded mobs, a hybrid build can be considered.
 > >[!Column | flex]
