@@ -94,7 +94,7 @@ Each card is individually built and a summary of the card’s stats can be seen 
 
 Clicking on the details button opens up a box that breaks down all the stats on that card that are not summarized on the main screen. There are three sections: basic stats, advanced stats, and card talent: 
 
-<p style="text-align: center;"> <img src="/Images/memories cards/card_stats_long.png" alt="Card stats in long" /> </p>
+<p style="text-align: center;"> <img src="/Images/memories cards/card_stats_long.jpg" alt="Card stats in long" /> </p>
 
 ## Basic Stats
 The card’s base stats are listed in **Black**, while any additional stats from cores are listed in **Yellow**. In the above example, the equipped cores have no added HP and DEF, but add 394 ATK, 8.8% crit rate and 4.3% crit dmg. The sum of the black and yellow values are shown on the main memory screen (for example, 480 + 394 ATK add up to the 874 ATK in the previous image)
