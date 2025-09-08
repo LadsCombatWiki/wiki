@@ -533,7 +533,7 @@ p {
 
     th,
     td {
-      min-width: 75px;
+      min-width: 45px; // originaly was 75px
     }
 
     & > * {

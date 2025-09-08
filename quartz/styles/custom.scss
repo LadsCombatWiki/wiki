@@ -59,5 +59,34 @@
   position: -webkit-sticky;
   position: sticky;
   left: 0;
+  border-bottom: 1px solid var(--gray);
   background-color: var(--lightgray);
+}
+
+.stats-table table,
+.stats-table tr {
+  border-bottom: 1px solid var(--gray);
+  line-height: 1rem;
+}
+.stats-table th, td {
+  text-align: center;
+  padding: 8px;
+}
+
+.stats-table th {
+  background-color: var(--lightgray);
+  border-bottom: 2px solid var(--gray);
+  border-right: 2px solid var(--gray);
+}
+
+.stats-table td:nth-child(odd) {
+  border-right: 2px solid var(--gray);
+}
+
+.stats-table td:last-child, th:last-child  {
+  border-right: none;
+}
+
+.stats-table tr:hover {
+  background-color: var(--tertiary);
 }

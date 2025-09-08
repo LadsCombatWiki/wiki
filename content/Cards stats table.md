@@ -10,29 +10,30 @@ tags:
 > > [!tab-stats] Tables 
 > >
 > ><label>![[r0.png]]<input type="radio" name="5atk" checked="checked"/></label>
+> >><div class="stats-table">
 > >><table>
 > >>    <tr>
-> >>        <td rowspan="2" class="fixed-column">Level</td>
-> >>        <td colspan="2">ATK</td>
-> >>        <td colspan="2">DEF</td>
-> >>        <td colspan="2">HP</td>
-> >>        <td colspan="2">Crit Rate (for lunars)</td>
-> >>        <td colspan="2">Crit DMG (for solars)</td>
-> >>        <td colspan="2">D2W</td>
+> >>        <th rowspan="2" class="fixed-column">Level</th>
+> >>        <th colspan="2">ATK</th>
+> >>        <th colspan="2">DEF</th>
+> >>        <th colspan="2">HP</th>
+> >>        <th colspan="2">Crit Rate (for lunars)</th>
+> >>        <th colspan="2">Crit DMG (for solars)</th>
+> >>        <th colspan="2">D2W</th>
 > >>    </tr>
 > >>    <tr>
-> >>        <td>Before Ascension</td>
-> >>        <td>After Ascension</td>
-> >>        <td>Before Ascension</td>
-> >>        <td>After Ascension</td>
-> >>        <td>Before Ascension</td>
-> >>        <td>After Ascension</td>
-> >>        <td>Before Ascension</td>
-> >>        <td>After Ascension</td>
-> >>        <td>Before Ascension</td>
-> >>        <td>After Ascension</td>
-> >>        <td>Before Ascension</td>
-> >>        <td>After Ascension</td>
+> >>        <th>Before Ascension</th>
+> >>        <th>After Ascension</th>
+> >>        <th>Before Ascension</th>
+> >>        <th>After Ascension</th>
+> >>        <th>Before Ascension</th>
+> >>        <th>After Ascension</th>
+> >>        <th>Before Ascension</th>
+> >>        <th>After Ascension</th>
+> >>        <th>Before Ascension</th>
+> >>        <th>After Ascension</th>
+> >>        <th>Before Ascension</th>
+> >>        <th>After Ascension</th>
 > >>    </tr>
 > >>    <tr>
 > >>        <td class="fixed-column">1</td>
@@ -170,6 +171,7 @@ tags:
 > >>        <td>5.0%</td>
 > >>    </tr>
 > >></table>
+> >></div>
 > >
 > ><label>![[r1.png]]<input type="radio" name="5atk" /></label>
 > >><p style="text-align: center;"> <img src="/Images/cards_stats/5atk-r1.png" /> </p>
