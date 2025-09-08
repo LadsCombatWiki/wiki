@@ -21,8 +21,17 @@ body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content {
   // flex amount of tabs
   grid-template-columns: repeat(auto-fill, minmax(11rem, max-content));
   */
-  grid-template-columns: auto auto auto auto; // 4 tabs but adjust size
+  grid-template-columns: repeat(auto-fill, minmax(11rem, max-content));
   gap: 0 1rem;
+  overflow: auto;
+
+  @media all and ($mobile) {
+    grid-template-columns: repeat(auto-fill, minmax(5rem, max-content));
+  }
+
+   @media all and ($tablet) {
+    grid-template-columns: repeat(auto-fill, minmax(7rem, max-content));
+  }
 }
 
 [data-callout="tab-stats"] > .callout-title {

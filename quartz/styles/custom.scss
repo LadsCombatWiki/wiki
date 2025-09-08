@@ -54,3 +54,10 @@
 .borderless-table th {
   font-weight: normal !important;
 }
+
+.fixed-column {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  background-color: var(--lightgray);
+}
