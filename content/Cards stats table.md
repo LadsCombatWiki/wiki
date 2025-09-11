@@ -9,7 +9,7 @@ tags:
 >[!tip]- ATK talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="5atk" checked="checked"/></label>
+> ><label>R0<input type="radio" name="5atk" checked="checked"/></label>
 > >><div class="stats-table">
 > >><table>
 > >>    <tr>
@@ -173,7 +173,7 @@ tags:
 > >></table>
 > >></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="5atk" /></label>
+> ><label>R1<input type="radio" name="5atk" /></label>
 > >><div class="stats-table">
 >>><table>
 > >>    <tr>
@@ -337,7 +337,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="5atk" /></label>
+> ><label>R2<input type="radio" name="5atk" /></label>
 >>><div class="stats-table">
 >>><table>
 > >>    <tr>
@@ -501,7 +501,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="5atk" /></label>
+> ><label>R3<input type="radio" name="5atk" /></label>
 >>><div class="stats-table">
 >>><table>
 > >>    <tr>
@@ -668,7 +668,7 @@ tags:
 >[!tip]- HP talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="5hp" checked="checked"/></label>
+> ><label>R0<input type="radio" name="5hp" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 > >>    <tr>
@@ -832,7 +832,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="5hp" /></label>
+> ><label>R1<input type="radio" name="5hp" /></label>
 >>><div class="stats-table">
 >>><table>
 > >>    <tr>
@@ -996,7 +996,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="5hp" /></label>
+> ><label>R2<input type="radio" name="5hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -1159,7 +1159,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="5hp" /></label>
+> ><label>R3<input type="radio" name="5hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -1325,7 +1325,7 @@ tags:
 >[!tip]- DEF talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="5def" checked="checked"/></label>
+> ><label>R0<input type="radio" name="5def" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -1489,7 +1489,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="5def" /></label>
+> ><label>R1<input type="radio" name="5def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -1653,7 +1653,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="5def" /></label>
+> ><label>R2<input type="radio" name="5def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -1816,7 +1816,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="5def" /></label>
+> ><label>R3<input type="radio" name="5def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -1983,7 +1983,7 @@ tags:
 >[!tip]- ATK talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="4atk" checked="checked"/></label>
+> ><label>R0<input type="radio" name="4atk" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -2147,7 +2147,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="4atk" /></label>
+> ><label>R1<input type="radio" name="4atk" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -2311,7 +2311,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="4atk" /></label>
+> ><label>R2<input type="radio" name="4atk" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -2475,7 +2475,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="4atk" /></label>
+> ><label>R3<input type="radio" name="4atk" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -2642,7 +2642,7 @@ tags:
 >[!tip]- HP talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="4hp" checked="checked"/></label>
+> ><label>R0<input type="radio" name="4hp" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -2806,7 +2806,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="4hp" /></label>
+> ><label>R1<input type="radio" name="4hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -2970,7 +2970,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="4hp" /></label>
+> ><label>R2<input type="radio" name="4hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -3134,7 +3134,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="4hp" /></label>
+> ><label>R3<input type="radio" name="4hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -3301,7 +3301,7 @@ tags:
 >[!tip]- DEF talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="4def" checked="checked"/></label>
+> ><label>R0<input type="radio" name="4def" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -3465,7 +3465,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="4def" /></label>
+> ><label>R1<input type="radio" name="4def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -3629,7 +3629,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="4def" /></label>
+> ><label>R2<input type="radio" name="4def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -3793,7 +3793,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="4def" /></label>
+> ><label>R3<input type="radio" name="4def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -3961,7 +3961,7 @@ tags:
 >[!tip]- ATK talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="3atk" checked="checked"/></label>
+> ><label>R0<input type="radio" name="3atk" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -4125,7 +4125,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="3atk" /></label>
+> ><label>R1<input type="radio" name="3atk" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -4289,7 +4289,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="3atk" /></label>
+> ><label>R2<input type="radio" name="3atk" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -4453,7 +4453,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="3atk" /></label>
+> ><label>R3<input type="radio" name="3atk" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -4620,7 +4620,7 @@ tags:
 >[!tip]- HP talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="3hp" checked="checked"/></label>
+> ><label>R0<input type="radio" name="3hp" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -4784,7 +4784,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="3hp" /></label>
+> ><label>R1<input type="radio" name="3hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -4948,7 +4948,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="3hp" /></label>
+> ><label>R2<input type="radio" name="3hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -5112,7 +5112,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="3hp" /></label>
+> ><label>R3<input type="radio" name="3hp" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -5279,7 +5279,7 @@ tags:
 >[!tip]- DEF talented
 > > [!tab-stats] Tables 
 > >
-> ><label>![[r0.png]]<input type="radio" name="3def" checked="checked"/></label>
+> ><label>R0<input type="radio" name="3def" checked="checked"/></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -5443,7 +5443,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r1.png]]<input type="radio" name="3def" /></label>
+> ><label>R1<input type="radio" name="3def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -5607,7 +5607,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r2.png]]<input type="radio" name="3def" /></label>
+> ><label>R2<input type="radio" name="3def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
@@ -5771,7 +5771,7 @@ tags:
 >>></table>
 >>></div>
 > >
-> ><label>![[r3.png]]<input type="radio" name="3def" /></label>
+> ><label>R3<input type="radio" name="3def" /></label>
 >>><div class="stats-table">
 >>><table>
 >>>    <tr>
