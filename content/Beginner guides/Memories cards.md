@@ -8,12 +8,6 @@ Cards in Love and Deepspace are called “Memories”. They can have varying ste
 <p style="text-align: center;"> <img src="/Images/memories cards/card_ui.png" alt="Card UI" /> </p>
 
 # Stellactrum
-> [!caption|right]
-> 
-> ![[LI_stellas.png]]
-> 
-> LI's stellas
-
 All cards can be sorted by their stellactrum, or stella for short. There are only six stella that each card will be sorted into: 
 - Emerald (green)
 - Sapphire (blue)
@@ -23,6 +17,8 @@ All cards can be sorted by their stellactrum, or stella for short. There are onl
 - Pearl (pink) 
 
 Each LI will have a stella prioritization (below table), meaning they are more likely to have cards of a certain stella. 
+
+<p style="text-align: center;"> <img src="/Images/memories cards/LI_stellas.png" alt="LI's stellas" /> </p>
 
 Primary and secondary stella are essential for fighting in orbits and should be leveled first. Tertiary colours become important when fighting in high level orbits with the release of 3rd generation myths. 4th, 5th, and 6th stella are considered “off colour” and are considered low priority when managing resources to level cards. 
 

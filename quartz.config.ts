@@ -73,6 +73,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Carousel({ showDots: true }),
+      Plugin.ClickableImages(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
