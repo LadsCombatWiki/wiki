@@ -1,5 +1,5 @@
 ---
 title: "Sylus: Abysm Sovereign"
-draft: false
+draft: true
 tags:
 ---

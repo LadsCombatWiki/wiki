@@ -1,5 +1,5 @@
 ---
-title: "Beacon"
-draft: false
+title: Beacon
+draft: true
 tags:
 ---

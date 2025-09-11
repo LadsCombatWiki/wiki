@@ -1,6 +1,6 @@
 ---
 title: Boss guides
-draft: false
+draft: true
 tags:
 ---
 Work in progress

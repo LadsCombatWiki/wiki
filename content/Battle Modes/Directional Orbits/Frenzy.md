@@ -10,7 +10,7 @@ tags:
 - **Xavier**: All myths are good. Chose who ever is better built. Free companion Distant Youth or Deepspace Hunter, both with claymore.
 - **Rafayel**: MS or AB. Free companion Fresh Paint with claymore.
 - **Zayne**: SF with exclusive sword or hunter guns. Free companion Medic with claymore.
-- **Sylus**: All myths are good. All myths are good. Chose who ever is better built. Free companion OV with claymore.
+- **Sylus**: All myths are good. Chose who ever is better built. Free companion OV with claymore.
 - **Caleb**: LR. Free companion Pilot with claymore.
 
 Frenzy stages is a type of stage where you can obtain a special buff by killing special mobs with a frenzy aura. Defeating these enemies within the time limit grants a ATK Boost to all your and LI attacks. It can be stacked 3 times.

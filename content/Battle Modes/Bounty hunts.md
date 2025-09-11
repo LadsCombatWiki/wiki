@@ -1,5 +1,5 @@
 ---
-title: "Bounty hunts"
-draft: false
+title: Bounty hunts
+draft: true
 tags:
 ---

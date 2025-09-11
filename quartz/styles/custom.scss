@@ -45,7 +45,9 @@
 
 .borderless-table table,
 .borderless-table th,
-.borderless-table td,
+.borderless-table td {
+  text-align: left;
+}
 .borderless-table tr {
   border: none !important;
   box-shadow: none !important;

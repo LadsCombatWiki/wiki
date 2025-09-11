@@ -1,5 +1,5 @@
 ---
-title: "Dormant Luminivore"
-draft: false
+title: Dormant Luminivore
+draft: true
 tags:
 ---

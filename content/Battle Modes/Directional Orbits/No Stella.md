@@ -1,5 +1,5 @@
 ---
-title: "No Stella"
-draft: false
+title: No Stella
+draft: true
 tags:
 ---

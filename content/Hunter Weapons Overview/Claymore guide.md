@@ -1,5 +1,5 @@
 ---
-title: "Claymore guide"
-draft: false
+title: Claymore guide
+draft: true
 tags:
 ---
