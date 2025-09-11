@@ -42,8 +42,7 @@ Flat stats add directly to the card’s base stat while bonus stats add a multip
 > >Equipped by **Solar** memories
 > >        
 > >Mainstat:
-> >
-> >Flat HP only
+> ><li>Flat HP only</li>
 > > <br>
 > >Alpha cores are selected based solely on their substats
 > >    </td>
@@ -93,8 +92,7 @@ Flat stats add directly to the card’s base stat while bonus stats add a multip
 > >Equipped by **Lunar** memories
 > >        
 > >Mainstat:
-> >
-> >Flat ATK only
+> ><li>Flat ATK only</li>
 > > <br>
 > >Gamma cores are selected based solely on their substats
 > >    </td>
