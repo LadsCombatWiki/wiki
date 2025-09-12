@@ -77,7 +77,10 @@ function createImageModal(): HTMLElement {
             <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
           </svg>
         </button>
-        <img class="carousel-modal-image" src="" alt="" />
+        <figure class="carousel-modal-figure">
+          <img class="carousel-modal-image" src="" alt="" />
+          <figcaption class="carousel-modal-caption"></figcaption>
+        </figure>
       </div>
     </div>
   `
@@ -95,12 +98,27 @@ function showImageModal(img: HTMLImageElement): void {
   }
 
   const modalImg = modal.querySelector(".carousel-modal-image") as HTMLImageElement
+  const modalCaption = modal.querySelector(".carousel-modal-caption") as HTMLElement
   const closeBtn = modal.querySelector(".carousel-modal-close") as HTMLButtonElement
   const overlay = modal.querySelector(".carousel-modal-overlay") as HTMLElement
 
   // Set image source and alt
   modalImg.src = img.src
   modalImg.alt = img.alt
+  // Determine caption: prefer data-caption, then sibling figcaption, then empty
+  let captionText = ""
+  const dataCaption = img.getAttribute("data-caption")
+  if (dataCaption && dataCaption.trim().length > 0) {
+    captionText = dataCaption
+  } else {
+    const figure = img.closest("figure")
+    const figcap = figure?.querySelector("figcaption") as HTMLElement | null
+    captionText = figcap?.textContent?.trim() ?? ""
+  }
+  if (modalCaption) {
+    modalCaption.textContent = captionText
+    modalCaption.style.display = captionText ? "block" : "none"
+  }
 
   // Show modal
   modal.style.display = "flex"

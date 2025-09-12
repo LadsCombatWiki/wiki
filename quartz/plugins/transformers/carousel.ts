@@ -12,6 +12,15 @@ interface CarouselOptions {
 export const Carousel: QuartzTransformerPlugin<Partial<CarouselOptions>> = (opts) => {
   const showDots = opts?.showDots ?? true
 
+  function escapeHtml(text: string): string {
+    return text
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/\"/g, "&quot;")
+      .replace(/'/g, "&#39;")
+  }
+
   function carouselTransformer() {
     return (tree: any) => {
       visit(tree, "html", (node: any) => {
@@ -21,14 +30,23 @@ export const Carousel: QuartzTransformerPlugin<Partial<CarouselOptions>> = (opts
           // Extract the content inside the carousel tag
           const innerContent = content.slice("<Carousel>".length, -"</Carousel>".length).trim()
 
-          // Process images correctly by using a more reliable approach
-          const processedContent = innerContent
-            .split("<img")
-            .map((part, index) => {
-              if (index === 0) return "" // Skip the first part before any img tag
-              return `<div class="quartz-carousel-slide"><img${part}</div>`
-            })
-            .join("")
+          // Replace each <img ...> with a slide that includes optional caption
+          const processedContent = innerContent.replace(/<img([^>]*?)>/gi, (match, attrs) => {
+            const hasDataCaption = /\bdata-caption\s*=\s*(["']).*?\1/i.test(attrs)
+            const titleMatch = attrs.match(/\btitle\s*=\s*(["'])(.*?)\1/i)
+            const altMatch = attrs.match(/\balt\s*=\s*(["'])(.*?)\1/i)
+            const dataCaptionMatch = attrs.match(/\bdata-caption\s*=\s*(["'])(.*?)\1/i)
+            const rawCaption = (dataCaptionMatch?.[2] ?? titleMatch?.[2] ?? altMatch?.[2] ?? "").trim()
+            const captionAttr = !hasDataCaption && rawCaption
+              ? ` data-caption="${escapeHtml(rawCaption)}"`
+              : ""
+
+            const figcaption = rawCaption
+              ? `<figcaption class="quartz-carousel-caption">${escapeHtml(rawCaption)}</figcaption>`
+              : ""
+
+            return `<div class="quartz-carousel-slide"><figure class="quartz-carousel-figure"><img${attrs}${captionAttr}>${figcaption}</figure></div>`
+          })
 
           // Replace the node with a div that has a carousel class
           node.type = "html"

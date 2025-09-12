@@ -227,12 +227,12 @@ In general, always only crit build. Certain enemies may need a different build b
 	- In early game, prioritize leveling cubes with **EEB and ORB regardless of their substats**. Because EEB and ORB are so valuable for gameplay, but cannot be found in substats and are so rare as a mainstat, their substats are considered more of a luxury at the start of the game. Continue to look for EEB and ORB cubes with good substats over time. 
 
 <Carousel>
-<img src="Images/protocores_basics/cores/core_1.png" alt="1 image">
-<img src="Images/protocores_basics/cores/core_2.png" alt="2 image">
-<img src="Images/protocores_basics/cores/core_3.png" alt="3 image">
-<img src="Images/protocores_basics/cores/core_4.png" alt="4 image">
-<img src="Images/protocores_basics/cores/core_5.png" alt="5 image">
-<img src="Images/protocores_basics/cores/core_6.png" alt="6 image">
+<img src="Images/protocores_basics/cores/core_1.png">
+<img src="Images/protocores_basics/cores/core_2.png">
+<img src="Images/protocores_basics/cores/core_3.png">
+<img src="Images/protocores_basics/cores/core_4.png">
+<img src="Images/protocores_basics/cores/core_5.png">
+<img src="Images/protocores_basics/cores/core_6.png">
 </Carousel>
 
 # Afterword

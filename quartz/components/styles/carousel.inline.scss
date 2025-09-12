@@ -22,6 +22,15 @@ article .quartz-carousel {
       justify-content: center;
       align-items: center;
 
+      .quartz-carousel-figure {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin: 0; // reset default figure margin
+        position: relative;
+      }
+
       img {
         max-width: 100%;
         max-height: 400px;
@@ -32,6 +41,23 @@ article .quartz-carousel {
         &:hover {
           opacity: 0.9;
         }
+      }
+
+      .quartz-carousel-caption {
+        position: absolute;
+        left: 50%;
+        bottom: 8px;
+        transform: translateX(-50%);
+        max-width: calc(100% - 1rem);
+        padding: 0.35rem 0.6rem;
+        border-radius: 6px;
+        background-color: rgba(0, 0, 0, 0.55);
+        color: #fff;
+        text-align: center;
+        font-size: 0.95rem;
+        line-height: 1.35;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+        backdrop-filter: blur(2px);
       }
     }
   }
@@ -126,12 +152,39 @@ article .quartz-carousel {
     align-items: center;
   }
 
+  .carousel-modal-figure {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0;
+    align-items: center;
+    position: relative;
+  }
+
   .carousel-modal-image {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
     border-radius: 8px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  }
+
+  .carousel-modal-caption {
+    position: absolute;
+    left: 50%;
+    bottom: 12px;
+    transform: translateX(-50%);
+    max-width: min(calc(100% - 2rem), 900px);
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.4;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+    backdrop-filter: blur(2px);
   }
 
   .carousel-modal-close {

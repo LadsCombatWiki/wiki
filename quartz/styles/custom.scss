@@ -44,18 +44,18 @@
   visibility: visible;
 }
 
-.borderless-table table,
-.borderless-table th,
-.borderless-table td {
-  text-align: left;
-}
-.borderless-table tr {
-  border: none !important;
-  box-shadow: none !important;
-}
+.borderless-table {
+  table, th, td {
+    text-align: left;
+  }
+  tr {
+    border: none !important;
+    box-shadow: none !important;
+  }
 
-.borderless-table th {
-  font-weight: normal !important;
+  th {
+    font-weight: normal !important;
+  }
 }
 
 .fixed-column {
@@ -92,4 +92,43 @@
 
 .stats-table tr:hover {
   background-color: var(--tertiary);
+}
+
+.callout {
+  &[data-callout="skills"] {
+    --color: #00b0ff;
+    --border: #00b0ff44;
+    --bg: #00b0ff10;
+    --callout-icon: var(--callout-icon-abstract);
+
+    @media all and ($mobile) {
+      margin-top: -80px;
+    }
+
+    @media all and ($tablet) {
+      margin-top: -80px;
+    }
+  }
+}
+
+.skill-table { 
+  table, th, td, tr {
+    text-align: left;
+    margin: 0;
+    border-collapse: collapse;
+    line-height: 1.6rem;
+    }
+
+    tr {
+      border: none !important;
+    }
+
+    td {
+      padding:0;
+    }
+
+    th {
+      border-bottom: 1px solid var(--gray);
+      font-weight: normal;
+    }
 }
