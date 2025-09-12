@@ -35,7 +35,10 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >
 >>[!note | clean no-t]
 >>
->> ![[Images/as/support.gif]]
+>><Carousel>
+>><img src="Images/as/support.gif" alt="1 image">
+>><img src="Images/as/empowered support.gif" alt="2 image">
+>></Carousel>
 >
 >>[!note | clean no-t]
 >>
@@ -49,30 +52,7 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >>        <td style="vertical-align: top;">Support skill (10s CD)</td>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2">A red claw emerges from the ground and launches enemies before slamming them down again. Also heals himself and MC by 5% of max HP.</td>
->>    </tr>
->></table>
->></div>
-
->[!column | flex]
->
->>[!note | clean no-t]
->>
->> ![[empowered support.gif]]
->
->>[!note | clean no-t]
->>
->><div class="borderless-table">
->><table>
->>    <tr>
->>        <td rowspan="2"><img src="Images/as/support_icon.png" alt="Empowered support skill" width="100"></td>
->>        <td style="vertical-align: top;">Empowered support skill</td>
->>    </tr>
->>    <tr>
->>        <td style="vertical-align: top;"></td>
->>    </tr>
->>    <tr>
->>        <td colspan="2">Deals additional damage on top of normal support skill damage.</td>
+>>        <td colspan="2">A red claw emerges from the ground and launches enemies before slamming them down again. Also heals himself and MC by 5% of max HP.<br><br>Empowered support skill deals additional damage on top of normal support skill damage.</td>
 >>    </tr>
 >></table>
 >></div>
@@ -84,10 +64,10 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >
 >>[!note | clean no-t]
 >>
->>#### Feast (tap reso)
->> ![[resonance - feast.gif]]
->>#### Fury (hold reso)
->> ![[resonance - fury.gif]]
+>><Carousel>
+>><img src="Images/as/resonance - feast.gif" alt="1 image">
+>><img src="Images/as/resonance - fury.gif" alt="2 image">
+>></Carousel>
 >
 >>[!note | clean no-t]
 >>
@@ -101,7 +81,7 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >>        <td style="vertical-align: top;">Resonance skill (15s CD)</td>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2"><li>Feast: Consume two energy charges to break 1 protocore shield (2 when stella matched) on first of two hits. </li><br><li>Fury: Holding the skill button causes MC and Sylus to enter FURY mode - both will consume HP every time they hit an enemy to increase the dmg dealt. High starting HP means high damage conversion. You cannot drop below 25% of your HP this way. FURY mode is indicated by floating red energy around MC and Sylus.</li></td>
+>>        <td colspan="2">Consume two energy charges to break 1 protocore shield (2 when stella matched) on first of two hits.<br><br><li>Fury: Holding the skill button causes MC and Sylus to enter FURY mode - both will consume HP every time they hit an enemy to increase the dmg dealt. High starting HP means high damage conversion. You cannot drop below 25% of your HP this way. FURY mode is indicated by floating red energy around MC and Sylus.</li></td>
 >>    </tr>
 >></table>
 >></div>
@@ -111,10 +91,10 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >
 >>[!note | clean no-t]
 >>
->>#### Basic attacks combo
->> ![[ba combo.gif]]
->>#### Charged attack
->> ![[Charged attack.gif]]
+>><Carousel>
+>><img src="Images/as/ba combo.gif" alt="1 image">
+>><img src="Images/as/Charged attack.gif" alt="2 image">
+>></Carousel>
 >
 >>[!note | clean no-t]
 >>
@@ -125,7 +105,7 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >>        <td style="vertical-align: top;">Dream Breaker</td>
 >>    </tr>
 >>    <tr>
->>        <td style="vertical-align: top;">Basic attack</td>
+>>        <td style="vertical-align: top;">Basic attack / Charged attack</td>
 >>    </tr>
 >>    <tr>
 >>        <td colspan="2">Up to 4 attacks in a full combo string.<br>Fiend reaper has a special charged attack that can only be used outside of FURY. It will heal MC if it hits enemies, dealing relatively low damage. It is not recommended to use this in active combat, but can be used to increase HP when enemies cannot be attacked (usually bosses with HP lock mechanics).</td>
@@ -137,7 +117,11 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >
 >>[!note | clean no-t]
 >>
->> ![[active - tap.gif]]
+>><Carousel>
+>><img src="Images/as/active - tap.gif" alt="1 image">
+>><img src="Images/as/active - hold.gif" alt="2 image">
+>><img src="Images/as/active - parry.gif" alt="3 image">
+>></Carousel>
 >
 >>[!note | clean no-t]
 >>
@@ -145,65 +129,19 @@ Sylus’ Abysm Sovereign is an HP scaling companion that excels at raw damage in
 >><table>
 >>    <tr>
 >>        <td rowspan="2"><img src="Images/as/active_icon.png" alt="Free companion" width="100"></td>
->>        <td style="vertical-align: top;">Life Sacrifice: tap</td>
+>>        <td style="vertical-align: top;">Life Sacrifice</td>
 >>    </tr>
 >>    <tr>
 >>        <td style="vertical-align: top;">Active Skill (5.5s CD)</td>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2">Recovers HP on hit.</td>
->>    </tr>
->></table>
->></div>
-
->[!column | flex]
->
->>[!note | clean no-t]
->>
->> ![[active - hold.gif]]
->
->>[!note | clean no-t]
->>
->><div class="borderless-table">
->><table>
->>    <tr>
->>        <td rowspan="2"><img src="Images/as/active_icon.png" alt="Free companion" width="100"></td>
->>        <td style="vertical-align: top;">Life Sacrifice: hold</td>
->>    </tr>
->>    <tr>
->>        <td style="vertical-align: top;">Active Skill (5.5s CD)</td>
->>    </tr>
->>    <tr>
->>        <td colspan="2">Holding the skill button charges the skill and deals additional damage. When the skill is fully charged, a red ring flashes around MC and she glows red.</td>
+>>        <td colspan="2"><li>Tap: Recovers HP on hit.<li>Hold: Holding the skill button charges the skill and deals additional damage. When the skill is fully charged, a red ring flashes around MC and she glows red.<li>Parry: If you are hit when holding/tapping this skill, you do not take damage and automatically fully charge your skill.</td>
 >>    </tr>
 >></table>
 >></div>
 
 > [!note] Full charged Active
 > If you continue to hold the skill after it is fully charged, you convert all damage from enemies into healing. You cannot hold the skill forever - after a certain amount of time, it will automatically attack the nearest/targetted enemy.
-
->[!column | flex]
->
->>[!note | clean no-t]
->>
->> ![[active - parry.gif]]
->
->>[!note | clean no-t]
->>
->><div class="borderless-table">
->><table>
->>    <tr>
->>        <td rowspan="2"><img src="Images/as/active_icon.png" alt="Free companion" width="100"></td>
->>        <td style="vertical-align: top;">Life Sacrifice: parry</td>
->>    </tr>
->>    <tr>
->>        <td style="vertical-align: top;">Active Skill (5.5s CD)</td>
->>    </tr>
->>    <tr>
->>        <td colspan="2">If you are hit when holding/tapping this skill, you do not take damage and automatically fully charge your skill.</td>
->>    </tr>
->></table>
->></div>
 
 <div class="borderless-table">
 <table>
