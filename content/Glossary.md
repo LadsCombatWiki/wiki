@@ -6,6 +6,8 @@ tags:
 ## General
 - **LI** - love interest.
 - **OG3** - refers to original 3 men: Xavier, Rafayel, Zayne.
+- **FTP/F2P** - free to play; a player who does not spend any money on this game
+- **Whale** - general term for someone who spends a lot in this game
 - **RNG** - “random number generation” except no one actually calls it that. Basically just the randomness of anything (trust us, this game’s combat has way too much RNG to explain here). A “good RNG run” means that lady luck was on your side and you got lots of high damage numbers.
 - **Minstat** - using very low overall stats to clear a stage. Usually the lowest stats that can be used to clear that stage.
 - **Overstat** - the team’s stats are a good deal higher than is needed to beat the stage if the companion’s kit is played properly
@@ -34,6 +36,7 @@ tags:
 - **Pair Bonus** - when solar pairs are equipped, they will activate a bonus based on their rank. Ranked 5 star solar pairs result in additions to the kit.
 	- **R-1** - is used in reference to a 5 star companion used on a team that has not equipped the companions solar pair cards.
 ## Battle
+- **Stella** - short for stellactrum; the “colour” of a stage or a card
 - **D-Pad** - “directional pad”; is on the left side of the screen and controls the movement of MC
 - **Basic Attack (BA)** - tap the weapon icon
 - **Charged Attack (CA)** - hold the weapon icon
