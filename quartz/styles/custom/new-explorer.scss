@@ -1,6 +1,7 @@
 @use "../base.scss";
 @use "../variables.scss" as *;
 // Enhanced Explorer button styling
+@media all and ($mobile) {
 .explorer {
   .explorer-content {
     & ul {
@@ -113,4 +114,5 @@ button.mobile-explorer {
     width: 28px;
     height: 28px;
   }
+}
 }
