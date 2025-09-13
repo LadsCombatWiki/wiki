@@ -98,5 +98,19 @@ button.desktop-explorer h2{
 }
 
 .explorer.collapsed {
-  flex: 0 1.7rem;
+  flex: 0 1 1.2rem;
+  overflow: visible;
+  z-index: 10;
+}
+
+// Make mobile Explorer button bigger
+button.mobile-explorer {
+  padding: 1rem;
+  min-width: 48px;
+  min-height: 48px;
+
+  .lucide-menu {
+    width: 28px;
+    height: 28px;
+  }
 }
