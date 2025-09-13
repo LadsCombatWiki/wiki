@@ -14,6 +14,8 @@ For those who are completely new to combat, we recommend reading in the followin
 
 Feel free to explore out of order, but keep in mind we may reference content in a previous guide. If you ever get lost with some of the terminology, you can also head to the [[Glossary]] for a refresher.
 
+[[Companion guides/index|Quick guides for building companions]].
+
 Disclaimer: 
 
 The creators of this free website are not affiliated with Love and Deepspace or Infold Games. We are just a group of combat brained players who want to share knowledge of how to combat in this game. Recommendations are general, and based on experiences from a range of players (ftp, low spenders, high spenders, whales). These guides are meant to only be guidelines - if you need specific team help, head to the official LaDs discord server “Combat Strategy” channel where they can give more specialised advice.

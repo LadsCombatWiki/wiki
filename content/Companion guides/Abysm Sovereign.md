@@ -167,25 +167,28 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 ## Core Recommendations
 [[Protocores basics|In-depth core guide]]
 
+<div class="core-table">
 <table>
     <tr>
-        <th colspan="2" style="text-align:left;">Cube (Beta)</th>
+        <th colspan="2">Cube (Beta)</th>
     </tr>
     <tr>
         <td style="text-align:left;">R0 (R-1)</td>
-        <td style="text-align:left;">1 x ORB 9+ lvl, 1 x EEB (orbits) or 2 x EEB (SHC) [put link to summary of SHC]</td>
+        <td style="text-align:left;">1 x ORB 9+ lvl, 1 x EEB (orbits)<br>2 x EEB (SHC)</td>
     </tr>
     <tr>
         <td style="text-align:left;">R1+</td>
         <td style="text-align:left;">2 x EEB</td>
     </tr>
+    <br>
     <tr>
-        <th colspan="2" style="text-align:left;">Substats priority</th>
+        <th colspan="2">Substats priority</th>
     </tr>
     <tr>
         <td colspan="2" style="text-align:left;">HP% > Flat HP/Crit/d2w > ATK% > Flat ATK > OS</td>
     </tr>
 </table>
+</div>
 
 >[!note] Expert/whale notes
 >ex. Once your AS team achieves 200,000 HP, it is recommended to start building for D2W/Crit instead.

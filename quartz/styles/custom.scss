@@ -5,6 +5,7 @@
 @use "./custom/column.scss";
 @use "./custom/tabs.scss";
 @use "./custom/infobox-callout.scss";
+@use "./custom/tables.scss";
 
 .tooltip {
   position: relative;
@@ -44,56 +45,6 @@
   visibility: visible;
 }
 
-.borderless-table {
-  table, th, td {
-    text-align: left;
-  }
-  tr {
-    border: none !important;
-    box-shadow: none !important;
-  }
-
-  th {
-    font-weight: normal !important;
-  }
-}
-
-.fixed-column {
-  position: -webkit-sticky;
-  position: sticky;
-  left: 0;
-  border-bottom: 1px solid var(--gray);
-  background-color: var(--lightgray);
-}
-
-.stats-table table,
-.stats-table tr {
-  border-bottom: 1px solid var(--gray);
-  line-height: 1rem;
-}
-.stats-table th, td {
-  text-align: center;
-  padding: 8px;
-}
-
-.stats-table th {
-  background-color: var(--lightgray);
-  border-bottom: 2px solid var(--gray);
-  border-right: 2px solid var(--gray);
-}
-
-.stats-table td:nth-child(odd) {
-  border-right: 2px solid var(--gray);
-}
-
-.stats-table td:last-child, th:last-child  {
-  border-right: none;
-}
-
-.stats-table tr:hover {
-  background-color: var(--tertiary);
-}
-
 .callout {
   &[data-callout="skills"] {
     --color: #00b0ff;
@@ -109,29 +60,4 @@
       margin-top: -80px;
     }
   }
-}
-
-.skill-table { 
-  table, th, td, tr {
-    text-align: left;
-    margin: 1rem;
-    border-collapse: collapse;
-    line-height: 1.6rem;
-    }
-
-    tr {
-      border: none !important;
-    }
-
-    td {
-      padding:0;
-    }
-
-    th {
-      border-bottom: 1px solid var(--gray);
-      font-weight: normal;
-    }
-    li {
-      margin-left: 1rem;
-    }
 }
