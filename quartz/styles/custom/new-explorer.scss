@@ -1,0 +1,102 @@
+@use "../base.scss";
+@use "../variables.scss" as *;
+// Enhanced Explorer button styling
+.explorer {
+  .explorer-content {
+    & ul {
+      & li > a {
+        display: block;
+        padding: 0.75rem 1rem;
+        margin: 0.25rem 0;
+        border-radius: 8px;
+        background-color: transparent;
+        border: 1px solid transparent;
+        font-size: 1.4rem;
+        font-weight: 500;
+        text-decoration: none;
+        transition: all 0.2s ease-in-out;
+        cursor: pointer;
+
+        &:hover {
+          opacity: 1;
+          background-color: var(--lightgray);
+          border-color: var(--gray);
+          transform: translateY(-1px);
+          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        &.active {
+          opacity: 1;
+          color: var(--tertiary);
+          background-color: var(--tertiary);
+          color: white;
+          border-color: var(--tertiary);
+          font-weight: 600;
+        }
+      }
+    }
+  }
+
+  .folder-container {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    user-select: none;
+
+    & div > a {
+      color: var(--secondary);
+      font-family: var(--headerFont);
+      font-size: 1.4rem;
+      font-weight: $semiBoldWeight;
+      line-height: 1.5rem;
+      display: block;
+      padding: 0.75rem 1rem;
+      margin: 0.25rem 0;
+      border-radius: 8px;
+      background-color: transparent;
+      border: 1px solid transparent;
+      text-decoration: none;
+      transition: all 0.2s ease-in-out;
+      cursor: pointer;
+
+      &:hover {
+        color: var(--tertiary);
+        background-color: var(--lightgray);
+        border-color: var(--gray);
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      &.active {
+        opacity: 1;
+        color: var(--tertiary);
+        background-color: var(--tertiary);
+        color: white;
+        border-color: var(--tertiary);
+        font-weight: 600;
+      }
+    }
+
+  }
+
+  .folder-icon {
+    margin-right: 8px;
+    color: var(--secondary);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    backface-visibility: visible;
+    flex-shrink: 0;
+  }
+}
+
+.explorer-content ul {
+  padding-right: 10px;
+}
+
+button.desktop-explorer h2{
+  font-size: 1.4rem;
+}
+
+.explorer.collapsed {
+  flex: 0 1.7rem;
+}
