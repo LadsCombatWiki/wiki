@@ -196,7 +196,7 @@ In general, always only crit build. Certain enemies may need a different build b
 > > > ![[d2w_example_2.jpg]]
 
 >[!example]- Example hybrid build
->The field stella is 4 purple and 2 yellow and this team does not match . If this is a boss level, a brute force / crit build is recommended because the enemy will spend the majority of the battle in a shielded state. All four triangle cores have either CR or CD as a main stat, with the goal of achieving the recommended ratios. In cases where the stage cannot be stella matched, but includes only shielded mobs, a hybrid build can be considered. A crit build is also recommended for stages where stella can be matched, but there are no shielded enemies.
+>The field stella is 4 purple and 2 yellow and this team matches it. If this is a boss level, a hybrid build is recommended because enemies will spend about half the time in weakened state and half the time in a shielded state. This usually means 1 CR, 1CD and 2 D2W cores. Try to get a minimum of 40-50 CR even if this means sacrificing one of the CD or D2W cores. This is also a possible build for stella-matched stages with mixed shielded and unshielded mobs. 
 > >[!Column | flex 2]
 > > > [!note | clean no-t center]
 > > > 
