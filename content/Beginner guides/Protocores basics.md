@@ -241,4 +241,4 @@ Thanks for reading all the way down here. As a reward, please enjoy a compilatio
 <p style="text-align: center;"> <img src="/Images/protocores_basics/copium.png" alt="Copium cores" /> </p>
 
 ---
-<sup>v1.0 by @jayci. Proofreading by @kemrian @.kitty143</sup>
+<sup>v1.0 by @jayci. Proofreading by @kemrian @.kitty143 @anan1n</sup>
