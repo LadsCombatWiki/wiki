@@ -7,6 +7,7 @@ tags:
 Team building can be very intimidating if you are starting out. Here are the basics!
 1. A team is always made up of a maximum 2 <div class="tooltip">solar cards<span class="tooltiptext">Card has the “sun” icon</span> </div>, and 4 <div class="tooltip">lunar cards<span class="tooltiptext">Card has a crescent moon icon</span></div>. You cannot mix and match cards from different LI. You only need to have one out of six card slots equipped to deploy a companion.
 2. Where possible, always equip a <div class="tooltip">solar pair<span class="tooltiptext">Two solar cards that are matched</span></div>. Pair bonuses can greatly increase your damage output. [[Memories cards#Solar Pairs|More about pairs]].
+
 <p style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="Solar Pairs" /> </p>
 
 3. 5⭐ cards will always have higher base stats than 4⭐ cards (at similar levels), even if the 4⭐ is max ranked. [[Cards stats table]].
@@ -27,6 +28,7 @@ In team window you have:
 
 >[!warning] Oath Recovery Boost
 >Any oath boost from an R1 solar pair bonus is not shown here as part of the Oath Recovery Boost.
+
 <p style="text-align: center;"> <img src="/Images/team_stats.jpg" alt="Team stats"/> </p>
 
 >[!tip] Sharing stats
@@ -50,6 +52,7 @@ In team window you have:
 # The Team Assembly Plan
 ## Stellactrum
 **Stella Matched** - when the cards in the team match the protofield stellactrum. Stella matched team:
+
 <p style="text-align: center;"> <img src="/Images/stella_match1.png" alt="Stella Match" /> </p>
 
 In cases where the stage does not require 6 stella to be fully matched, the remaining slots can be filled by:
@@ -60,14 +63,17 @@ Choosing between the two above options will depend greatly on the card stats. If
 A fully stella matched team means that resonance skills **Double** their shield breaking potential. With the exception of Caleb’s FA companion, in battles with normal/elite enemies, shields will be broken with **One** resonance skill and in battles with boss enemies, shields will be broken with **Two** resonance skills. When shields are broken, enemies become **Weakened**, meaning they will take more damage.
 
 Mob with 2 protoshield:
+
 <p style="text-align: center;"> <img src="/Images/shieldbreakmob.gif" alt="Breaking Mob" /> </p>
 
 Boss with 4 protoshields:
+
 <p style="text-align: center;"> <img src="/Images/bossshieldbreak.gif" alt="Breaking Boss" /> </p>
 
 **Brute Force** - when the cards in the team do NOT match the protofield stellactrum. With the exception of Caleb’s FA companion, this usually means that normal/elite enemies with shields take twice as long to become weakened, and bosses take 4 times as long (with some exceptions - see [[Boss guides/index|Boss guides]]). A brute force team typically requires a full [|crit build].
 
 **Partial Stella Match** - Any card that is in the team that matches the protofield stellactrum grants a 5% bonus, even if the team cannot perfectly match, resulting in a brute force build. 
+
 <p style="text-align: center;"> <img src="/Images/stella_match2.png" alt="Partial Stella Match" /> </p>
 
 ## Brute Force vs Stella matching
