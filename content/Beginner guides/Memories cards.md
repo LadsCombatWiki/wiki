@@ -1,5 +1,5 @@
 ---
-title: Memories cards
+title: Memory cards
 draft: false
 tags:
 ---
@@ -8,7 +8,7 @@ Cards in Love and Deepspace are called “Memories”. They can have varying ste
 <p style="text-align: center;"> <img src="/Images/memories cards/card_ui.png" alt="Card UI" /> </p>
 
 # Stellactrum
-All cards can be sorted by their stellactrum, or stella for short. There are only six stella that each card will be sorted into: 
+All cards can be sorted by their stellactrum, or stella for short. There are only six stella that each card can be sorted into: 
 - Emerald (green)
 - Sapphire (blue)
 - Violet (purple)
@@ -20,17 +20,17 @@ Each LI will have a stella prioritization (below table), meaning they are more l
 
 <p style="text-align: center;"> <img src="/Images/memories cards/LI_stellas.png" alt="LI's stellas" /> </p>
 
-Primary and secondary stella are essential for fighting in orbits and should be leveled first. Tertiary colours become important when fighting in high level orbits with the release of 3rd generation myths. 4th, 5th, and 6th stella are considered “off colour” and are considered low priority when managing resources to level cards. 
+Primary and secondary stella are essential for fighting in orbits and should be leveled first. Tertiary colours become important when fighting in high level orbits with the release of 3rd myths. 4th, 5th, and 6th stella are considered “off colour” and are considered low priority when managing resources to level cards. 
 
 Stella are important when entering battles with protofield stellactrum. Please see our [[Team building#The Team Assembly Plan|stella match vs brute force]] page for an in depth guide on how to use a card’s stella in team building.
 # Card Rarity & Ranks
-Memories in this game can be of three rarities: 3 star (R), 4 star (SR) or 5 star (SSR). As rarity increases, so do the card’s base stats. 
+Memories in this game can be of three rarities: 3⭐ (R), 4⭐ (SR) or 5⭐ (SSR). As rarity increases, so do the card’s base stats. 
 
 Cards gain ranks when you obtain multiple copies of the card. These copies are converted to shards, which are used to rank up a card. Shards can also be obtained in the galaxy explorer (GE). We refer to card ranks with the short form of R0, R1, R2, and R3. 
 
 <p style="text-align: center;"> <img src="/Images/memories cards/card_rank_ui.png" alt="Ranks" /> </p>
 
-Ranking a card will increase the card’s base stats but never above a similarly leveled higher rarity card (ie. An R3 4 star card at level 1 will have lower stats than an R0 5 star card also at level 1.) An R0 5 star card will have nearly twice the base stats of an R3 3 star card - this is why it is generally not recommended to level 3 star cards at all. 
+Ranking a card will increase the card’s base stats but never above a similarly leveled higher rarity card (ie. An R3 4⭐ card at level 1 will have lower stats than an R0 5⭐ card also at level 1.) An R0 5⭐ card will have nearly twice the base stats of an R3 3⭐ card - this is why it is generally not recommended to level 3⭐ cards at all. 
 
 Ranking a solar card will grant additional **Crit DMG**, while ranking a lunar card will grant additional **Crit rate**. 
 ## Solar vs Lunar Cards
@@ -42,7 +42,7 @@ Once you’ve reached Hunter Level 40, you will have access to a full team of 6 
 - Lunar cards do not provide any bonus to the team, only stats.
 - Solar cards grant a special boost to the team from “pair bonuses” and can change a companion’s gameplay.
 ## Solar Pairs
-Apart from 3 stars, solar cards come as a pair and are identified by a **ribbon with two letters** on their memory icon. When two solar cards have matching letters, they activate a “**pair bonus**”.
+Apart from 3⭐, solar cards come as a pair and are identified by a **ribbon with two letters** on their memory icon. When two solar cards have matching letters, they activate a “**pair bonus**”.
 >[!WARNING] Ranked solar pair
 >A solar pair is only considered ranked when **both** cards have been ranked to the same level. If they are not the same, the rank of the pair will be the same as the card with the lowest rank.
 
@@ -50,13 +50,13 @@ For example, in the image below, the pair in use is an “R1 VL”.
 
 <p style="text-align: center;"> <img src="/Images/memories cards/pair_ribbon.png" alt="Pair Symbols" /> </p>
 
-Pair bonuses for 4 star solar pairs are all the same: 
+Pair bonuses for 4⭐ solar pairs are all the same: 
 - R0: Increases DMG by 5%
-- R1: Boost oath recovery boost by 10%
+- R1: Increases oath recovery boost by 10%
 - R2: Reduces DMG taken by 5%
 - R3: Increase DMG by 5%
 
-Pair bonuses for 5 star solar pairs (myths) have both passive bonuses as well as active bonuses that are unique to the companion kit (listed in their individual companion guides).
+Pair bonuses for 5⭐ solar pairs (myths) have both passive bonuses as well as active bonuses that are unique to the companion kit (listed in their individual companion guides).
 
 Passive bonuses are the same for all myth pairs:
 - R0: Increases DMG by 8% and reduces DMG taken by 8%
@@ -70,17 +70,17 @@ Passive bonuses are the same for all myth pairs:
 ### R-1
 When discussing Myth companions, “R-1” is often used to describe a team using a Myth companion that does not match the solar pair cards. 
 
->[!example]- Myth companion on 4* solar pair
->For example, in the below team set up, the solar pair is the 4 star R1 VL, but the companion is Lightseeker. Lightseeker has his own 5 star solar cards (LT), which are not deployed on this team. In this team, only the VL pair bonuses apply, and none of the LT pair bonuses apply (if your account has an R3 LT pair, none of those pair bonuses apply to this R1 VL team).
+>[!example]- Myth companion on 4⭐ solar pair
+>For example, in the below team set up, the solar pair is the 4⭐ R1 VL, but the companion is Lightseeker. Lightseeker has his own 5⭐ solar cards (LT), which are not deployed on this team. In this team, only the VL pair bonuses apply, and none of the LT pair bonuses apply (if your account has an R3 LT pair, none of those pair bonuses apply to this R1 VL team).
 >
 >In this case, we often call it an R-1 LT: you can use LT’s base companion kit, but do not have access to any of the myth pair bonuses. This can often completely change the companion’s gameplay.
 >
 ><p style="text-align: center;"> <img src="/Images/memories cards/r-1_4starpair.jpg" alt="Myth companion on 4* solar pair" /> </p>
 
->[!example]- Myth companion with different 5* solar pair
->In the case of using Myth companions with 5 star solar cards that do not belong to the companion, then the standard 5* bonuses would apply, but not the companion-specific bonuses.
+>[!example]- Myth companion with different 5⭐ solar pair
+>In the case of using 5⭐ companions with 5⭐ solar cards that do not belong to the companion, then the passive 5⭐ bonuses would apply, but not the companion-specific active bonuses.
 >
->For example, in the Sylus team below, the 5* Abysm Sovereign (AS) companion is being used on a R2 Relentless Conqueror (CA) solar pair. In this case, the R-1 AS companion would have the 8% DMG bonus, 8% reduced DMG taken, 20% oath recovery, and the 4th energy charge granted by the R2 CA passive pair bonuses, but none of the kit specific bonuses (listed in the companion guide). Typically, the higher the rank of the 5 star solar pair cards, the less ideal it is to use a different companion, as you lose out on a lot of additional damage from the companion-specific pair bonuses.
+>For example, in the Sylus team below, the 5⭐ Abysm Sovereign (AS) companion is being used on a R2 Relentless Conqueror (CA) solar pair. In this case, the R-1 AS companion would have the 8% DMG bonus, 8% reduced DMG taken, 20% oath recovery, and the 4th energy charge granted by the R2 CA passive pair bonuses, but none of the kit specific bonuses (listed in the companion guide). Typically, the higher the rank of the 5⭐ solar pair cards, the less ideal it is to use a different companion, as you lose out on a lot of additional damage from the companion-specific pair bonuses
 >
 ><p style="text-align: center;"> <img src="/Images/memories cards/r-1_5starpair.jpg" alt="Myth companion on 5* solar pair" /> </p>
 # How to Read a Card’s Stats
@@ -102,7 +102,7 @@ Listed here are Oath’s Strength, Expedited Energy Boost, Oath Recovery Boost a
 ## Card Talents
 All cards come with a talent that is used to increase the card's D2W. Card talents **should not** be considered in most team set-ups, and are only used to passively add additional D2W stats to the team. Advanced players can try to match lunar talents with their companion if they are brute forcing or using minstats for a stage. 
 
-A card’s talent is used to determine the card’s base stats, and are not dependent on whether it is a solar card or a lunar card. All 5 star cards with an ATK talent at the same rank will have the same base stats, all 5 star cards with an HP talent at the same rank will have the same base stats, etc.
+A card’s talent is used to determine the card’s base stats, and are not dependent on whether it is a solar card or a lunar card. All 5⭐ cards with an ATK talent at the same rank will have the same base stats, all 5⭐ cards with an HP talent at the same rank will have the same base stats, etc.
 ## Cards stats table
 
 ![[Cards stats table#5 star cards]]

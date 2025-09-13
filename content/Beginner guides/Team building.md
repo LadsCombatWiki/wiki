@@ -6,15 +6,15 @@ tags:
 # Basics about a team
 Team building can be very intimidating if you are starting out. Here are the basics!
 1. A team is always made up of a maximum 2 <div class="tooltip">solar cards<span class="tooltiptext">Card has the “sun” icon</span> </div>, and 4 <div class="tooltip">lunar cards<span class="tooltiptext">Card has a crescent moon icon</span></div>. You cannot mix and match cards from different LI. You only need to have one out of six card slots equipped to deploy a companion.
-2. Where possible, always pick a <div class="tooltip">solar pair<span class="tooltiptext">Two solar cards that are matched</span></div>. Pair bonuses can greatly increase your damage output. [[Memories cards#Solar Pairs|More about pairs]].
+2. Where possible, always equip a <div class="tooltip">solar pair<span class="tooltiptext">Two solar cards that are matched</span></div>. Pair bonuses can greatly increase your damage output. [[Memories cards#Solar Pairs|More about pairs]].
 <p style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="Solar Pairs" /> </p>
 
-3. 5 star cards will always have higher base stats than 4 star cards (at similar levels), even if the 4 star is max ranked. [[Cards stats table]].
-4. However, 5 star cards are not always better to use than 4 star cards. Stella matched battles are a lot easier to fight due to the weakened mechanic, compared to brute forcing a level. Using a 4 star (or even 3 star) card to stella match the stage will greatly reduce the stats required to beat it. 
+3. 5⭐ cards will always have higher base stats than 4⭐ cards (at similar levels), even if the 4⭐ is max ranked. [[Cards stats table]].
+4. However, 5⭐ cards are not always better to use than 4⭐ cards. Stella matched battles are a lot easier to fight due to the weakened mechanic, compared to brute forcing a level. Using a 4⭐ (or even 3⭐) card to stella match the stage will greatly reduce the stats required to beat it. 
 5. The “auto-equip” function will always prioritise stella-matching a team. We do not recommend using the function because it does not recognise who your main is. This means it would rather choose six level 1 cards that can stella match the team, instead of six level 80 cards that do not stella match.
 
 >[!tip] Myth companion
->You can use a myth companion on any solar cards (or even without them). Similarly, you can use a free 4* companion when 5* solar cards have been equipped.
+>You can use a myth companion on any solar cards (or even without them). Similarly, you can use a free 4⭐ companion when 5⭐ solar cards have been equipped.
 # Assembling a team
 Before you can enter a battle, you must pick the team that you will bring into combat with you.
 
@@ -22,7 +22,7 @@ Before you can enter a battle, you must pick the team that you will bring into c
 
 In team window you have: 
 - **Information**: This button opens up a quick summary of all the info in this guide if you need a reminder.
-- **Protofield Stella**: Some stages have stellactrum that can be matched. Every stella that can be matched by the team grants it 5% dmg boost, up to a max of 30% boost. For example, in the image above, the field stella is 2 blue and 1 pink. The team has 3 blue and 3 pink, granting a total of 30% dmg boost. Alternatively, if your team had 1 blue and 5 pink, you would still receive the full 30% dmg boost, but would be considered a [[Team building#Brute Force vs Stella matching|brute force team]]. You can tap the stella to see a description of your team’s current stella bonuses.
+- **Protofield Stella**: Some stages have stellactrum that can be matched. Every stella that can be matched by the team grants it 5% dmg boost, up to a max of 30% boost. For example, in the image above, the field stella is 2 blue and 1 pink. The team has 3 blue and 3 pink, granting a total of 30% dmg boost. Alternatively, if your team had 1 blue and 5 pink, you would still receive the full 30% dmg boost, but would be considered a [[Team building#Brute Force vs Stella matching|brute force team]]. You can tap the stella to see a description of your team’s current stella bonuses. Matching the stella also means resonance skills have double their normal shield breaking ability.
 - **Team Stats**: This opens up a summary of the team stats of your current equipped memories. It includes a table of the sum of all the stats of the memories used in the team as well as the active pair bonuses (if available).
 
 >[!warning] Oath Recovery Boost
@@ -30,12 +30,12 @@ In team window you have:
 <p style="text-align: center;"> <img src="/Images/team_stats.jpg" alt="Team stats"/> </p>
 
 >[!tip] Sharing stats
->When discussing teams or asking for help in the LaDs Discord server, give a screenshot of both the main team set up page as well as the team stats page so helpers can more easily give you advice.
+>When discussing teams or asking for help in the LaDs Discord server, give a screenshot of both the main team set up page as well as the team stats page so helpers can more easily give you personalised advice.
 
 - **Recommended Memory Level**: The game puts a recommendation for what level your memories should be to easily beat the stage. Note that while this is useful in early and story battles, it quickly over-recommends levels on orbits and SHC because it does not take into account cores. Following this recommendation too early will result in mismanagement of stamina. Refer to our [[Starting point]] guide for player recommended starter card levels.
 
 >[!note]- Expert note
->The game has a damage formula that takes into account the difference between enemy level and the average level of the team. The bigger the difference between these two values, the less damage your team does to this enemy. In general, this difference is not notable enough to be considered when building your team stats.
+>The game puts a recommendation for what level your memories should be to easily beat the stage. Note that while this is useful in early and story battles, it quickly over-recommends levels on orbits and SHC because it does not take any equipped cores into account. Following this recommendation too early will result in mismanagement of stamina. Refer to our Starting point guide for player recommended starter card levels.
 
 - **Change Weapon/Change Companion**: These two circles allow you to customize what you bring into battle. Both will open into the overall same interface that will allow you to change your companion, your weapon or your battle outfit. All free and myth companions are available to use for any team of the same LI, regardless of the cards used. All [|hunter weapons] can be used with any companion (including myths), while exclusive weapons can only be used with their matching myth companion. Battle outfits do not affect combat at all and are only changed for aesthetics.
 - **Change Companion Outfit**: Make your partner look pretty in battle if you have an alternate outfit available for the companion. 💅 Has no effect on battle abilities.
@@ -78,13 +78,13 @@ Depending on the stage, there will be required stellactrum colours that you will
 **Brute team** - this can be either partial stella match or no stella match at all. Stat priority will be high *Crit rate %* and *Crit dmg %* -  a “crit build”. Brute force teams also require higher scaling stats when compared to a stella matched team.
 ## Solars, Weapon and Companion priorities
 **Solar pair priority**:
-Myth solar pair (5 star pair) > 4 star pair R3 > one 5 star and one 4 star > 4 star pair R0-2
+Myth solar pair (5⭐ pair) > 4⭐ pair R3 > one 5⭐ and one 4⭐ > 4⭐ pair R0-2
 
 **Companion**:
 Always prioritise using a myth companion over a free companion, even if you don't use myth solars.
 
 >[!NOTE]- Notes for Caleb companions
->Don't use FA Caleb for mob stages. If FA is the only myth you have for him, use his free companion Pilot to fight mobs.
+>It is not recommended to use  Caleb’s FA companion for mob stages. If FA is the only myth you have for him, use his free companion Pilot to fight mobs.
 
 If you don't have any myth companions, you will have to use a free companion. Sylus and Caleb have only one free companion, while the OG3 have a few to choose from. Recommended OG3 free companions:
 - Xavier: Deepspace hunter

@@ -13,8 +13,8 @@ tags:
 - **Overstat** - the team’s stats are a good deal higher than is needed to beat the stage if the companion’s kit is played properly
 ## Companion kit
 - **Companion** - this is who you fight alongside in battles.
-- **Free companion** - the game gives free 4* companions for all LI.
-- **Myth companion** - 5* companion that needs to be unlocked from gacha.
+- **Free companion** - the game gives free 4⭐ companions for all LI.
+- **Myth companion** - 5⭐ companion that needs to be unlocked from gacha.
 - **Kit** - general term for the sum of all the skills a companion can do
 - **Rotation** - the specific order of different attacks. When optimised, will do the maximum damage
 - **Button mashing** - refers to repeatedly tapping an attack without consideration for rotation
@@ -28,13 +28,13 @@ tags:
 - **Lunar Card** - has a crescent moon icon; a maximum of 4 can be equipped in a team.
 - **Solar Card** - has the “sun” icon; a maximum of 2 can be equipped in a team.
 - **Solar Pair** - two solar cards that are matched; pairs are represented by *two letters*.
-- **Myth** - a 5 star solar pair; unlocks a 5 star companion.
+- **Myth** - a 5⭐ solar pair; unlocks a 5⭐ companion.
 	- **Standard Myth** - can be obtained in all banners and from crates in XSpace Echo; cannot be obtained in Galaxy Explorer or wishing well shop.
 	- **Limited Myth** - can only be obtained in limited banner runs and are usually stronger than standard myths.
 - **Card talent** - each card has a talent that increases d2w; can scale off of ATK/HP/DEF.
 - **Rank** - additional copies of a card. R0, R1, etc
-- **Pair Bonus** - when solar pairs are equipped, they will activate a bonus based on their rank. Ranked 5 star solar pairs result in additions to the kit.
-	- **R-1** - is used in reference to a 5 star companion used on a team that has not equipped the companions solar pair cards.
+- **Pair Bonus** - when solar pairs are equipped, they will activate a bonus based on their rank. Ranked 5⭐ solar pairs result in additions to the kit.
+	- **R-1** - is used in reference to a 5⭐ companion used on a team that has not equipped the companions solar pair cards.
 ## Battle
 - **Stella** - short for stellactrum; the “colour” of a stage or a card
 - **D-Pad** - “directional pad”; is on the left side of the screen and controls the movement of MC

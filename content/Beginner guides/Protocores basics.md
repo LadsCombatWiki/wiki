@@ -12,10 +12,10 @@ Here are some core basics to understand before you start using our companion gui
 <p style="text-align: center;"> <img src="/Images/protocores_basics/coreUI.png" alt="Core UI" /> </p>
 
 # Stats definition
-Those stats usually not the part of cards and they can be found only on cores:
-- **Expedited Energy Boost (EEB)** - makes your energy regenerates faster. Crucial stat for a lot of companions who depends on active skill to do dmg.
-- **Oath Recovery Boost (ORB)** - oath recharges faster with it. Usually need 14% ORB to make oath twice in 2 minutes. *ORB also part of r1 solar pair.*
-- **Oath Strength (OS)** - oath do more dmg (works outside and inside weakness).
+These stats are usually not the part of a card’s base stats and can be found only on cores:
+- **Expedited Energy Boost (EEB)** - makes your energy regenerate faster. This is a crucial stat for a lot of companions who depend on their active and resonance skills to deal dmg.
+- **Oath Recovery Boost (ORB)** - increases oath recharge rate. It is recommended to have at least 14% ORB to use oath twice in a 2-minute battle (most orbit stages). *ORB can also be found in R1 pair bonuses.*
+- **Oath Strength (OS)** - increases the damage of ardent oath (effective both outside and inside weakness).
 
 **Differentiating between Flat and Bonus Substats**
 Flat stats add directly to the card’s base stat while bonus stats add a multiple of the card’s base stat. For example, in the card below, the base ATK stat is 546. A 13.0% ATK bonus translates to 546 x 13% = 70. The total additional ATK that this gamma core grants is 170 (mainstat) + 86 (flat stat) + 70 (ATK%) = 326 (the yellow number).
@@ -23,7 +23,7 @@ Flat stats add directly to the card’s base stat while bonus stats add a multip
 <p style="text-align: center;"> <img src="/Images/protocores_basics/flat_vs_percent.jpg" alt="Flat vs Percent" /> </p>
 
 > [!faq] TL;DR:
-> The higher your card’s base stat (5 star, awakened or/and ranked), the more desirable stat % is, and conversely, the lower your card’s base stat (4 star and 3 star), the more desirable flat stat is. Having both is ideal in most cases.
+> The higher your card’s base stat (5⭐, awakened or/and ranked), the more desirable stat bonus % is, and conversely, the lower your card’s base stat (4⭐ and 3⭐), the more desirable flat stat is. Having both is ideal in most cases.
 
 # Core Classifications
 > [!tabbed] cores 
@@ -135,7 +135,7 @@ Regardless of mainstat level or type, a core can have a minimum of TWO substats,
 >[!note]+ Expert note: 
 >Cores with 4 substats have an overall higher roll value and zero chance of adding an undesirable substat, compared to cores with 2 substats that have the risk of adding a dead stat. However, 2-liner cores have greater potential for a very high single substat value.
 >
->For example, the two cores below are both excellent for an atk-scaling companion. The one on the left is overall very good, but it would be impossible to get 35.5% ATK bonus on it like the purple core.
+>For example, the two cores below are both excellent for an atk-scaling companion. The pink one is overall very good, but it would be impossible to get 35.5% ATK bonus on it like the purple core.
 > >[!column | flex]
 > > >[!note| clean no-t center]
 > > >
@@ -164,40 +164,12 @@ The only exception to the above rules are EEB/ORB betas and CR/CD/D2W deltas due
 Choosing between crit and d2w cores is based solely on the stage/enemy and whether the team is stella matched or not, regardless of companion. You should have both types of deltas to be able swap them depending on which build you need for the stage.
 
 ### Types of builds
-In general we have 3 types of builds for different kind of stages. Usually determines by main stats on delta cores, but also for higher stages in orbit it is useful to have those stats in substats. Those builds are: full d2w build, hybrid build and crit build.
-- Full d2w consists from **1cr + 3d2w or 4d2w**.
->[!example]- Example d2w build
->The field stella is 4 purple and 2 yellow and this team matches it. If this is a shielded mob level, a full D2W build is recommended. All four triangle cores have a D2W mainstat. 
-> >[!Column | flex]
-> > > [!note | clean no-t center]
-> > > 
-> > > ![[d2w_example_1.jpg]]
-> >
-> > > [!note | clean no-t center]
-> > > 
-> > > ![[d2w_example_2.jpg]]
-- Hybrid build consists from **2 crit rate (or 1 crit rate + 1 crit dmg) + 2 d2w.**
->[!example]- Example hybrid build
->The field stella is 4 purple and 2 yellow and this team matches it. If this is a boss level, a hybrid build is recommended. This usually means 1 CR, 1CD and 2 D2W cores. Try to get a minimum of 40-50 CR. This is also a possible build for stella-matched stages with mixed shielded and unshielded mobs. 
-> >[!Column | flex 2]
-> > > [!note | clean no-t center]
-> > > 
-> > > ![[d2w_example_1.jpg]]
-> >
-> > > [!note | clean no-t center]
-> > > 
-> > > ![[hybrid_example_2.jpg]]
+In general we have 3 types of builds for different kinds of stages: full d2w build, crit build, and hybrid build. Builds are named after the type of mainstat you should have on your team’s 4 delta / triangle cores and should be chosen based on how much time the enemy or enemies spend in a weakened state. 
+
+Players with lots of cores to choose from can also try to match substats to the delta mainstat.
+- A full d2w build usually consists of **1cr + 3d2w or 4d2w**.
+- Hybrid build consists of **2 crit rate (or 1 crit rate + 1 crit dmg) + 2 d2w.**
 - Crit build consists from **only crit rate and crit dmg**. You should follow recommended crit ratio for those builds to determine which main stats you need to pick for deltas. Usually they are 2 crit rate + 2 crit dmg.
->[!example]- Example crit build
->The field stella is 4 purple and 2 yellow and this team does not match . If this is a boss level, a brute force / crit build is recommended. All four triangle cores have either CR or CD as a main stat, with the goal of achieving the recommended ratios. In cases where the stage cannot be stella matched, but includes only shielded mobs, a hybrid build can be considered.
-> >[!Column | flex]
-> > > [!note | clean no-t center]
-> > > 
-> > > ![[crit_example_1.jpg]]
-> >
-> > > [!note | clean no-t center]
-> > > 
-> > > ![[crit_example_2.jpg]]
 
 ### Stella matched
 - **Mobs with shields**: full d2w
@@ -210,6 +182,41 @@ In general, always only crit build. Certain enemies may need a different build b
 
 **Recommended crit ratios**: 50/200, 60/220, 70/240, 80/260, 90/ 280, 100/300
 
+#### Examples of builds
+
+>[!example]- Example d2w build
+>The field stella is 4 purple and 2 yellow and this team matches it. If this is a shielded mob level, a full D2W build is recommended because enemies will spend the majority of the battle in a weakened state. All four triangle cores have a D2W mainstat.
+> >[!Column | flex]
+> > > [!note | clean no-t center]
+> > > 
+> > > ![[d2w_example_1.jpg]]
+> >
+> > > [!note | clean no-t center]
+> > > 
+> > > ![[d2w_example_2.jpg]]
+
+>[!example]- Example hybrid build
+>The field stella is 4 purple and 2 yellow and this team does not match . If this is a boss level, a brute force / crit build is recommended because the enemy will spend the majority of the battle in a shielded state. All four triangle cores have either CR or CD as a main stat, with the goal of achieving the recommended ratios. In cases where the stage cannot be stella matched, but includes only shielded mobs, a hybrid build can be considered. A crit build is also recommended for stages where stella can be matched, but there are no shielded enemies.
+> >[!Column | flex 2]
+> > > [!note | clean no-t center]
+> > > 
+> > > ![[d2w_example_1.jpg]]
+> >
+> > > [!note | clean no-t center]
+> > > 
+> > > ![[hybrid_example_2.jpg]]
+
+>[!example]- Example crit build
+>The field stella is 4 purple and 2 yellow and this team does not match . If this is a boss level, a brute force / crit build is recommended. All four triangle cores have either CR or CD as a main stat, with the goal of achieving the recommended ratios. In cases where the stage cannot be stella matched, but includes only shielded mobs, a hybrid build can be considered.
+> >[!Column | flex]
+> > > [!note | clean no-t center]
+> > > 
+> > > ![[crit_example_1.jpg]]
+> >
+> > > [!note | clean no-t center]
+> > > 
+> > > ![[crit_example_2.jpg]]
+
 # Strategy for building cores
 1. Because teams are constantly changing based on stage needs, cores are also constantly being moved around between memories. Even within a single team line-up, you may need to adjust for more crit or for more D2W. This means that memories will never have a locked-in ideal core build and **you will have to have a varied collection of cores, even for a single LI**.
 2. Use the companion guides to determine whether cores obtained in hunt zones are worth leveling or should be decomposed.
@@ -221,9 +228,9 @@ In general, always only crit build. Certain enemies may need a different build b
 4. If enhancing a 2- or 3-liner core results in the addition of a dead/undesirable stat, you can decompose the core. It is often recommended to decompose the core instead of feeding directly to another as this may result in “over-leveling” the new core, and wasting EXP. 
 5. While cores should always be built for the companion, some general beginner rules about substats apply when looking for a “good” core. 
 	- Try to have **both flat and bonus% of the scaling stat** that the companion needs, but **prioritize bonus%**. The higher the level/rank of the memory, the more scaling stat you get from bonus%, while flat stats do not scale with levels/ranks. If you get a core that levels repeatedly into a flat stat, this does not mean the core is immediately bad - it can be very good for low level/rarity cards that you are using just to stella match a stage. A bonus% greater than 20% is usually considered very good. 
-	- **Crit** is generally **good** to have, especially if you are maining Sylus and Caleb because they have low stella coverage and will often need to brute force a team
+	- **Crit** is generally **good** to have, especially if you are maining Sylus and Caleb because they have low stella coverage and will often need to brute force a stage.
 	- **D2W** is also generally **good** to have, though is less ideal for Sylus and Caleb mains for the same reasons above
-	- **Oath strength** is often considered **mediocre**. Unless using Caleb’s LR companion, oath can only be used once to 3* SHC stage 4, and only twice in most orbits, so strengthening it gives low overall damage increase. It’s not a dead stat, but doesn’t buff the team as well as the stats mentioned above. 
+	- **Oath strength** is often considered **mediocre**. Unless using Caleb’s LR companion, oath can only be used once to 3* SHC stage 4, and only twice in most orbits, so strengthening it gives low overall damage increase. It’s not a dead stat, but doesn’t buff the team as well as the stats mentioned above, especially with low ranked companions.
 	- In early game, prioritize leveling cubes with **EEB and ORB regardless of their substats**. Because EEB and ORB are so valuable for gameplay, but cannot be found in substats and are so rare as a mainstat, their substats are considered more of a luxury at the start of the game. Continue to look for EEB and ORB cubes with good substats over time. 
 
 <Carousel>
