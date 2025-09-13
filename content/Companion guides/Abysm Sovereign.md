@@ -30,7 +30,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 > > - Need to manage HP, especially for R-1
 
 ---
-## Skills
+## Companion skills
 >[!column | flex]
 >
 >>[!skills | clean no-t]
