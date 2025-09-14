@@ -199,7 +199,15 @@ AS performs best when using his signature weapon. It is not recommended to pair 
 AS does not have a strict rotation. In general, you want to enter FURY as much as possible and then use active and support skills as they come off cooldown. Use ba-ba-dash while waiting for cooldowns. Do NOT hold active skill to charge unless you know you are about to be attacked, OR you are purposely trying to absorb hits to heal while the enemy is locked (ex. myst, luminivore).
 
 ### R0
-If using AS in SHC to 3* final stages, you should be able to have enough EEB to freely use skills as they come off cooldown. If using AS with an ORB, your EEB is lower and you will have to manage skill usage better. FURY allows for increased damage, so prioritising energy for resonance before skills usually means one active skill for every two resonance skills used. Make sure to use your active skill in weakened state if given the option. Depending on your gameplay, you can consider alternating using FURY and normal tap resonance - having higher HP when activating FURY will result in increased damage. As long as your HP bar is at least 50-70% full, FURY will probably be a better choice.
+If using AS in SHC to 3⭐ final stages, you should be able to have enough EEB to freely use skills as they come off cooldown. If using AS with an ORB, your EEB is lower and you will have to manage skill usage better. FURY allows for increased damage, so prioritising energy for resonance before skills usually means one active skill for every two resonance skills used. Make sure to use your active skill in weakened state if given the option. 
+
+Because of how much damage AS can do when using a good rotation, it is sometimes advisable to use 2 EEB even with R0, typically for brute forcing higher levels where Oath does not do much damage out of weakness.
+
+Depending on your gameplay, you can consider alternating using FURY and normal tap resonance - having higher HP when activating FURY will result in increased damage. As long as your HP bar is at least 50-70% full, FURY will probably be a better choice.
+
+ORB + EEB: Alternate between [Feast Resonance > support > ba-ba-dash as needed] and [Fury Resonance > support + active > ba-ba-dash as needed]. When fighting bosses, try to time using active in weakness. 
+
+2 EEB:  Repeat [Resonance > support + active > ba-ba-dash as needed], alternating between fury and feast if needed.
 
 ### R-1
 All the notes for R0 apply, but you will not receive healing at the end of FURY. This means you need to be more careful to not get hit. You will have to more often alternate using FURY and using a non-fury resonance so that you can heal to above 25% and activate the damage bonus that comes with FURY.

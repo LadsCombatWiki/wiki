@@ -1,1 +1,1 @@
-<p style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="" /> </p>
+<div style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="" /> </div>

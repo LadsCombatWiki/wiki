@@ -8,7 +8,7 @@ Team building can be very intimidating if you are starting out. Here are the bas
 1. A team is always made up of a maximum 2 <div class="tooltip">solar cards<span class="tooltiptext">Card has the “sun” icon</span> </div>, and 4 <div class="tooltip">lunar cards<span class="tooltiptext">Card has a crescent moon icon</span></div>. You cannot mix and match cards from different LI. You only need to have one out of six card slots equipped to deploy a companion.
 2. Where possible, always equip a <div class="tooltip">solar pair<span class="tooltiptext">Two solar cards that are matched</span></div>. Pair bonuses can greatly increase your damage output. [[Memories cards#Solar Pairs|More about pairs]].
 
-<p style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="Solar Pairs" /> </p>
+<div style="text-align: center;"> <img src="/Images/solar_pairs.png" alt="Solar Pairs" /> </div>
 
 3. 5⭐ cards will always have higher base stats than 4⭐ cards (at similar levels), even if the 4⭐ is max ranked. [[Cards stats table]].
 4. However, 5⭐ cards are not always better to use than 4⭐ cards. Stella matched battles are a lot easier to fight due to the weakened mechanic, compared to brute forcing a level. Using a 4⭐ (or even 3⭐) card to stella match the stage will greatly reduce the stats required to beat it. 
@@ -19,7 +19,7 @@ Team building can be very intimidating if you are starting out. Here are the bas
 # Assembling a team
 Before you can enter a battle, you must pick the team that you will bring into combat with you.
 
-<p style="text-align: center;"> <img src="/Images/teamUI.png" alt="Team window" /> </p>
+<div style="text-align: center;"> <img src="/Images/teamUI.png" alt="Team window" /> </div>
 
 In team window you have: 
 - **Information**: This button opens up a quick summary of all the info in this guide if you need a reminder.
@@ -29,7 +29,7 @@ In team window you have:
 >[!warning] Oath Recovery Boost
 >Any oath boost from an R1 solar pair bonus is not shown here as part of the Oath Recovery Boost.
 
-<p style="text-align: center;"> <img src="/Images/team_stats.jpg" alt="Team stats"/> </p>
+<div style="text-align: center;"> <img src="/Images/team_stats.jpg" alt="Team stats"/> </div>
 
 >[!tip] Sharing stats
 >When discussing teams or asking for help in the LaDs Discord server, give a screenshot of both the main team set up page as well as the team stats page so helpers can more easily give you personalised advice.
@@ -53,7 +53,7 @@ In team window you have:
 ## Stellactrum
 **Stella Matched** - when the cards in the team match the protofield stellactrum. Stella matched team:
 
-<p style="text-align: center;"> <img src="/Images/stella_match1.png" alt="Stella Match" /> </p>
+<div style="text-align: center;"> <img src="/Images/stella_match1.png" alt="Stella Match" /> </div>
 
 In cases where the stage does not require 6 stella to be fully matched, the remaining slots can be filled by:
 - Another card(s) with matching color; this will increase the boost DMG (see below **Partial Stella Match**), or
@@ -64,17 +64,17 @@ A fully stella matched team means that resonance skills **Double** their shield 
 
 Mob with 2 protoshield:
 
-<p style="text-align: center;"> <img src="/Images/shieldbreakmob.gif" alt="Breaking Mob" /> </p>
+<div style="text-align: center;"> <img src="/Images/shieldbreakmob.gif" alt="Breaking Mob" /> </div>
 
 Boss with 4 protoshields:
 
-<p style="text-align: center;"> <img src="/Images/bossshieldbreak.gif" alt="Breaking Boss" /> </p>
+<div style="text-align: center;"> <img src="/Images/bossshieldbreak.gif" alt="Breaking Boss" /> </div>
 
 **Brute Force** - when the cards in the team do NOT match the protofield stellactrum. With the exception of Caleb’s FA companion, this usually means that normal/elite enemies with shields take twice as long to become weakened, and bosses take 4 times as long (with some exceptions - see [[Boss guides/index|Boss guides]]). A brute force team typically requires a full [|crit build].
 
 **Partial Stella Match** - Any card that is in the team that matches the protofield stellactrum grants a 5% bonus, even if the team cannot perfectly match, resulting in a brute force build. 
 
-<p style="text-align: center;"> <img src="/Images/stella_match2.png" alt="Partial Stella Match" /> </p>
+<div style="text-align: center;"> <img src="/Images/stella_match2.png" alt="Partial Stella Match" /> </div>
 
 ## Brute Force vs Stella matching
 Depending on the stage, there will be required stellactrum colours that you will need to match. Although matching all colours is the optimal way to go, this can be difficult especially for players who do not build all LIs and have limited card selection. But no need to worry, where there’s, a will there’s a way!
