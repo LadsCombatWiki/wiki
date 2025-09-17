@@ -21,11 +21,11 @@ The bottom half of the screen is where the majority of the active combat control
 - **Energy**: Charges over time and allows you to use active and resonance skills
 - **D-Pad**: short for “directional pad”, this is where you control the movements of MC
 
-<p style="text-align: center;"> <img src="/Images/battle_controls/d-pad.gif" alt="D-Pad" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/d-pad.webp" alt="D-Pad" /> </p>
 
 - **Dash/Dodge**: used to avoid damage or to move quickly in the direction indicated by the D-Pad. If this button is tapped while no direction is selected on the D-Pad, MC will dodge backwards. 
 
-<p style="text-align: center;"> <img src="/Images/battle_controls/dodge.gif" alt="Dodge" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/dodge.webp" alt="Dodge" /> </p>
 
 - **Direct Dodge**: Tap to make MC run in the direction selected by the D-Pad.
 
@@ -34,12 +34,12 @@ The bottom half of the screen is where the majority of the active combat control
 - **Perfect Dodge**: If this button is tapped at the exact time that an enemy is about to attack MC, this is called a “Perfect Dodge”. A perfect dodge will trigger an empowered support skill (see below).
 - **Basic Attack (BA)**: Tapping the button will make MC use her basic attack. Tapping repeatedly will execute a chain of basic attacks. Usually, a chain of attacks is referred to as 4BA or 2BA, etc.  The number before BA indicates how many attacks in the chain you need to do. 2BA is also sometimes written as “ba ba dash/dodge”
 
-<p style="text-align: center;"> <img src="/Images/battle_controls/BA.gif" alt="Basic attack" /> </p>
-<p style="text-align: center;"> <img src="/Images/battle_controls/4BA.gif" alt="Chain of 4 Basic attacks" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/BA.webp" alt="Basic attack" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/4ba.webp" alt="Chain of 4 Basic attacks" /> </p>
 
 - **Cancel animation**: The dodge button is often used to cancel long skill animations or to interrupt the basic attack chain to save time and deal more damage.
 
-<p style="text-align: center;"> <img src="/Images/battle_controls/2BA.gif" alt="Chain of 2 Basic attacks with cancel" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/2ba.webp" alt="Chain of 2 Basic attacks with cancel" /> </p>
 
 - **Charged Attack (CA)**: Holding the button will make MC use a charged attack. 
 
@@ -47,7 +47,7 @@ The bottom half of the screen is where the majority of the active combat control
 
 - **Active Skill**: MC’s weapon has a special attack that deals more damage. The number under the button indicates how many energy charges are required to execute the attack. In most cases it is 1 energy.
 
-<p style="text-align: center;"> <img src="/Images/battle_controls/active.gif" alt="Active skill" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/active.webp" alt="Active skill" /> </p>
 
 - **Resonance Skill (Reso)**: Partner up with your companion to unleash a joint attack that can break the enemies’ protocore shield(s). The number under the button indicates how many energy charges are required to execute the attack. Usually it is 2 energy.
 
@@ -63,7 +63,7 @@ The bottom half of the screen is where the majority of the active combat control
 
 - **Empowered Support Skill**: After triggering a perfect dodge, the support skill CD will end immediately and the button will flash for a short period of time. When used in its flashing state, the support skill is empowered with additional power, specific to the companion. After using an empowered skill, it enters cooldown and cannot be triggered for a short period. Note that if the support skill is not used before the flashing stops, this cooldown does not start and you can immediately trigger another empowered support. In some cases, this functionality can be used to continuously shorten the CD of the support skill.
 
-<p style="text-align: center;"> <img src="/Images/battle_controls/emp_support.gif" alt="Empowered Support skill" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/emp_support.webp" alt="Empowered Support skill" /> </p>
 
 # Normal vs Critical vs Weakened Damage
 There are three types of damage that can be inflicted on enemies: normal, critical and weakened. 

@@ -36,8 +36,8 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/as/support.gif" alt="Support skill">
->><img src="Images/as/empowered support.gif" alt="Empowered support skill">
+>><img src="Images/as/support.webp" alt="Support skill">
+>><img src="Images/as/empowered support.webp" alt="Empowered support skill">
 >></Carousel>
 >
 >>[!skills | clean no-t]
@@ -45,7 +45,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/support_icon.png" alt="Support skill" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/as/support_icon.webp" alt="Support skill" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Fiendish Claw</td>
 >>    </tr>
 >>    <tr>
@@ -65,8 +65,8 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/as/resonance - feast.gif" alt="Reso tap (feast mode)">
->><img src="Images/as/resonance - fury.gif" alt="Reso hold (fury mode)">
+>><img src="Images/as/resonance - feast.webp" alt="Reso tap (feast mode)">
+>><img src="Images/as/resonance - fury.webp" alt="Reso hold (fury mode)">
 >></Carousel>
 >
 >>[!skills | clean no-t]
@@ -74,7 +74,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/reso_icon.png" alt="Resonance skill" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/as/reso_icon.webp" alt="Resonance skill" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Wrath Judgement</td>
 >>    </tr>
 >>    <tr>
@@ -92,8 +92,8 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/as/ba combo.gif" alt="Basic attacks combo">
->><img src="Images/as/Charged attack.gif" alt="Charged attack">
+>><img src="Images/as/ba combo.webp" alt="Basic attacks combo">
+>><img src="Images/as/Charged attack.webp" alt="Charged attack">
 >></Carousel>
 >
 >>[!skills | clean no-t]
@@ -118,9 +118,9 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/as/active - tap.gif" alt="Active tap">
->><img src="Images/as/active - hold.gif" alt="Active hold">
->><img src="Images/as/active - parry.gif" alt="Active parry">
+>><img src="Images/as/active - tap.webp" alt="Active tap">
+>><img src="Images/as/active - hold.webp" alt="Active hold">
+>><img src="Images/as/active - parry.webp" alt="Active parry">
 >></Carousel>
 >
 >>[!skills | clean no-t]
@@ -147,7 +147,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 ><div class="skill-table">
 ><table>
 >    <tr>
->       <td rowspan="2" width="60"><img src="Images/as/passive_icon.png" alt="Passive" width="100"></td>
+>       <td rowspan="2" width="60"><img src="Images/as/passive_icon.webp" alt="Passive" width="100"></td>
 >       <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Soul Pact</td>
 >    </tr>
 >    <tr>

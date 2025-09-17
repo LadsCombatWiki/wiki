@@ -1,0 +1,48 @@
+---
+title: Battle Modes
+draft: true
+tags:
+---
+**Story Battles** - these are littered throughout the main story and you have to pass them to continue the story. In some of these battles, the team is locked and cannot be changed. 
+
+**Training Room** - this mode is used to help you learn how to combat in LADS but is not comprehensive. Feel free to do them before returning to this wiki to learn specific gameplay. 
+- **Basics** - learn about game mechanics like dodging, skills, shields, lock-on. This is not a bad place to revisit once you’ve gotten past the initial shock of all the things to do in this game.
+- **Weapons** - learn to use the 4 basic hunter weapons: wand, sword, guns, claymore
+- **Companions** - Allows you to try every single available 5⭐ myth and teaches you their basic skills and rotations. Endless Challenge allows you to try to prove your builds! Do note that this mode is not always designed for the companion’s kit so the usual rotation recommendations in the companion guides on this site may not work to obtain 400k points. This mode is easiest when you have end game builds with high ranks. Note that this mode requires the use of signature weapons and you cannot substitute any hunter weapon. 
+- **Freestyle** - there is no specific goal in these ones. We recommend using the shield breaking training room to practice rotations since there is no stress of getting hit. Once you have got comfortable with rotations on a stationary target, move to a real battle to practice the rotations on real time opponents. 
+
+**Bounty Hunt** - here you can farm for card exp, gold, and stella crystals - hunt levels range from 1-9 and all require 8 stamina to pursue. Card exp is used to increase the level of your cards and stella crystals are used to ascend your cards at levels 10/20/30/40/50/60/70 and awaken at 80. Gold is a much sought after resource because every part of team building requires it - it is used for ascending/awakening cards as well as core leveling. You also need some amount of gold to forge cards from shards obtained from galaxy explorer. 
+
+**Core Hunt** - this is where you will likely spend most of your stamina once you have cleared all levels. Starting in zone 7, you will start receiving a guaranteed SSR core drop, with the chance of obtaining a second increasing in each subsequent zone until zone 10 when 2 ssr cores are guaranteed in every run. Due to how expensive each pursuit is (20 stamina per run), it is not recommended to start farming cores until you have cleared at least zone 9, ideally 10. Core hunt zones are more difficult to complete compared to bounty hunts but card levels, stella match, and learning core basics will help you optimize your team to get through these zones without wasting stamina on lower level zones.  
+
+**Deepspace trials (orbits)** - a permanent gameplay mode where you can test your team abilities. Aside from the fluctuant open orbit, levels are one-time play only. Most trials are 2 minutes long. Head over to the [orbits] page for tips on how to beat each type of level. 
+- **Stable Open Orbit (open/oo)** - Take whichever companion you want to defeat various enemies. Stella requirements are for all LI and their myths. 
+	- Every level ending in 0 starting at 20 features two trials, usually referred to as T1 and T2. T1 is always mobs, and T2 is always a boss. 
+    - Every level ending in 5 and 0 will feature a field fluctuation that will affect the enemies:
+	    - Cornered Retaliation: wanderers deal more dmg as their HP drops
+	    - Corrosive Strike: when you are hit by a wanderer, you will sustain damage over time - the more times you are hit, the greater the damage over time
+	    - Deepspace Fissure - random “fissures” will appear on the field that will cause damage if you are in the area. Avoid standing in these spots on the battle field.
+	    - Distant Advantage: if you are far away from the enemy, you take extra damage. 
+	    - Fading strength: when you or your companion’s HP drops below 70%, you will deal less damage
+	    - Frenzy Activation: not to be confused with the frenzy levels at 3 & 8. Wanderers will enter frenzy state after 45s and deal increased damage
+	    - Protocore shield: also known as “def fluctuation” in the community. Wanderers with shields have additional DEF, and when the shield is broken, their DEF is decreased. These stages should be stella-matched when possible since brute force teams need extra stats to overcome the added DEF. 
+    - Every level ending in 3 and 8 will feature a special kind of battle that is not just defeating a couple waves of enemies: [[Frenzy]], dormant luminivore, beacon activation, protocore cluster, stabilizer anchor
+- **Directional** - you must take a certain LI with you to these trials and they are only open on certain days. All directional orbits are open on Saturday and Sunday. Directional orbits tend to be more difficult than stable open orbits of the same level.
+	- When searching for clears, directional orbits are often referred to by LI’s evol type, rather than their names: Xavier = Light, Zayne = Ice, Rafayel = Fire, Sylus = Energy, Caleb = Gravity
+	- Every level ending in 0 starting at 30 features two trials, usually referred to as T1 and T2. T1 is always mobs, and T2 is always a boss. From 30-120, T1 is based on the LI’s secondary colour, and T2 is based on the LI’s primary colour. From 130 onwards, these colours are reversed (T1 = primary colour, T2 = secondary colour) with the exception of 170. 
+	- Every level ending in 3 and 8 will feature a special kind of battle that is not just defeating a couple waves of enemies: [[Frenzy]], dormant luminivore, beacon activation, protocore cluster, stabilizer anchor
+	- Every level ending in 4 and 7 are stella-less levels, meaning no bonuses are granted for stella matching, and enemy shields break one at a time. 4 levels tend to have shielded enemies, while 7 levels do not. Bring your strongest cards regardless of stella and use a full crit build. 
+- **Fluctuant Open (foo)** - added to the game in version 4.0 and in general is a game mode designed for whales and endgame players. Do not feel bad if you are getting stuck early on here. Focus on moving up in stable and directional orbits and eventually you will be able to accumulate stars in FOO.
+	- Every level ending in 5 and 0 starting features two trials, both of which are always a boss. They also feature fluctuations as listed above for the stable open orbits.
+    - While stable open orbits are based only on defeating enemies within a certain time limit, FOO grants stars for clearing levels faster - a timer is in the top left to keep track of how much time has passed
+    - Levels 1-4, 6-9: 105s for 1 star, 90s for 2 stars, 75s for 3 stars
+	- Levels 5 and 0 stars are based on time needed to complete both trials: 210s for 1 star, 180s for 2 stars, 150s for 3 stars
+
+**Hunter Contest** - has three stages: primary, junior, and senior (SHC). Primary and junior are permanent and are used to help pliers get used to the gameplay mode. When players refer to hunter contest, they are usually referring to the senior one. It is the most difficult of the three and resets every 2 weeks. It is the only source of renewable diamonds in the game. While seasons only last 2 weeks, every season has the same features:
+- SHC requires three different teams with their own cores - cores and cards cannot be shared across the three teams and have to be selected at the start of the season. Once teams are set, they cannot be changed - cores are locked to their cards regardless of what you do outside of SHC. The only things that can be changed are the core and card levels. There is an option to reset one team without needing to change the other teams, but any cores that are locked to the other teams not being reset cannot be used and will be removed from the team if you do not change them. Any stars that were obtained before resetting the team will be reset and you will have to redo the battles. 
+- Team A will have 5+1 stellas, team B will have 4+1 stellas, and team C will have 3+1 stellas. The combination of stellas is usually the primary and secondary for an LI. 
+- In general team C is always the easiest to get all stars. Team A and B alternate as the “hardest” level in that season.
+- Whenever there’s a new myth released, the myth’s stella will be featured in team B. The season immediately after will feature the myth’s stella in team A. 
+- Stage 4 of each team will always require a clear in 90s to obtain the full 3 stars. With the exception of Caleb’s X-02 companion, this means that using 2 oaths is impossible and the use of an ORB beta core is useless. 
+
+**Abyssal Chaos (AS) & UNICORNS Operation (UO)**: Special roguelike gameplay modes that are unaffected by your cores. Instead all cards are at 80 and awakened, and you gain special buffs as you progress that help improve your team. There are easy, hard, and challenge modes - start with easy to start unlocking universal buffs to your team, then move on to hard. Both easy and hard modes can generally be played on auto in the battles if you have a decent collection of 5* cards. Challenge mode should only be attempted once all universal buffs have been unlocked and may require manual combat to complete. See [Abyssal Chaos Guides (Tobias, Final Farewell, Kahli, etc.) by @k.monke](https://linktr.ee/theresakuchi) for a more comprehensive guide for both gameplay modes.

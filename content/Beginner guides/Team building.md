@@ -34,10 +34,10 @@ In team window you have:
 >[!tip] Sharing stats
 >When discussing teams or asking for help in the LaDs Discord server, give a screenshot of both the main team set up page as well as the team stats page so helpers can more easily give you personalised advice.
 
-- **Recommended Memory Level**: The game puts a recommendation for what level your memories should be to easily beat the stage. Note that while this is useful in early and story battles, it quickly over-recommends levels on orbits and SHC because it does not take into account cores. Following this recommendation too early will result in mismanagement of stamina. Refer to our [[Starting point]] guide for player recommended starter card levels.
+- **Recommended Memory Level**: The game puts a recommendation for what level your memories should be to easily beat the stage. 
 
->[!note]- Expert note
->The game puts a recommendation for what level your memories should be to easily beat the stage. Note that while this is useful in early and story battles, it quickly over-recommends levels on orbits and SHC because it does not take any equipped cores into account. Following this recommendation too early will result in mismanagement of stamina. Refer to our Starting point guide for player recommended starter card levels.
+>[!note]+ Expert note
+>Note that while this is useful in early and story battles, it quickly over-recommends levels on orbits and SHC because it does not take into account cores. Following this recommendation too early will result in mismanagement of stamina. Refer to our [[Starting point]] guide for player recommended starter card levels.
 
 - **Change Weapon/Change Companion**: These two circles allow you to customize what you bring into battle. Both will open into the overall same interface that will allow you to change your companion, your weapon or your battle outfit. All free and myth companions are available to use for any team of the same LI, regardless of the cards used. All [|hunter weapons] can be used with any companion (including myths), while exclusive weapons can only be used with their matching myth companion. Battle outfits do not affect combat at all and are only changed for aesthetics.
 - **Change Companion Outfit**: Make your partner look pretty in battle if you have an alternate outfit available for the companion. 💅 Has no effect on battle abilities.
