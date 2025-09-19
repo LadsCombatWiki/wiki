@@ -3,6 +3,12 @@ title: "Combat basics"
 draft: false
 tags:
 ---
+# Recommended order
+1. [[Starting point]]
+2. [[Memories cards]]
+3. [[Team building]]
+4. [[Combat basics]] <== you are here
+5. [[Protocores basics]]
 # Battle Controls
 
 Despite being marketed as an otome game, LaDs has significant combat gameplay modes. All combat stages have a similar layout:
@@ -86,6 +92,8 @@ When an enemy is weakened, they cannot take normal or critical damage. All damag
 
 >[!tip] Why does this matter?
 > When [[Team building#Assembling a team|assembling teams]], it is important to know what sort of enemies are in the stage - this will determine how often the enemy is in a state when it will take normal & critical damage, vs a state when it will take weakened damage.
+
+#### Next to read [[Protocores basics|Protocores basics ==>]]
 
 ---
 <sup>v1.0 by @jayci_3280 @kemrian. Proofreading by @anan1n @.kitty143</sup>

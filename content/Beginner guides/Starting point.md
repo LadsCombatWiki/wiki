@@ -3,9 +3,14 @@ title: Starting point
 draft: false
 tags:
 ---
+# Recommended order
+1. [[Starting point]] <== you are here
+2. [[Memories cards]]
+3. [[Team building]]
+4. [[Combat basics]]
+5. [[Protocores basics]]
 # Before we start
-The combat guides include some terminology and acronyms, and also if you go to combat chats you will see them a lot.
-In beginner guides we are trying to avoid using acronyms, or explain them right away, but if you don't know what something mean or need to make sure - we have an [[Glossary]] page to check them.
+This combat guide will include some terminology and acronyms. These terms and acronyms are commonly used in other guides and in combat chats. We will try to use less acronyms in the beginner guide, but here is the link to the [[Glossary]].
 # Starting point
 Every combat player has to start somewhere, but for first time players, the amount of things to do can be overwhelming. For a game that’s marketed as an otome, there sure is a lot of combat content, and we understand that it can be *a lot.* We recommend focusing your efforts on the below at the start:
 1. [[#Picking a main|Pick a main]].
@@ -20,11 +25,12 @@ Every combat player has to start somewhere, but for first time players, the amou
 	1. [|Fusion Area (Green/Red)]
 	2. [|Dissociation Area (Blue/Pink)]
 	3. [|Disambiguation Area (Purple/Yellow)]
-5. Work on hunter contests and orbits only as far as you can get without leveling cores unless you are comfortable with [|cores basics]. Struggling in stages without cores can be very frustrating. 
-6. Once comfortable with how to build your [|companions], focus on SHC more than orbits - SHC is a renewable source of income, while orbits are one time only and not time limited. As you level teams for SHC, your orbit teams will also naturally get built.
+5. Work on hunter contests and orbits only as far as you can get without leveling cores unless you are comfortable with [[Protocores basics|cores basics]]. 
+6. Once you are comfortable with how to build your [[Companion guides/index|companions]], prioritize the Senior Hunter Contest (SHC) more than orbits. SHC is a renewable source of income that refreshes every 2 weeks. Meanwhile, orbits are not time limited and only provide a one time reward. As you level teams for SHC, your orbit teams will also naturally get built.
 7. Accept that this is a gacha game and that the business model is to encourage spending real money through FOMO mechanics, such as getting stuck on battles. This game can be played with two IRL resources: patience and money. If you have money, you don't need patience; if you do not have or want to spend money, you need patience. Both will get you pretty far in this game.
+
 # Picking a main
-All battles in Love and Deepspace require fighting with your partner. As you progress through orbits and hunter contests, you will have to build your team to face the harshest of opponents. 
+All battles in Love and Deepspace require fighting with your Companion / partner. As you progress through orbits and hunter contests, you will have to build your team to face the toughest of opponents.
 
 Unless your only goal in this game is to combat, priority on who to main should be dependent on which LI you prefer on a personal level - this *is* an otome afterall. However, given the current availability of cards and the game’s monetisation plan, there are some things to note:
 
@@ -34,5 +40,7 @@ Unless your only goal in this game is to combat, priority on who to main should 
 4. If you are ftp, you will have to manage your expectations. Myth companions are vital for successful combat but can be costly to obtain if you have poor luck. This means you may have to skip some lunar banners in order to make sure you have enough diamonds to pull myths. **You need to have 150 pulls (or 22500 diamonds) to guarantee a myth pair.** Don’t pull on myth banners if you cannot guarantee this number. 
 5. If you have spare diamonds and want to use them on lunar banners, prioritise the ones that have your main’s **primary or secondary colours**. Card memoria can always be found elsewhere if you just want to experience the stories.
 
+#### Next to read [[Memories cards|Memories cards ==>]]
+
 ---
-<sup>v1.0 by @jayci_3280. Proofreading by @.kitty143</sup>
+<sup>v1.0 by @jayci_3280. Proofreading by @.kitty143 @melmelmeeeel</sup>

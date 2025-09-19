@@ -3,6 +3,12 @@ title: Team building
 draft: false
 tags:
 ---
+# Recommended order
+1. [[Starting point]] 
+2. [[Memories cards]]
+3. [[Team building]]<== you are here
+4. [[Combat basics]]
+5. [[Protocores basics]]
 # Basics about a team
 Team building can be very intimidating if you are starting out. Here are the basics!
 1. A team is always made up of a maximum 2 <div class="tooltip">solar cards<span class="tooltiptext">Card has the “sun” icon</span> </div>, and 4 <div class="tooltip">lunar cards<span class="tooltiptext">Card has a crescent moon icon</span></div>. You cannot mix and match cards from different LI. You only need to have one out of six card slots equipped to deploy a companion.
@@ -103,6 +109,8 @@ If you are using a myth companion, in most cases you will use their exclusive we
 For free companions, we recommend using the hunter claymore or guns.
 - Claymore - for boss stages, and mobs stages when using <div class="tooltip">minstats<span class="tooltiptext">The minimal stats to pass a stage</span></div>.
 - Guns - good for grouping in mob stages, when we need to fight multiple enemies at once.
+
+#### Next to read [[Combat basics|Combat basics ==>]]
 
 ---
 <sup>v1.0 by @jayci_3280 @kiironeechan @kemrian. Proofreading by @.kitty143 @anan1n</sup>

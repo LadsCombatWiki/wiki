@@ -3,6 +3,12 @@ title: "Protocores basics"
 draft: false
 tags:
 ---
+# Recommended order
+1. [[Starting point]]
+2. [[Memories cards]]
+3. [[Team building]]
+4. [[Combat basics]]
+5. [[Protocores basics]] <== you are here
 # Introduction - Cores are the real gacha game!
 
 Cores are essential for battles, but choosing the right cores for your team can be intimidating. First and foremost: always build cores according to the companion, not the card talent. When choosing cores, **only level SSR cores** (identifiable by the gold underline). Prioritize clearing Core Hunt 9 and 10 before seriously equipping your companion with cores.

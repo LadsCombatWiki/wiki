@@ -3,6 +3,12 @@ title: Memory cards
 draft: false
 tags:
 ---
+# Recommended order
+1. [[Starting point]]
+2. [[Memories cards]] <== you are here
+3. [[Team building]]
+4. [[Combat basics]]
+5. [[Protocores basics]]
 # Introduction
 Cards in Love and Deepspace are called “Memories”. They can have varying stella, rarity and rank, and are classified as solar or lunar.
 <p style="text-align: center;"> <img src="/Images/memories cards/card_ui.png" alt="Card UI" /> </p>
@@ -110,6 +116,8 @@ A card’s talent is used to determine the card’s base stats, and are not depe
 ![[Cards stats table#4 star cards]]
 
 ![[Cards stats table#3 star cards]]
+
+#### Next to read [[Team building|Team building ==>]]
 
 ---
 <sup>v1.0 by @jayci_3280 @kemrian. Proofreading by @anan1n @kiironiichan @.kitty143</sup>
