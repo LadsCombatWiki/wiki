@@ -1,6 +1,6 @@
 ---
 title: Protocores basics test
-draft: false
+draft: true
 tags:
 ---
 # Recommended order
@@ -11,7 +11,15 @@ tags:
 5. [[Protocores basics]] <== you are here
 # quick summary
 
- bla bla bla
+- Only level SSR cores (marked by gold underline) 
+- Delta cores should only have a mainstat of Crit Rate, Crit Dmg, or D2W. All others can be trashed
+- Always build cores for the companion scaling stat, not the card talent. 
+- Teams will never have only one set of ideal cores. Equipping Crit or D2W depends on whether a [D2W or brute force] build is needed for the stage. 
+- Substats are increased or added every 3 levels (a tier)
+- Decompose unwanted cores to manage inventory and core exp. 
+- Most R0 myth companions want one ORB cube at 14% or greater to oath twice in a 2-minute battle (stable open and directional orbits) 
+	- At 14%, the first oath must be used as soon as it is charged (1:01) to be able to use it a second time (0:01) before the battle is over. If you cannot use the first oath before 1:01, increase your ORB. 
+- Most teams do
 
 # In-depth guide
 >[!tip]- Stats definition
