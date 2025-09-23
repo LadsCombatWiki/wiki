@@ -5934,3 +5934,8 @@ tags:
 >>>    </tr>
 >>></table>
 >>></div>
+
+Stats tables are taken from [Biligame wiki](https://wiki.biligame.com/lysk/%E6%80%9D%E5%BF%B5)
+
+---
+<sup>v1.0</sup>
