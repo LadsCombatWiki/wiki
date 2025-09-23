@@ -33,7 +33,12 @@ export const defaultContentPageLayout: PageLayout = {
         // { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  filterFn: (node) => {
+    // exclude files with the tag "wip"
+    return node.data?.tags?.includes("wip") !== true
+  },
+}),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),

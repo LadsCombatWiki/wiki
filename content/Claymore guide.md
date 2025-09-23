@@ -2,6 +2,7 @@
 title: Claymore guide
 draft: false
 tags:
+  - wip
 ---
 # Introduction
 When used properly, the claymore is the strongest of the hunter weapons and is often recommended when trying to pass stages with low stats. However, using the claymore properly requires understanding, patience and practice. 
