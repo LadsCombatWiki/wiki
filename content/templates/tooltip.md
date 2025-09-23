@@ -1,1 +1,0 @@
-<div class="tooltip">text<span class="tooltiptext">tooltip</span></div>
