@@ -83,9 +83,9 @@ Use Support skill outside Deity whenever it is available.
 Don’t interrupt the chain <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span>, or you will not be able to unlock Deity within a single rotation.
 
 Don’t break the enemy if you don’t have Deity unlocked.
-##### Inside weakness (also Deity Stance rotation)
+##### Inside weakness (also Deity State rotation)
 >[!warning | no-title]
->Reso -- Deity Stance -- CA -- Support + Active -- CA -- Active -- CA -- Support
+>Reso -- Deity State -- CA -- Support + Active -- CA -- Active -- CA -- Support
 
 When using Oath, it is best to use it before entering Deity. If timing doesn’t allow it, use Oath at any point, but be careful to not cancel any animations.
 
