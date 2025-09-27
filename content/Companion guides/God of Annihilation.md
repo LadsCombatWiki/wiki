@@ -2,7 +2,6 @@
 title: "Zayne: God of Annihilation (DN)"
 draft: false
 tags:
-  - wip
 ---
 >[!infobox]
 >
@@ -83,7 +82,7 @@ Use Support skill outside Deity whenever it is available.
 
 Don’t interrupt the chain <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span>, or you will not be able to unlock Deity within a single rotation.
 
-Don’t break the enemy’s shield if you don’t have Deity unlocked.
+Don’t break the enemy if you don’t have Deity unlocked.
 ##### Inside weakness (also Deity Stance rotation)
 >[!warning | no-title]
 >Reso -- Deity Stance -- CA -- Support + Active -- CA -- Active -- CA -- Support
