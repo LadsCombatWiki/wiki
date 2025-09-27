@@ -102,3 +102,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 
 ## In-depth guide
 WIP
+
+
+---
+<sup>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280</sup>
