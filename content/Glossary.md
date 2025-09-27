@@ -102,7 +102,8 @@ tags:
 
 5 star:
 - FS - [Foreseer] (Standard Myth, blue)
-- SF - [Master of Fate] (Limited Myth (red)
+- SF - [Master of Fate] (Limited Myth, red)
+- DN - [[God of Annihilation]] (Limited Myth, pink)
 
 4 star:
 - TQ - blue 
@@ -114,7 +115,7 @@ tags:
 
 5 star:
 - CA - [Relentless Conqueror] (Standard Myth, pink)
-- AS - [Abysm Sovereign] (Limited Myth, green)
+- AS - [[Abysm Sovereign]] (Limited Myth, green)
 
 4 star:
 - RZ - pink

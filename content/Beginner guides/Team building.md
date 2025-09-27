@@ -89,8 +89,8 @@ Depending on the stage, there will be required stellactrum colours that you will
 
 **Brute team** - this can be either partial stella match or no stella match at all. Stat priority will be high *Crit rate %* and *Crit dmg %* -  a “crit build”. Brute force teams also require higher scaling stats when compared to a stella matched team.
 ## Solars, Weapon and Companion priorities
-**Solar pair priority**:
-Myth solar pair (5⭐ pair) > 4⭐ pair R3 > one 5⭐ and one 4⭐ > 4⭐ pair R0-2
+>[!tip] Solar pair priority
+> Myth solar pair (5⭐ pair) > 4⭐ pair R3 > one 5⭐ and one 4⭐ > 4⭐ pair R0-2
 
 **Companion**:
 Always prioritise using a myth companion over a free companion, even if you don't use myth solars.

@@ -85,7 +85,7 @@
       line-height: 1.3rem;
     }
     th, td {
-      text-align: center;
+      text-align: left;
       padding: 8px;
     }
 
@@ -96,7 +96,7 @@
       border-top: 2px solid var(--gray);
     }
 
-    td:nth-child(odd) {
+    td {
       border-right: 2px solid var(--gray);
     }
 
