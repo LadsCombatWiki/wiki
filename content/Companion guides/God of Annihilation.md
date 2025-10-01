@@ -52,7 +52,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
     </tr>
     <tr>
         <td style="text-align:center;">R2+</td>
-        <td colspan="2">2 HP / 1 HP + 1 OS<br>If you feel uncomfortable with rotation use 1 HP + 1 EEB</td>
+        <td colspan="2">1 HP + 1 EEB<br>2HP for no-reso rotation</td>
     </tr>
     <tr>
         <th colspan="3">Triangle</th>
@@ -82,14 +82,14 @@ Use Support skill outside Deity whenever it is available.
 
 Don’t interrupt the chain <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span>, or you will not be able to unlock Deity within a single rotation.
 
-Don’t break the enemy if you don’t have Deity unlocked.
+Don’t enter the weakness if you don’t have Deity unlocked.
 ##### Inside weakness (also Deity State rotation)
 >[!warning | no-title]
 >Reso -- Deity State -- CA -- Support + Active -- CA -- Active -- CA -- Support
 
 When using Oath, it is best to use it before entering Deity. If timing doesn’t allow it, use Oath at any point, but be careful to not cancel any animations.
 
-For R1+ on mob stages you can BA instead of CA for the Deity rotation.
+For R1+ you can use BA instead of CA the Deity when you are fighting with mobs.
 
 ##### Brute force
 The only difference in rotations when using a brute force team is that Deity will be used outside of weakness as well. 

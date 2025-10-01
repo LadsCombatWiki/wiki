@@ -30,6 +30,61 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 > > - Need to manage HP, especially for R-1
 
 ---
+## Build Summary
+<div class="core-table">
+<table>
+    <tr>
+        <th colspan="2">Stella Matched</th>
+    </tr>
+    <tr>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
+    </tr>
+    <tr>
+        <td>R1+: 2 x EEB</td>
+    </tr>
+    <tr>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>4 d2w<br>OR<br>1crit rate + 3 d2w</td>
+    </tr>
+    <tr>
+        <td>Substats Priority</td>
+        <td>HP% > D2W > Crit Rate = flat HP > Crit DMG</td>
+    </tr>
+    <tr>
+        <th colspan="2">Brute Force</th>
+    </tr>
+    <tr>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
+    </tr>
+    <tr>
+        <td>R1+: 2 x EEB</td>
+    </tr>
+    <tr>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>3 crit rate + 1 crit dmg<br>OR<br>2 crit rate + 2 crit dmg</td>
+    </tr>
+    <tr>
+        <td>Substats Priority</td>
+        <td>HP% > Crit rate > Crit DMG > flat HP > D2W</td>
+    </tr>
+</table>
+</div>
+
+##### Recommended Rotations:
+>[!tip] R0
+>reso hold - support - 2BA x 6 - reso hold - support - active - 2BA x 6
+
+>[!tip] R1
+>reso hold - support + active - 2BA x 3 - support - 2BA x 3
+
+>[!tip] R2
+>reso hold - support + active - 2BA x 2 - support + active - 2BA x 2
+
+>[!tip] R3
+>reso hold - support + active - 2BA x 2 - support + active - 2BA x 2
+
 ## Companion skills
 >[!column | flex]
 >
@@ -56,9 +111,6 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >>    </tr>
 >></table>
 >></div>
-
->[!warning] Empowered support during Fury
-> Using an empowered skill during FURY causes the CD to start AFTER the skill is completely executed, not as soon as the button is pressed.
 
 >[!column | flex]
 >
@@ -135,7 +187,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >>        <th style="vertical-align: top;">Active Skill (5.5s CD)</th>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2"><li>Tap: Recovers HP on hit.<li>Hold: Holding the skill button charges the skill and deals additional damage. When the skill is fully charged, a red ring flashes around MC and she glows red.<li>Parry: If you are hit when holding/tapping this skill, you do not take damage and automatically fully charge your skill.</td>
+>>        <td colspan="2"><li>Tap: Recovers HP on hit.<li>Hold: Holding the skill button charges the skill and deals additional damage. When the skill is fully charged, a red ring flashes around MC and she glows red.<li>Parry: If you are hit when holding/tapping this skill, you convert the damage into healing and automatically fully charge your skill.</td>
 >>    </tr>
 >></table>
 >></div>
@@ -170,22 +222,40 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 <div class="core-table">
 <table>
     <tr>
-        <th colspan="2">Cube (Beta)</th>
+        <th colspan="2">Stella Matched</th>
     </tr>
     <tr>
-        <td style="text-align:left;">R0 (R-1)</td>
-        <td style="text-align:left;">1 x ORB 9+ lvl, 1 x EEB (orbits)<br>2 x EEB (SHC)</td>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
     </tr>
     <tr>
-        <td style="text-align:left;">R1+</td>
-        <td style="text-align:left;">2 x EEB</td>
-    </tr>
-    <br>
-    <tr>
-        <th colspan="2">Substats priority</th>
+        <td>R1+: 2 x EEB</td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align:left;">HP% > Flat HP/Crit/d2w > ATK% > Flat ATK > OS</td>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>4 d2w<br>OR<br>1crit rate + 3 d2w</td>
+    </tr>
+    <tr>
+        <td>Substats Priority</td>
+        <td>HP% > D2W > Crit Rate = flat HP > Crit DMG</td>
+    </tr>
+    <tr>
+        <th colspan="2">Brute Force</th>
+    </tr>
+    <tr>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
+    </tr>
+    <tr>
+        <td>R1+: 2 x EEB</td>
+    </tr>
+    <tr>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>3 crit rate + 1 crit dmg<br>OR<br>2 crit rate + 2 crit dmg</td>
+    </tr>
+    <tr>
+        <td>Substats Priority</td>
+        <td>HP% > Crit rate > Crit DMG > flat HP > D2W</td>
     </tr>
 </table>
 </div>

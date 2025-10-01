@@ -10,7 +10,9 @@ tags:
 - **Whale** - general term for someone who spends a lot in this game
 - **RNG** - “random number generation” except no one actually calls it that. Basically just the randomness of anything (trust us, this game’s combat has way too much RNG to explain here). A “good RNG run” means that lady luck was on your side and you got lots of high damage numbers.
 - **Minstat** - using very low overall stats to clear a stage. Usually the lowest stats that can be used to clear that stage.
-- **Overstat** - the team’s stats are a good deal higher than is needed to beat the stage if the companion’s kit is played properly
+- **Overstat** - the team’s stats are a good deal higher than is needed to beat the stage if the companion’s kit is played properly.
+- **ATK/HP/DEF** - Attack/hit points/defense
+- **Mald** - went from “mad” + “bald”, which means stress from combat to the point of losing hair. Often used to describe a hard stage which requires a lot of tries and luck. 
 ## Companion kit
 - **Companion** - this is who you fight alongside in battles.
 - **Free companion** - the game gives free 4⭐ companions for all LI.
@@ -110,6 +112,7 @@ tags:
 - NT - red
 - HC - pink
 - FR - yellow
+- FL - purple
 
 **Sylus**:
 
