@@ -2,18 +2,17 @@
 title: Claymore guide
 draft: false
 tags:
-  - wip
 ---
 # Introduction
 When used properly, the claymore is the strongest of the hunter weapons and is often recommended when trying to pass stages with low stats. However, using the claymore properly requires understanding, patience and practice. 
 
-The hunter claymore can be used with any companion, but will require a full ATK build on the team’s cores, regardless of what your companion scales off of. This means that while the claymore compliments a lot of ATK scaling companions, pairing it with a DEF or HP scaling companion means that you will lose out on the companion damage. This is not to say you CAN’T do so, but the majority of damage dealt will rely heavily on just MC and her claymore. 
+The hunter claymore can be used with any companion, but will require a full ATK build on the team’s cores, regardless of which companion you use. This means by pairing it with a DEF or HP scaling companion, you will lose out on damage based on the companion’s intended kit. This is not to say you CAN’T do so, but the majority of damage dealt will rely heavily on just MC and her claymore.
 
 Best users of the claymore: 
 - All free 4 companions
-- Xavier’s Standard Myth: Lightseeker
-- Rafayel’s Standard Myth: Abysswalker
-- Sylus’ Standard Myth: Relentless Conquerer
+- Xavier’s Standard Myth: Lightseeker (LT)
+- Rafayel’s Standard Myth: Abysswalker (AB)
+- Sylus’ Standard Myth: Relentless Conquerer (CA)
 
 *Please see companion guides for tips on how to use the claymore with each individual kit.*
 # How to Use the Hunter Claymore
@@ -45,8 +44,9 @@ Best users of the claymore: 
 > > 
 > > There are two versions of the active skill: normal and fully charged. The fully charged active is also called a “frangere slash”, or sometimes “frangere/frang” for short. It deals massive damage and is a large part of what makes the claymore so strong. However, the charge time is very long and a waste of time in actual combat so we use the claymore’s calibrate mechanic instead.
 
->[!warning] Never use normal active skill
->Never use normal active skill. Always use frangere with calibrating mechanic that is explained below.
+>[!warning] Never use active skill without “calibration”
+>The normal skill does little damage, and the fully charged frangere slash takes too much time. Instead, use the calibrating mechanic below to passively activate a fully charged frangere without the time delay.  Always use frangere with calibrating mechanic that is explained below.
+
 
 ## Calibrating for Frangere Slash
 > [!column | flex]
@@ -64,7 +64,7 @@ Best users of the claymore: 
 > > 
 > > You can think of calibration stacks like a rhythm game - you can’t be too early or too late to start the next attack or you’ll miss the calibration. You can even use audio cues like a rhythm game - turn up the volume and you will hear a “shing” sound every time the ring forms. Use this as a trigger to tap the attack button.
 > > 
-> > When you tap the attack button when the ring forms, you calibrate (or “stack”), and you can do so up to three times. Any further calibrating / stacking will not count. You can see your calibration count above the HP bar as an icon. Once you have three stacks, tapping the active button will automatically trigger the fully charged version, and you go back to having 0 stacks. If you only have 1 or 2 stacks, and you will initiate a normal active hit but will not clear the stacks you already have.
+> > When you tap the attack button when the ring forms, you calibrate (or “stack”), and you can do so up to three times. Any further calibrating / stacking will not count. You can see your calibration count above the HP bar as an icon. Once you have three stacks, tapping the active button will automatically trigger the fully charged version, and you go back to having 0 stacks. If you only have 1 or 2 stacks, you will initiate a normal active skill and will not clear the stacks you already have.
 
 >[!warning] Stacks
 >Always keep an eye on your stack count to not waste damage!
@@ -80,7 +80,7 @@ Best users of the claymore: 
 > > 
 > > Another way to calibrate the claymore is to dash, stop moving, and then hit the attack button. This is possibly one of the hardest parts of claymore gameplay to practice. For most players, the instinct is often to always have your left thumb on the D-Pad to be able to control your MC’s movement. This will NOT trigger the calibration ring. Instead, MC has to momentarily stop moving after a dash. This, again, is like a rhythm game. 
 > > 
-> > To understand the mechanic, we recommend going into a training room and start practicing dodging and then attacking without using the D-Pad at all. This will seem weird at first, but it is a good way to get familiar with the timing. After tapping the dodge button, MC will move backwards and at the end of the animation, a calibration ring will form, and pressing the attack button will have the same effect as calibrating with a basic attack chain. It is best to practice with charged attacks instead of just basic attacks.
+> > To understand the mechanic, we recommend going into a training room and start practicing dodging and then attacking without touching the D-Pad at all. This will seem weird at first, but it is a good way to get familiar with the timing. After tapping the dodge button, MC will move backwards and at the end of the animation, a calibration ring will form, and pressing the attack button will have the same effect as calibrating with a basic attack chain. It is best to practice with charged attacks instead of just basic attacks.
 
 > [!column | flex]
 >
@@ -143,9 +143,9 @@ Now that you are comfortable with the individual parts of claymore gameplay, it�
 > - Any combination of CA and quick calibrating. Most mob stages with claymore will use this option, combined with some grouping.
 
 # Fighting Bosses
-While fighting mobs with claymore isn’t so strict because you will have to move around a bit to group enemies so you will just use charged attacks and actives whenever needed, fighting bosses requires following a proper rotation.
+While fighting mobs with claymore doesn’t require a strict rotation (you will have to move around a bit to group enemies so you will just use charged attacks and actives whenever needed), fighting bosses requires following a proper rotation for the most damage.
 ## Weakness Rotations
-It is recommended to follow one of the rotations below to maximize damage while an enemy boss is in weakness. First rotation is  the easiest to achieve for beginners. Last rotation is advanced level and maximizes damage in weakness, but it is also the hardest to do because of how quick you have to execute the order.
+It is recommended to follow one of the rotations below to maximize damage while an enemy boss is in a weakness state. The first rotation is the easiest to achieve for beginners, but deals the least amount of damage in this list. The last rotation is the most difficult to execute due to strict timing, but maximizes the damage dealt.
 
 <Carousel>
 <img src="Images/claymore/claymore_1ca_2ba.webp" alt="Active - 1CA - 2BA - Active">
@@ -155,14 +155,14 @@ It is recommended to follow one of the rotations below to maximize damage while 
 </Carousel>
 
 >[!warning] Oath in rotation
->When you need to fit oath in weakness, try to do it at the very beginning or at the very end of the rotation so that you do not interrupt the rotations and miss the second active skill.
+>When you need to fit an oath in weakness, try to do it at the very beginning or at the very end of the rotation so that you do not interrupt the rotations and miss the second active skill.
 
 ## EEB Requirements
-It is recommended to have at least 40 EEB to be able to use the weakness rotations and still have enough energy to use your resonance skill. If you cannot achieve this (underleveled cores, or needing to use one of the cores for ORB), we recommend adjusting your gameplay to conserve energy - which method to use will depend on the enemy:
+It is recommended to have at least 40 EEB to be able to use the weakness rotations and still have enough energy to use your resonance skill. If you cannot achieve this (underleveled cores, or needing to use one of the beta cores for ORB), we recommend adjusting your gameplay to conserve energy - which method to use will depend on the enemy:
 - If stella matching: do not use active skills outside of weakness.
-- If brute forcing: alternate between reso > active > CA until reso CD is over and reso > CA until reso CD is over. Try to time it so that you can do the active in weakness.
-- Do not use the fully weakness rotation - only use one active and fill the rest of the time with charged attacks. If doing this in combination with one of the above methods, you do not have to stack inside weakness - this should allow you to comfortably use Active > 3CA. Re-obtain stacks when attacking the shielded boss.
+- If brute forcing: alternate between reso > active > CA until reso CD is over and reso > CA until reso CD is over. Try to time it so that you can do the active skill in weakness.
+- Do not use the full weakness rotation - only use one active and fill the rest of the time with charged attacks. If doing this in combination with one of the above methods, you do not have to stack inside weakness - this should allow you to comfortably use Active > 3CA. Re-obtain stacks when attacking the shielded boss.
 
 
 ---
-<sup>v1.0 by @jayci  Proofreading by @</sup>
+<sup>v1.0 by @jayci  Proofreading by @kemrian @anan1n</sup>
