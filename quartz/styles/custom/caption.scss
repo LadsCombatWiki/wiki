@@ -13,7 +13,7 @@
     --callout-content-padding: 0;
     max-width: 30vh;
   }
-  .callout.callout[data-callout~=caption] > .callout-content > .callout-content-inner {
+  .callout.callout[data-callout~=caption] > .callout-content {
     overflow: hidden;
   }
   /*. callout.callout[data-callout~=caption] > .callout-content > p :is(.image-embed, img) + br {
@@ -22,7 +22,7 @@
   
     /*unneeded as `.image-embed` relates to image embedding in Reading Mode vs Live Preview */
   
-  .callout.callout[data-callout~=caption] > .callout-content > .callout-content-inner img {
+  .callout.callout[data-callout~=caption] > .callout-content img {
     display: block;
     margin: auto;
   }

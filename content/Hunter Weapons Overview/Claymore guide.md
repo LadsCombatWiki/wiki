@@ -24,6 +24,7 @@ Best users of the claymore: 
 > ><Carousel>
 > ><img src="Images/claymore/ba combo - no calibrate.webp" alt="BA chain combo">
 > ><img src="Images/claymore/charged attack.webp" alt="CA">
+> ><img src="Images/claymore/ca_dodge.webp" alt="CA with cancel animation">
 > ></Carousel>
 >
 > > [!note | no-title clean]

@@ -12,7 +12,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
   outline: 1px solid var(--color-base-30);
   border-radius: 0.5rem;
 }
-[data-callout="tab-stats"] > .callout-content > .callout-content-inner,
+[data-callout="tab-stats"] > .callout-content,
 body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content {
   padding: 0.25rem;
   /*! width: 100%; */
@@ -37,15 +37,15 @@ body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content {
 [data-callout="tab-stats"] > .callout-title {
   display: none;
 }
-[data-callout="tab-stats"] > .callout-content > .callout-content-inner p,
+[data-callout="tab-stats"] > .callout-content p,
 body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content p {
   margin: 0;
 }
-[data-callout="tab-stats"] > .callout-content > .callout-content-inner label > input,
+[data-callout="tab-stats"] > .callout-content label > input,
 body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content label > input {
   display: none;
 }
-[data-callout="tab-stats"] > .callout-content > .callout-content-inner label,
+[data-callout="tab-stats"] > .callout-content label,
 body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content label {
   width: 100%;
   display: inline-block;
@@ -60,16 +60,16 @@ body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content label {
   font-size: 1.15rem;
   cursor: pointer;
 }
-[data-callout="tab-stats"] > .callout-content > .callout-content-inner label:has(input:checked),
+[data-callout="tab-stats"] > .callout-content label:has(input:checked),
 body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content label:has(input:checked) {
   color: white;
   background-color: var(--gray);
 }
-[data-callout="tab-stats"] > .callout-content > .callout-content-inner p:not(:has(label input:checked)) + blockquote,
+[data-callout="tab-stats"] > .callout-content p:not(:has(label input:checked)) + blockquote,
 body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content p:not(:has(label input:checked)) + blockquote {
   display: none;
 }
-[data-callout="tab-stats"] > .callout-content > .callout-content-inner > blockquote,
+[data-callout="tab-stats"] > .callout-content > blockquote,
 body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content > blockquote {
   order: 999;
   grid-column: 1 / -1;
@@ -91,7 +91,7 @@ body > :not(#quartz-root) [data-callout="tab-stats"] > .callout-content > blockq
   outline: 1px solid var(--color-base-30);
   border-radius: 0.5rem;
 }
-[data-callout="tabbed"] > .callout-content > .callout-content-inner,
+[data-callout="tabbed"] > .callout-content,
 body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content {
   padding: 0.25rem;
   /*! width: 100%; */
@@ -102,15 +102,15 @@ body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content {
 [data-callout="tabbed"] > .callout-title {
   display: none;
 }
-[data-callout="tabbed"] > .callout-content > .callout-content-inner p,
+[data-callout="tabbed"] > .callout-content p,
 body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content p {
   margin: 0;
 }
-[data-callout="tabbed"] > .callout-content > .callout-content-inner label > input,
+[data-callout="tabbed"] > .callout-content label > input,
 body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content label > input {
   display: none;
 }
-[data-callout="tabbed"] > .callout-content > .callout-content-inner label,
+[data-callout="tabbed"] > .callout-content label,
 body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content label {
   width: 100%;
   height: 100%;
@@ -125,16 +125,16 @@ body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content label {
   font-size: 1.15rem;
   cursor: pointer;
 }
-[data-callout="tabbed"] > .callout-content > .callout-content-inner label:has(input:checked),
+[data-callout="tabbed"] > .callout-content label:has(input:checked),
 body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content label:has(input:checked) {
   color: white;
   background-color: var(--gray);
 }
-[data-callout="tabbed"] > .callout-content > .callout-content-inner p:not(:has(label input:checked)) + blockquote,
+[data-callout="tabbed"] > .callout-content p:not(:has(label input:checked)) + blockquote,
 body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content p:not(:has(label input:checked)) + blockquote {
   display: none;
 }
-[data-callout="tabbed"] > .callout-content > .callout-content-inner > blockquote,
+[data-callout="tabbed"] > .callout-content > blockquote,
 body > :not(#quartz-root) [data-callout="tabbed"] > .callout-content > blockquote {
   order: 999;
   grid-column: 1 / -1;
