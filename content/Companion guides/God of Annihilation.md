@@ -68,7 +68,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>
 >><img src="Images/dn/support.webp" alt="Support skill">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -91,7 +91,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>
 >><img src="Images/dn/reso.webp" alt="Resonance">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -171,7 +171,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>
 >><img src="Images/dn/active.webp" alt="Active">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -194,7 +194,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>
 >><img src="Images/dn/passive_weapon.webp" alt="Second active">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
@@ -217,7 +217,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>
 >><img src="Images/dn/shatter_rift.webp" alt="Shattering Soul Rift">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
@@ -239,7 +239,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>
 >><img src="Images/dn/support_deity.webp" alt="Special Support skill">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
