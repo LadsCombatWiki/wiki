@@ -173,22 +173,40 @@ Desc
 <div class="core-table">
 <table>
     <tr>
-        <th colspan="2">Cube (Beta)</th>
+        <th colspan="2">Stella Matched</th>
     </tr>
     <tr>
-        <td style="text-align:left;">R0 (R-1)</td>
-        <td style="text-align:left;">1 x ORB 9+ lvl, 1 x EEB (orbits)<br>2 x EEB (SHC)</td>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
     </tr>
     <tr>
-        <td style="text-align:left;">R1+</td>
-        <td style="text-align:left;">2 x EEB</td>
-    </tr>
-    <br>
-    <tr>
-        <th colspan="2">Substats priority</th>
+        <td>R1+: 2 x EEB</td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align:left;">HP% > Flat HP/Crit/d2w > ATK% > Flat ATK > OS</td>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>4 d2w<br>OR<br>1crit rate + 3 d2w</td>
+    </tr>
+    <tr>
+        <td>Substats Priority</td>
+        <td>HP% > D2W > Crit Rate = flat HP > Crit DMG</td>
+    </tr>
+    <tr>
+        <th colspan="2">Brute Force</th>
+    </tr>
+    <tr>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
+    </tr>
+    <tr>
+        <td>R1+: 2 x EEB</td>
+    </tr>
+    <tr>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>3 crit rate + 1 crit dmg<br>OR<br>2 crit rate + 2 crit dmg</td>
+    </tr>
+    <tr>
+        <td>Substats Priority</td>
+        <td>HP% > Crit rate > Crit DMG > flat HP > D2W</td>
     </tr>
 </table>
 </div>

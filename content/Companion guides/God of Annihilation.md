@@ -31,7 +31,7 @@ Zayne: God of Annihilation is an HP scaling companion that can do an amazing job
 ## Quick Summary
 If you don't know what acronyms means, you can find them in [[Glossary]].
 
-![[#Core Recommendations]]
+![[God of Annihilation#Core Recommendations| clean]]
 
 #### Rotation
 ##### Outside weakness
@@ -43,13 +43,15 @@ Use Support skill outside Deity whenever it is available.
 Don’t interrupt the chain <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span>, or you will not be able to unlock Deity within a single rotation.
 
 Don’t enter the weakness if you don’t have Deity unlocked.
+
+With R3 you need to use 2BA instead of 4BA.
 ##### Inside weakness (also Deity State rotation)
 >[!warning | no-title]
 >Reso -- Deity State -- CA -- Support + Active -- CA -- Active -- CA -- Support
 
 When using Oath, it is best to use it before entering Deity. If timing doesn’t allow it, use Oath at any point, but be careful to not cancel any animations.
 
-For R1+ you can use BA instead of CA the Deity when you are fighting with mobs.
+With R1+ you can do one more Support after first Active -- CA. Also you can use BA instead of CA the Deity when you are fighting with mobs.
 
 ##### Brute force
 The only difference in rotations when using a brute force team is that Deity will be used outside of weakness as well. 
@@ -258,51 +260,50 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >[!warning] Empowered Support can’t be triggered during Deity.
 
 ### Active Pair Bonuses
-- R0 - You are unstoppable when using CA and take 40% less dmg. Additional increase of DMG in Deity State by 8%.
-- R1 - Now BA can shatter Rift in Deity state. First hit from Active skill applies Rift on the enemy if it doesn’t have it. Support skill now pulls enemies to the center and does additional DMG.
-- R2 - Active Skill dmg increased by 20%. Restore 5% of max HP for MC and Zayne after shattering Rift.
-- R3 - BA now gives 2 Arrows from one hit. Enemies hit by Arrows or with the temporary buff take 30% more DMG for 4 sec.
+- **R0** - You are unstoppable when using CA and take 40% less dmg. Additional increase of DMG in Deity State by 8%.
+- **R1** - Now BA can shatter Rift in Deity state. First hit from Active skill applies Rift on the enemy if it doesn’t have it. Support skill now pulls enemies to the center and does additional DMG.
+- **R2** - Active Skill dmg increased by 20%. Restore 5% of max HP for MC and Zayne after shattering Rift.
+- **R3** - BA now gives 2 Arrows from one hit. Enemies hit by Arrows or with the temporary buff take 30% more DMG for 4 sec.
 ### Core Recommendations
 [[Protocores basics|In-depth core guide]]
 
-<div class = "core-table">
+<div class="core-table">
 <table>
     <tr>
-        <td width="20%"></td>
-        <td style="text-align:center;" width="40%">Stella match</td>
-        <td style="text-align:center;" width="40%">Brute Force</td>
+        <th colspan="2">Stella Matched</th>
     </tr>
     <tr>
-        <th colspan="3">Cube</th>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Ice Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 1 HP + 1 EEB</td>
     </tr>
     <tr>
-        <td style="text-align:center;">R0</td>
-        <td>Open / Ice orbits: 1 ORB + 1 EEB <br><br>SHC / Fluc Orbits: 1 HP + 1 EEB</td>
-        <td>1 HP + 1 EEB<br><br>In OO or Ice you can use 1 ORB instead of HP if can fit second oath in weakness</td>
+        <td>R1+: 1 HP + 1 EEB</td>
     </tr>
     <tr>
-        <td style="text-align:center;">R1</td>
-        <td>1 HP / 1 OS + 1 EEB</td>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>4 d2w<br>OR<br>1crit rate + 3 d2w</td>
     </tr>
     <tr>
-        <td style="text-align:center;">R2+</td>
-        <td colspan="2">1 HP + 1 EEB<br>2HP for no-reso rotation</td>
+        <td>Substats Priority</td>
+        <td>HP% > D2W > Crit Rate = flat HP > Crit DMG</td>
     </tr>
     <tr>
-        <th colspan="3">Triangle</th>
+        <th colspan="2">Brute Force</th>
     </tr>
     <tr>
-        <td>Any rank</td>
-        <td>4 d2w<br>1crit rate + 3 d2w</td>
-        <td>3 crit rate + 1 crit dmg<br>2 crit rate + 2 crit dmg</td>
+        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Ice Orbit: 1 HP / 1 ORB + 1 EEB<br>3* SHC & FOO: 1 HP + 1 EEB</td>
     </tr>
     <tr>
-        <th colspan="3" style="text-align:left;">Substats priority</th>
+        <td>R1+: 1 HP + 1 EEB</td>
     </tr>
     <tr>
-        <td>Any rank</td>
-        <td>HP% &gt;  D2W &gt; Crit Rate = flat HP &gt; Crit DMG</td>
-        <td>HP% &gt; Crit rate = Crit DMG &gt; flat HP &gt; D2W</td>
+        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
+        <td>3 crit rate + 1 crit dmg<br>OR<br>2 crit rate + 2 crit dmg</td>
+    </tr>
+    <tr>
+        <td>Substats Priority</td>
+        <td>HP% > Crit rate = Crit DMG > flat HP > D2W</td>
     </tr>
 </table>
 </div>
@@ -314,7 +315,7 @@ When you stella match you will use normal rotation outside weakness and Deity ro
 
 **Normal state rotation to get Deity:**
 >[!warning | no-title] 
->4BA - <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span> - CA
+>4BA -- <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span> -- CA
 
 You will have Deity state unlocked after the second Active.
 Don’t interrupt the chain <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span>, or you will not be able to unlock Deity within a single rotation. You need to hit an enemy with each attack. If you won’t hit it, buff or Arrows won’t be consumed and you will miss 1 or 2 unlocks for Deity.
@@ -322,23 +323,23 @@ In Normal state use support skill when you can.
 
 **Deity state rotation:**
 >[!warning | no-title] 
->CA - Active + Support - CA - Active - CA - Support + CA
+>CA -- Active + Support -- CA -- Active -- CA -- Support + CA
 
 **Gather Arrows:**<br>
-When rotation mentions “4BA” it doesn’t mean you are forced to do a full chain - it means you need to have 4 Arrows to proceed further. Normally you want to do a full chain, but sometimes you need to dodge an enemy attack or change position for better grouping in the middle of the chain. You don’t need to do a full 4BA chain in that case. Look at the Arrow buff and see how many stacks you need, and do the rest of basic attacks to get 4 Arrows. For example: if you dodge after a second BA, you need to do only 2 more BA. 2BA - dodge - 2BA.
+When rotation mentions “4BA” it doesn’t mean you are forced to do a full chain - it means you need to have 4 Arrows to proceed further. Normally you want to do a full chain, but sometimes you need to dodge an enemy attack or change position for better grouping in the middle of the chain. You don’t need to do a full 4BA chain in that case. Look at the Arrow buff and see how many stacks you need, and do the rest of basic attacks to get 4 Arrows. For example: if you dodge after a second BA, you need to do only 2 more BA. 2BA -- dodge -- 2BA.
 
 <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1122452336?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DN R0  Rotation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ###### Stella match
 **Outside weakness rotation:**
 >[!warning | no-title] 
->Reso - 4BA - CA - Active - CA - Active - CA
+>Reso -- 4BA - CA -- Active -- CA -- Active -- CA
 
 Sometimes you will have enough time to do the last CA before going into weakness, sometimes you won’t. Last CA is not necessary but try to put it there to deal extra dmg.
 
 **Inside weakness rotation:**
 >[!warning | no-title] 
->Reso - Oath (if you have) - Deity - CA - Active + Support - CA - Active - CA - Support + CA
+>Reso -- Oath (if you have) -- Deity -- CA -- Active + Support -- CA -- Active -- CA -- Support + CA
 
 If you can’t use Oath before Deity but it will be charged in the middle of rotation - you still can use it, but be careful to not interrupt any animation.
 ###### Brute force
@@ -346,7 +347,7 @@ Brute force can be played with and without Reso depending if you need it. Withou
 
 **Brute force with reso:**
 >[!warning | no-title] 
->4BA - CA - Active - CA - Active - CA - Reso - Deity - Deity state rotation
+>4BA -- CA -- Active -- CA -- Active -- CA -- Reso -- Deity -- Deity state rotation
 
 As with stella match, the CA before Reso is not necessary.
 If you want to use your oath at 1:01 or earlier, after second Deity use:
@@ -354,17 +355,17 @@ Reso - Normal state rotation - Reso (you will break enemy here) - Oath - Deity -
 
 **Brute force no-reso:**
 >[!warning | no-title] 
->4BA - CA - Active - CA - Active - <span style="background:#fff88f"><font color="#3f3f3f">2BA - CA</font></span> - Deity - Deity state rotation
+>4BA -- CA -- Active -- CA -- Active -- <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> -- Deity -- Deity state rotation
 
-You can change <span style="background:#fff88f"><font color="#3f3f3f">2BA - CA</font></span> to 2CA. The point is, after a second active your skill will be on cd. If you enter Deity right away you cannot do Deity rotation properly. You need to wait a little bit for your active to be ready. It is okay to enter Deity state at 2-3 sec of CD on active.
+You can change <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> to 2CA. The point is, after a second active your skill will be on cd. If you enter Deity right away you cannot do Deity rotation properly. You need to wait a little bit for your active to be ready. It is okay to enter Deity state at 2-3 sec of CD on active.
 ##### R1 and R2
 Now with R1 you can do more Support skills inside Deity. Your Deity rotation will be:
 >[!warning | no-title]
->CA - Active + Support - CA - Active + Support - CA - Support + CA
+>CA -- Active + Support -- CA -- Active + Support -- CA -- Support + CA
 
 Also you can use BA instead of CA to shatter Rift, it will make your rotation faster:
 >[!warning | no-title]
->BA - Active + Support - BA - Active + Support - CA - Support + CA
+>BA -- Active + Support -- BA -- Active + Support -- CA -- Support + CA
 
 On mob stages you can use rotation with BA. You will be able to break more enemies with Rift and potentially you will be able to do 5-6 Support skills during one Deity.
 ##### R3
@@ -372,16 +373,16 @@ Read previous notes before proceeding to this.
 
 With R3 your BA now gives you 2 Arrows with one hit. Now your Normal state rotation will be:
 >[!warning | no-title]
->2BA - CA - Active - CA - Active - <span style="background:#fff88f"><font color="#3f3f3f">2BA - CA</font></span>
+>2BA -- CA -- Active -- CA -- Active -- <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span>
 
-The last <span style="background:#fff88f"><font color="#3f3f3f">2BA - CA</font></span> isn’t necessary to get Deity but try to fit it for more dmg. Also use this rotation when you are bruting with no-reso rotation.
+The last <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> isn’t necessary to get Deity but try to fit it for more dmg. Also use this rotation when you are bruting with no-reso rotation.
 ##### Tips
 ###### Pre-stacking Arrows
 You can prestack Arrows on bosses who take a long time to spawn, like dragons or deer. Hit the place where the boss should land. This also works when the boss uses an HP lock. For example Petra golem locks itself for a long time, you can hit it with BA to gather Arrows.
 ###### Support before Deity
 Because Deity rotation takes less time then weakness time you can squish a normal support skill in weakness before going in Deity state. Use support skill right after Reso with one BA, once you see the Zayne’s attack reach the boss, you can enter Deity.
 >[!warning | no-title]
->Reso - BA + Support - Deity - Deity state rotation
+>Reso -- BA + Support -- Deity -- Deity state rotation
 
 ---
 <sup>v1.0 - by @kemrian. Proofreading @anan1n<br>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280, @.kitty143</sup>
