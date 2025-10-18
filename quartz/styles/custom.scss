@@ -58,4 +58,14 @@
       margin-top: -80px;
     }
   }
+  
+  /* Fix for collapsed callouts - collapse all children, not just first child */
+  &.is-collapsed .callout-content > * {
+    transition:
+      height 0.1s cubic-bezier(0.02, 0.01, 0.47, 1),
+      margin 0.1s cubic-bezier(0.02, 0.01, 0.47, 1);
+    overflow-y: clip;
+    height: 0;
+    margin-top: -1rem;
+  }
 }
