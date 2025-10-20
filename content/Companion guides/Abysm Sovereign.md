@@ -289,9 +289,6 @@ Fury > support + active > ba-ba-dash x 3 > support > ba-ba-dash x 3> repeat.
 
 This is NOT a strict rotation aside from trying to time 2x support skills for every fury.
 
->[!note]+ Expert note
->When using empowered support skill during FURY, the CD only resets after the animation is completed, which means you may not be able to use two supports for every resonance. Empowered supports outside of fury reset CD at the beginning of the animation like usual. Use empowered support skills with discretion to manage your R1 damage buff.
-
 ### R2 & R3
 The increased EEB allows you to more freely use your active skill, meaning you can do two active skills per FURY. Combined with the R1 bonus, the ideal rotation is weaving two active skills and two support skills in every fury resonance. Do note that with R3, all active skills are fully charged and take moderately longer to execute - the extra damage is worth it though.
 
