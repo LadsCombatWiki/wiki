@@ -22,7 +22,7 @@ Zayne: God of Annihilation is an HP scaling companion that can do an amazing job
 > > [!note | clean] Strengths
 > > - Super strong, one of the strongest myths right now.
 > > - The only Zayne companion with grouping.
-> > - Can be easily used as R-1
+> > - Can be easily used as R-1 without changes in rotation.
 >
 > > [!note | clean] Weaknesses
 > > - Very strict rotation to follow.
@@ -49,9 +49,9 @@ With R3 you need to use 2BA instead of 4BA.
 >[!warning | no-title]
 >Reso -- Deity State -- CA -- Support + Active -- CA -- Active -- CA -- Support
 
-When using Oath, it is best to use it before entering Deity. If timing doesn’t allow it, use Oath at any point, but be careful to not cancel any animations.
+When using Oath, it is best to use it before entering Deity. If timing doesn’t allow it, use Oath at any point during the rotation, but be careful to not cancel any animations.
 
-With R1+ you can do one more Support after first Active -- CA. Also you can use BA instead of CA the Deity when you are fighting with mobs.
+With R1+, you can do one more Support after first Active -- CA. Also you can use BA instead of CA the Deity when you are fighting with mobs.
 
 ##### Brute force
 The only difference in rotations when using a brute force team is that Deity will be used outside of weakness as well. 
@@ -131,13 +131,13 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 > >       <th style="vertical-align: top;">Passive skill</th>
 > >  </tr>
 > >   <tr>
-> >     <td colspan="2"><li>Deity State: Deity is locked behind 3 stacks that you need to remove to unlock the state. In Deity you will have some other powerful abilities that will be explained later. To remove 1 stack you need to consume 4 Golden Arrows.<li>Golden Arrows: every BA hit gives 1 Golden Arrow. Golden Arrow doesn’t have an expiration time but they are consumed with using a CA on an enemy. Consuming Golden Arrows has a few effects:<ol><li>You get a temporary buff for 5 sec. If you do Active while this buff exists, you will recover the same amount of Arrows that was consumed by the CA. This buff also does additional DMG.<li>If you consume 4 Arrows - you remove 1 stack for Deity, restore 0.35 Energy and Zayne will do a special attack at the enemy, which deals DMG  and heals MC and Zayne for 5% of max HP.</ol><br>When all stacks are removed, a new button will appear near Reso and Active buttons and you can enter Deity State by tapping on it. When you enter Deity - all Arrows, temporary buff, and debuff on enemies will be removed.</td>
+> >     <td colspan="2"><li>Deity State (explained further, below): provides more damage but is locked behind 3 stacks that can be broken by golden arrows. To remove 1 stack you need to consume 4 Golden Arrows.<li>Golden Arrows: every BA hit gives 1 Golden Arrow. Golden Arrows don’t have an expiration time but they are consumed with using a CA on an enemy. Consuming Golden Arrows has a few effects:<ol><li>You get a temporary buff for 5 sec. If you do an Active skill while this buff exists, you will recover the same amount of Arrows that was consumed by the CA. This buff also does additional DMG.<li>If you consume 4 Arrows at once, you remove 1 stack for Deity, restore 0.35 Energy and Zayne will do a follow-up attack at the enemy, which deals DMG  and heals MC and Zayne for 5% of their max HP.</ol><br>When all stacks are removed, a new button will appear near Reso and Active buttons and you can enter Deity State by tapping on it. When you enter Deity - all Arrows, temporary buff, and debuff on enemies will be removed.</td>
 > >   </tr>
 > ></table>
 > ></div>
 
 >[!warning]- Consuming 3 or less Arrows (not recommended)
-> If you consume less than 4 Arrows - you leave a debuff on an enemy that will have the same amount of stacks as Arrows you just spent. You can launch the lacking Arrows to get the effect of 4 Arrows. For example: you consume 3 Golden arrows, it leaves a debuff with 3 stacks on the enemy. Now you need to consume only 1 Arrow to get the effect of 4 Arrows. 
+> If you consume less than 4 arrows - you leave a debuff on an enemy that will have the same amount of stacks as Arrows you just spent. You can launch the lacking Arrows to get the effect of 4 Arrows. For example: if you consume only 3 Golden arrows, it leaves a debuff with 3 stacks on the enemy. Now you need to only consume 1 Arrow to get the effect of 4 Arrows.
 > It is not recommended to consume 3 or less Arrows at a time because it takes more time and your Active won’t restore 4 Arrows. Always consume 4 Arrows with one CA.
 
 ### Signature Weapon: Divine Grip
@@ -185,10 +185,13 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>        <th style="vertical-align: top;">Active Skill (5.5s CD) (1 energy cost)</th>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2">Deals 1 hit to the enemies in front of MC. If you use a Charged attack during Active animation, you will go in CA 2nd hit right away.</td>
+>>        <td colspan="2">Deals 1 hit to the enemies in front of MC.</td>
 >>    </tr>
 >></table>
 >></div>
+
+>[!note]+ CA after Active
+> If you initiate a charged attack before the first Active skill animation is completed, the CA is immediately executed, allowing for a faster rotation. If you do not do this, holding the attack button will default to the BA-CA animation, making the rotation longer.
 
 >[!column | flex]
 >
@@ -207,7 +210,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>        <th style="vertical-align: top;">Passive skill</th>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2"><li>During Active skill take 40% less dmg and become unstoppable.<li>After using your active skill, a second active can be used within 4 seconds without consuming energy.<li>Second active: deals 2 hits, with 2nd hits it consumes Golden Arrows.</td>
+>>        <td colspan="2"><li>When using your Active skill, take 40% less dmg and become unstoppable.<li>After using your active skill, a second active can be used within 4 seconds without consuming energy.<li>Second active: deals 2 hits, with 2nd hits it consumes Golden Arrows.</td>
 >>    </tr>
 >></table>
 >></div>
@@ -230,7 +233,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>        <th style="vertical-align: top;">Passive skill</th>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2">During Deity, each enemy has a debuff marked by a golden globe(Rift). When you use a CA, you shatter Rift dealing additional dmg and unlock Zayne’s special support skill.<br>Rift will reappear in 6 sec again after being shattered. You can reduce the CD of Rift by using an Active skill: the 1st hit from reduces Rift CD by 0.5 sec.</td>
+>>        <td colspan="2">During Deity, each enemy has a debuff marked by a golden globe(Rift). When you use a CA on enemies with a Rift mark, you shatter the Rift, dealing additional damage and unlocking Zayne’s special support skill.<br>Rift marks will reappear in 6 sec again after being shattered. You can reduce this CD of Rift by using an Active skill: the 1st hit reduces Rift CD by 0.5 sec.</td>
 >>    </tr>
 >></table>
 >></div>
@@ -252,18 +255,18 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >>        <th style="vertical-align: top;">Support skill</th>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2">Deal dmg in a medium AOE area. Zayne cannot use more than one support skill at a time even if you shatter more than one Rift. You must wait for the current support skill animation to end before using the next support skill.<br>The hits from this Support count as damage from Charged Attack.</td>
+>>        <td colspan="2">Deal damage in a medium AOE area. Zayne cannot use more than one support skill at a time even if you shatter more than one Rift. You must wait for the current support skill animation to end before using the next support skill.<br>The hits from this Support count as damage from Charged Attack.</td>
 >>    </tr>
 >></table>
 >></div>
 
->[!warning] Empowered Support skill can’t be triggered during Deity.
+>[!warning] Empowered Support skills can’t be triggered during Deity.
 
 ### Solar Pair Bonuses
 - **R0** - You are unstoppable when using CA and take 40% less dmg. Increase DMG within Deity State by 8%.
-- **R1** - Basic attacks can now shatter Rifts in Deity state. The first hit from Active skills apply Rift on the enemy if it doesn’t have it. Support skill in Deity now pulls enemies to the center and does additional DMG.
+- **R1** - Basic attacks can now shatter Rifts in Deity state. The first hit from Active skills applies a Rift on the enemy if it doesn’t have it. Support skill in Deity now pulls enemies to the center and does additional DMG.
 - **R2** - Active Skill dmg increases by 20%. Restore 5% of max HP for MC and Zayne after shattering Rifts.
-- **R3** - Basic attacks now gain 2 Arrows per hit. Enemies hit by Arrows or with the temporary buff take 30% more DMG for 4 sec.
+- **R3** - Basic attacks now gain 2 Arrows per hit. Enemies hit by Zayne's follow-up attack after 4 Arrows or with the Divine Sever (support in Deity) take 30% more DMG for 4 sec.
 ### Core Recommendations
 [[Protocores basics|In-depth core guide]]
 
@@ -312,7 +315,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 ##### General Notes:
 DN has two states and each has a different rotation: “normal state” and “deity state”. 
 
-When your team is stella matched, you will use the normal state rotation outside weakness and the Deity state rotation inside weakness. When brute forcing, you want to use Deity state rotation whenever it is available.
+When your team is stella matched, you should  use the normal state rotation outside weakness and the Deity state rotation inside weakness. When brute forcing, you want to use the Deity state rotation whenever it is available.
 
 **Normal state rotation to unlock Deity:**
 >[!warning | no-title] 
@@ -321,14 +324,14 @@ When your team is stella matched, you will use the normal state rotation outside
 You will have Deity state unlocked after the second Active.
 Don’t interrupt the chain <span style="background:#fff88f"><font color="#3f3f3f">CA -- Active -- CA -- Active</font></span>, or you will not be able to unlock Deity within a single rotation. You need to hit an enemy with each attack - if you do not hit an enemy with every step, you will not gain/consume arrows and you will miss 1 or 2 stacks to unlock Deity.
 
-In Normal state use support skill whenever you can.
+In Normal state, use support skills whenever you can.
 
 **Deity state rotation:**
 >[!warning | no-title] 
 >CA -- Active + Support -- CA -- Active -- CA -- Support + CA
 
 **Gathering Arrows:**<br>
-Even though the rotation states “4BA”, you do not need to perform a full chain, just a total of 4 basic attacks before proceeding to the rest of the rotation. Doing the full chain is best, but you may need to dodge or change positions to better group enemies. In these cases, just look for the number of golden arrows behind MC or on buff above your HP bar to keep track of how many more basic attacks you have to do.
+Even though the rotation states “4BA”, you do not need to perform a full chain, just a total of 4 basic attacks before proceeding to the rest of the rotation. Doing the full chain is best, but you may need to dodge or change positions to better group enemies. In these cases, just look for the number of golden arrows behind MC or as the buff above your HP bar to keep track of how many more basic attacks you have to do.
 
 For example: if you dodge after a second BA, you need to do only 2 more BA. 2BA -- dodge -- 2BA.
 
@@ -343,37 +346,42 @@ Sometimes you will have enough time to do the last CA before going into weakness
 
 **Entering weakness rotation:**
 >[!warning | no-title] 
->Reso -- Oath (if you have) -- Deity -- CA -- Active + Support -- CA -- Active -- CA -- Support + CA
+>Reso -- Oath (if available) -- Deity -- CA -- Active + Support -- CA -- Active -- CA -- Support + CA
 
-If you can’t use Oath before Deity but it becomes fully charged in the middle of the rotation - you still can use it, but be careful to not interrupt any animation
+If you can’t use Oath before Deity but it becomes fully charged in the middle of the rotation - you still can use it, but be careful to not interrupt any animation.
+
+Rotation 3 weakness + 4 Deity.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1144301781?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DN R1: 3 weakness + 4 Deity"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ###### Brute force
-Brute force can be played with and without Reso depending if you need it. Without Reso your DMG will be higher but this will mean you cannot do Oath in weakness. Resonance also provides grouping on mob stages.
+Brute force can be played with and without Reso depending if you need it. Without Reso, your overall damage will be higher but this will mean you cannot do Oath in weakness. Keep in mind that Resonance provides grouping on mob stages.
 
 **Brute force with reso:**
 >[!warning | no-title] 
 >4BA -- CA -- Active -- CA -- Active -- CA -- Reso -- Deity -- Deity state rotation
 
-As with stella match, the CA before Reso is not necessary.
+As with stella matching, the CA before Reso is not necessary.
 If you want to use your oath at 1:01 or earlier, after second Deity use:
 Reso - Normal state rotation - Reso (to break the enemy) - Oath - Deity - Deity state rotation
 
-**Brute force no-reso:**
+**Brute force, no-reso:**
 >[!warning | no-title] 
 >4BA -- CA -- Active -- CA -- Active -- <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> -- Deity -- Deity state rotation
 
-You can replace <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> to 2CA. The point is, after a second active your skill will be on cd. If you enter Deity right away you cannot do Deity rotation properly. You need to wait a little bit for your active to be ready. It is okay to enter Deity state with 2-3 sec remaining for the Active skill CD.
+You can replace <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> to 2CA to manage the Active Skill CD - it is okay to enter Deity state with 2-3 sec remaining for the Active skill CD.
 ##### R1 and R2
 Read previous notes for R0 gameplay before continuing.
 
-Now with R1 you can do more Support skills inside Deity. Your Deity rotation will be:
+With R1, you can do more Support skills inside Deity. Your Deity rotation will be:
 >[!warning | no-title]
 >CA -- Active + Support -- CA -- Active + Support -- CA -- Support + CA
 
-Also you can use BA instead of CA to shatter Rift for a faster rotation:
+You can also use BA instead of CA to shatter Rift for a faster rotation:
 >[!warning | no-title]
 >BA -- Active + Support -- BA -- Active + Support -- CA -- Support + CA
 
-On mob stages you can use thr rotation with BA. You will be able to break more enemies with Rift and potentially you will be able to do 5-6 Support skills during a single Deity.
+On mob stages, using the rotation with BA will allow you to shatter more Rifts, resulting in more support skills - it becomes possible to use 5-6 Support skills during a single Deity.
 ##### R3
 Read previous notes on R0, R1, and R2 before continuing.
 
@@ -382,11 +390,11 @@ With R3, your BA now gives you 2 Arrows with every hit. This changes your Normal
 >2BA -- CA -- Active -- CA -- Active -- <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span>
 
 The last <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> isn’t necessary to get Deity but try to fit it into your rotation for added dmg. This rotation will also be used for a no-reso rotation.
-##### Tips
+##### Advanced Tips
 ###### Pre-stacking Arrows
 You can prestack Arrows on bosses who take a long time to spawn, like dragons or the deer. Aim attacks at the general area where the boss should land and you will gain arrows. This also works when the boss uses an HP lock. For example, the Petro golem locks itself for a long time, and you can hit it with BA to gather Arrows while you are waiting for the lock to end.
 ###### Support skill before Deity
-Because Deity rotation takes less time then weakness time you can squish a normal support skill in weakness before going in Deity state. Use support skill right after Reso with one BA, once you see the Zayne’s attack reach the boss, you can enter Deity.
+Deity state’s rotation is shorter than weakness states, so it is recommended to maximise damage by using a support skill right before entering Deity. You do not need to wait for the complete support skill animation before entering Deity - for timing, you can do support skill and BA at the same time, and once the BA is done, you can enter Deity.
 >[!warning | no-title]
 >Reso -- BA + Support -- Deity -- Deity state rotation
 
