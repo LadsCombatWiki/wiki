@@ -1,5 +1,5 @@
 ---
-title: 
+title: "<% tp.file.title %>"
 draft: false
 tags:
 ---
@@ -28,6 +28,21 @@ Desc
 > > - 
 > > - 
 > > - 
+
+---
+## Quick Summary
+If you don't know what acronyms means, you can find them in [[Glossary]].
+
+![[<% tp.file.title %>#Core Recommendations| clean]]
+
+#### Rotation
+##### Outside weakness
+
+##### Entering weakness (also Deity State rotation)
+
+
+##### Brute force
+
 
 ---
 ## Companion skills

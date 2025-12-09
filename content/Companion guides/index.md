@@ -20,3 +20,5 @@ In-depth guides are in progress. Meanwhile, enjoy those quick build guides from 
 ![[NV_q.png]]
 
 ![[DN_q.png]]
+
+![[CR_q.png]]
