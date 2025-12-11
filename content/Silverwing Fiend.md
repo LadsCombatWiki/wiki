@@ -55,14 +55,14 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >
 >>[!skills | clean no-t]
 >>
->><img src="Images/protocores_basics/cores/core_1.png" alt="Basic attacks combo">
+>><img src="Images/cr/4BA.webp" alt="Basic attacks combo">
 >
 >>[!skills | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/ba_icon.png" alt="Basic Attack" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/cr/ba_icon.webp" alt="Basic Attack" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Rose Spike</td>
 >>    </tr>
 >>    <tr>
@@ -79,18 +79,18 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/protocores_basics/cores/core_1.png" alt="No Rose Mark">
->><img src="Images/protocores_basics/cores/core_2.png" alt="Consuming Rose Mark">
+>><img src="Images/cr/CA-noRM.webp" alt="No Rose Mark">
+>><img src="Images/cr/CA-RM.webp" alt="Consuming Rose Mark">
 >></Carousel>
 >>
->><img src="Images/protocores_basics/cores/core_2.png" alt="Rose Mark charge status">
+>><img src="Images/cr/rose mark timer.webp" alt="Rose Mark charge status">
 >
 >>[!skills | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/ba_icon.png" alt="Charged Attack" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/cr/ba_icon.webp" alt="Charged Attack" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Rose Spike</td>
 >>    </tr>
 >>    <tr>
@@ -106,14 +106,14 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >
 >>[!skills | clean no-t]
 >>
->><img src="Images/as/support.webp" alt="Active skill">
+>><img src="Images/cr/Active.webp" alt="Active skill">
 >
 >>[!skills | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/active_icon.png" alt="Active" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/cr/active_icon.webp" alt="Active" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Rose Scent</td>
 >>    </tr>
 >>    <tr>
@@ -129,7 +129,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 ><div class="skill-table">
 ><table>
 >    <tr>
->       <td rowspan="2" width="60"><img src="Images/as/passive_weapon_icon.webp" alt="Passive" width="100"></td>
+>       <td rowspan="2" width="60"><img src="Images/cr/passive_weapon_icon.webp" alt="Passive" width="100"></td>
 >       <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Rose Rain</td>
 >    </tr>
 >    <tr>
@@ -146,17 +146,14 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >
 >>[!skills | clean no-t]
 >>
->><Carousel>
->><img src="Images/as/support.webp" alt="Support skill">
->><img src="Images/as/empowered support.webp" alt="Empowered support skill">
->></Carousel>
+>><img src="Images/cr/Support.webp" alt="Support skill">
 >
 >>[!skills | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/support_icon.webp" alt="Support skill" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/cr/support_icon.webp" alt="Support skill" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Crimson Break</td>
 >>    </tr>
 >>    <tr>
@@ -175,14 +172,14 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >
 >>[!skills | clean no-t]
 >>
->><img src="Images/as/support.webp" alt="Support skill">
+>><img src="Images/cr/Resonance.webp" alt="Resonance skill">
 >
 >>[!skills | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/reso_icon.webp" alt="Resonance skill" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/cr/reso_icon.webp" alt="Resonance skill" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Crimson Coffin</td>
 >>    </tr>
 >>    <tr>
@@ -198,7 +195,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >
 >>[!skills | clean no-t]
 >>
->><img src="Images/as/support.webp" alt="Support skill">
+>><img src="Images/cr/filling bar.webp" alt="Filling CB bar">
 >>Above animation shows: resonance (20), ba-ca+rose mark (3+3+12), 4ba (3+3+3+3), ba-ca (3+3), ba-ca+rose mark (3+3+12), support skill(6)
 >
 >>[!skills | clean no-t]
@@ -206,7 +203,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/reso_icon.webp" alt="Resonance skill" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/cr/passive_icon.webp" alt="Passive skill" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Crimson Seal</td>
 >>    </tr>
 >>    <tr>
@@ -226,15 +223,15 @@ In the CB special state, the support, active and resonance skill button function
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/as/support.webp" alt="CB Active Tap">
->><img src="Images/as/empowered support.webp" alt="CB Active Hold">
+>><img src="Images/cr/CB active tap.webp" alt="CB Active Tap">
+>><img src="Images/cr/CB active hold.webp" alt="CB Active Hold">
 >></Carousel>
 >
 >>[!note | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>       <td rowspan="2" width="60"><img src="Images/dn/passive_icon.png" alt="Special Active Skill" width="100"></td>
+>>       <td rowspan="2" width="60"><img src="Images/cr/passive_weapon_icon.webp" alt="Special Active Skill" width="100"></td>
 >>       <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Bloodrose Rain</td>
 >>    </tr>
 >>    <tr>
@@ -250,13 +247,13 @@ In the CB special state, the support, active and resonance skill button function
 >
 >>[!skills | clean no-t]
 >>
->><img src="Images/dn/support_deity.webp" alt="Special Support skill">
+>><img src="Images/cr/CB Active Hold + Support.webp" alt="Special Support skill">
 >
 >>[!note | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>       <td rowspan="2" width="60"><img src="Images/dn/passive_icon.png" alt="Passive" width="100"></td>
+>>       <td rowspan="2" width="60"><img src="Images/cr/passive_icon.webp" alt="Passive" width="100"></td>
 >>       <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Crimson Void</td>
 >>    </tr>
 >>    <tr>
@@ -273,16 +270,16 @@ In the CB special state, the support, active and resonance skill button function
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/as/support.webp" alt="No roses on the field">
->><img src="Images/as/empowered support.webp" alt="1 rose on the field">
->><img src="Images/as/support.webp" alt="2 roses on the field">
+>><img src="Images/cr/UR0.webp" alt="No roses on the field">
+>><img src="Images/cr/UR1.webp" alt="1 rose on the field">
+>><img src="Images/cr/UR2.webp" alt="2 roses on the field">
 >></Carousel>
 >
 >>[!note | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>       <td rowspan="2" width="60"><img src="Images/dn/passive_icon.png" alt="Special Active Skill" width="100"></td>
+>>       <td rowspan="2" width="60"><img src="Images/cr/special_reso_icon.webp" alt="Special Active Skill" width="100"></td>
 >>       <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">Underworld Rift (UR)</td>
 >>    </tr>
 >>    <tr>
@@ -354,13 +351,59 @@ The rotations suggested in this guide require high EEB to execute without any de
 ## Recommended Rotations
 CR performs best when using his signature weapon. It is NOT recommended to use the hunter claymore at all unless you intend to completely ignore the companion kit and depend only on the hunter claymore’s raw damage.
 
-### R0
+### R0 & R-1
+For all mentions of CA below, make sure to dodge-cancel the animation after it has started. <br>
+EEB should be 24% (one level 15 core) on R0 to have enough energy to reliably execute the below rotation. R-1 needs 2 EEB cores (48% EEB is ideal) for optimal damage. Note that these are recommendations to be able to follow the rotations below - if you have lower EEB, you can adjust by not using the active skill as often.
 
+>[!error | no-icon] Normal State:
+>Active -- Reso -- Support + CA -- <span style="background:#ff4d4f"><font color="#000000">(3BA dash) x2 -- CA</font></span> -- <span style="background:#ff4d4f"><font color="#000000">(3BA dash) x2 -- CA</font></span> -- Active -- Reso
 
-### R-1
+During the normal state, focus on consuming 3 Rose Marks to maximise CA damage. One rose mark recharge requires about **6 basic attacks** - depending on your comfort level, you can choose to use **(3BA + dash)x2** or **(2BA + dash)x3** to achieve roughly the same damage output before using an enhanced charged attack.
 
+>[!note]- Expert Note:
+>Keeping the consistency of the <span style="background:#ff4d4f"><font color="#000000">(3BA dash) x2 -- CA</font></span> rotation will make it easier to remember throughout the battle, but you can adjust the rotation to do the third CA after the Active skill to increase its damage, changing the end of the rotation to **(3BA+dash)x2 -- Active -- CA -- Reso**. It is not recommended to make this change if you are about to put the enemy into weakness because you want to prolong the active skill buff for as long as possible in the weakened state to maximise damage.
 
-### R1
+>[!error | no-icon] Crimson Bond (Special State):
+>Crimson Bond -- 3CA -- Hold Active -- 2CA -- Underworld Rift (UR)
 
+Always hold the active skill during CB to maximise damage - there is no need to animation-cancel this with a dash. It is recommended to use UR as soon as it is available to ensure that you can capture the damage in the weakened state. UR has an 8s cooldown before you can use it, which can make it tight on timing during weakness states. Use CB as soon as the normal resonance animation is over to ensure UR is available before enemies shield up again. At R0, UR can only be buffed by 1 rose bloom during a single weakness state.
 
-### R2 & R3
+<div style="padding:71.43% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1145694977?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CR R0 rotation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+##### About ORB:
+In 2 minute battles (like stable and energy orbits) with low stats, you may want to use more than the usual recommended 14% ORB (level 9) to be able to oath twice. When using UR as a last second nuke, the animation takes up real battle time and has to be executed with about 3-4s left on the timer. With 14% ORB, the first oath must be used almost immediately when it is ready to be able to use it a second time  before using UR. 17% ORB (level 12) can make the timing feel a little less strict in most battles.
+
+### R1+
+For all mentions of CA below, make sure to dodge-cancel the animation after it has started. 
+
+For ease of gameplay, there is no mandatory change to the normal state rotation from R0 because the CR’s pair bonuses only affect the CB special state.
+
+>[!error | no-icon] Normal State:
+>Active -- Reso -- Support + CA -- (3BA dash) x2 -- CA -- (3BA dash) x2 -- CA -- Active -- Reso
+
+>[!error | no-icon] Crimson Bond (Special State):
+>Crimson Bond -- Hold Active -- 2CA -- Hold Active -- 2CA -- Underworld Rift (UR)
+
+<div style="padding:71.43% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1145698358?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Full R1 rotation, revised"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+With the R1 pair bonus, your UR attack can now make use of the maximum number of rose blooms within a single weakness state. If you find that fitting 4 CA into a single weakness state is too tight on timing, you can use one less CA - it is more important to properly time UR in weakness than it is to get an additional charged attack.
+
+>[!note]- Expert note
+>With ranks, CR’s gameplay in the normal state allows more flexibility and gives you more options in battle when you have low stats. The active skill can be moved ahead in the rotation to be able to buff rose marks before CB if desired. This is because you can immediately use the special active skill once CB is activated so there is no need to extend the normal active skill damage buff. The downside is that you no longer get to enjoy the benefit of animation cancelling the active skill with resonance and the BA timings are less consistent and harder to memorize. You want to start the **Active - CA - Reso** sequence right about when the countdown timer on the resonance skill is at 3-4s.
+>For simplicity, it is recommended to use the R0 rotation.
+>
+>For example, the normal state rotation can become:
+>>[!error | no-title]
+>>Active - Reso - Support + CA - [(3BA + dash) x2] - CA - [(3BA + dash) x2] - Active - CA - Reso
+>
+>OR
+>>[!error | no-title]
+>>Active - CA - Reso - Support + 3BA+dash - CA - [(3BA + dash) x2] - 2BA - Active - CA - Reso
+>
+>OR
+>>[!error | no-title]
+>>Active - CA - Reso - Support + 3BA+dash - CA - 3BA+dash - 2BA+dash - Active - CA - Reso
+>
+>etc.
+>
+>Play around with what works best for you, even if it is not one of the above rotations, as long as you can get 3 RM between resonances.
