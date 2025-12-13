@@ -86,7 +86,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >reso hold - support + active - 2BA x 2 - support + active - 2BA x 2
 
 ## Companion skills
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -112,7 +112,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -139,7 +139,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >></div>
 
 ## Signature Weapon: Fiend Reaper
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -165,7 +165,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>

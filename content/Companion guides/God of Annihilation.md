@@ -64,7 +64,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 
 ## In-depth guide
 ### Companion skills
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -87,7 +87,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -110,7 +110,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -141,7 +141,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 > It is not recommended to consume 3 or less Arrows at a time because it takes more time and your Active won’t restore 4 Arrows. Always consume 4 Arrows with one CA.
 
 ### Signature Weapon: Divine Grip
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -167,7 +167,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -193,7 +193,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >[!note]+ CA after Active
 > If you initiate a charged attack before the first Active skill animation is completed, the CA is immediately executed, allowing for a faster rotation. If you do not do this, holding the attack button will default to the BA-CA animation, making the rotation longer.
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -216,7 +216,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >></div>
 
 ### Deity state (duration 10 sec)
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -238,7 +238,7 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>

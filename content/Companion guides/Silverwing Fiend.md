@@ -1,7 +1,7 @@
 ---
 title: "Sylus: Silverwing Fiend (CR)"
 draft: false
-tags: wip
+tags:
 ---
 >[!infobox]
 >
@@ -51,7 +51,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 
 ---
 ## Signature Weapon: Crimson Malison
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -74,7 +74,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -85,7 +85,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>
 >><img src="Images/cr/rose mark timer.webp" alt="Rose Mark charge status">
 >
->>[!note | clean no-t]
+>>[!column_kit | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -102,7 +102,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -142,7 +142,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 ></div>
 
 ## Companion skills
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -168,7 +168,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >[!note] Support inside Crimson Bond
 >Crimson Break becomes Crimson Void inside the CB special state and cannot be manually activated - see below for more information about Sylus’ special state.
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -191,7 +191,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -218,7 +218,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 ### Special State: Crimson Bond (CB)
 In the CB special state, the support, active and resonance skill button functions are all changed.<br>CB has no time limit and can last forever if you do not activate the special resonance skill (UR). The goal during CB is to “grow” flowers on the field to maximise UR damage - flowers are stimulated to grow when you use basic/charged attacks and active skills.
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -243,7 +243,7 @@ In the CB special state, the support, active and resonance skill button function
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -265,7 +265,7 @@ In the CB special state, the support, active and resonance skill button function
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
