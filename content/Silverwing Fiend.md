@@ -8,7 +8,7 @@ tags: wip
 >
 >## Sylus: Silverwing Fiend
 >
->![[_.png]]
+>![[CR_image.webp]]
 >
 >| Stella | Sapphire / Blue |
 > | --- | --- |
@@ -21,7 +21,7 @@ Sylus: Silverwing Fiend is a DEF scaling companion that specialises in stella-ma
 >
 > > [!note | clean] Strengths
 > > - Large burst damage from special state.
-> > - One of the easier rotations to learn in the 3rd myth generation, with flexibility when not trying to min-max.
+> > - Simple general rotation to follow for beginners, but also has flexibility to adjust gameplay to min-max for advanced players
 >
 > > [!note | clean] Weaknesses
 > > - All rank bonuses only buff the special state.
@@ -57,7 +57,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>
 >><img src="Images/cr/4BA.webp" alt="Basic attacks combo">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -85,7 +85,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>
 >><img src="Images/cr/rose mark timer.webp" alt="Rose Mark charge status">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -108,7 +108,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>
 >><img src="Images/cr/Active.webp" alt="Active skill">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -120,7 +120,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>        <th style="vertical-align: top;">Active Skill (10s CD) (1 energy cost)</th>
 >>    </tr>
 >>    <tr>
->>        <td colspan="2">Does no damage at time of casting but for the next 8s, all your other damage increases by 15%. Also makes you unstoppable for 8s.</td>
+>>        <td colspan="2">Does no damage at time of casting but for the next 8s, all your other damage (including oath) increases by 15%. Also makes you unstoppable for 8s.</td>
 >>    </tr>
 >></table>
 >></div>
@@ -148,7 +148,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>
 >><img src="Images/cr/Support.webp" alt="Support skill">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -174,7 +174,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>
 >><img src="Images/cr/Resonance.webp" alt="Resonance skill">
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -196,9 +196,9 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>[!skills | clean no-t]
 >>
 >><img src="Images/cr/filling bar.webp" alt="Filling CB bar">
->>Above animation shows: resonance (20), ba-ca+rose mark (3+3+12), 4ba (3+3+3+3), ba-ca (3+3), ba-ca+rose mark (3+3+12), support skill(6)
+>>Above animation shows: Resonance (20 pts), BA+CA+RM (3+3+12 pts), 4BA (3+3+3+3 pts), BA+CA (3+3 pts), BA+CA+RM (3+3+12 pts), support skill (6 pts)
 >
->>[!skills | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
@@ -227,7 +227,7 @@ In the CB special state, the support, active and resonance skill button function
 >><img src="Images/cr/CB active hold.webp" alt="CB Active Hold">
 >></Carousel>
 >
->>[!note | clean no-t]
+>>[!skills | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
@@ -275,7 +275,7 @@ In the CB special state, the support, active and resonance skill button function
 >><img src="Images/cr/UR2.webp" alt="2 roses on the field">
 >></Carousel>
 >
->>[!note | clean no-t]
+>>[!skills | clean no-t]
 >><div class="skill-table">
 >><table>
 >>    <tr>
@@ -305,14 +305,17 @@ In the CB special state, the support, active and resonance skill button function
         <th colspan="2">Stella Matched</th>
     </tr>
     <tr>
-        <td rowspan="3"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 1 EEB + 1 DEF / OS</td>
+        <td rowspan="4"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>SHC & FOO: 1 EEB + 1 DEF / OS</td>
     </tr>
     <tr>
-        <td>R1+: 1 EEB + 1 DEF / OS</td>
+        <td>R1: 1 EEB + 1 DEF / OS</td>
     </tr>
     <tr>
-        <td>R-1: 2 EEB</td>
+        <td>R2+: OO / Energy Orbit: 1 EEB + 1 DEF / OS<br>SHC & FOO: 2DEF or 1 DEF + 1 OS</td>
+    </tr>
+    <tr>
+        <td>R-1: OO / Energy Orbit: 1 EEB + 1 ORB<br>SHC & FOO: 2 EEB or 1 EEB + 1 DEF/OS</td>
     </tr>
     <tr>
         <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
@@ -327,10 +330,10 @@ In the CB special state, the support, active and resonance skill button function
     </tr>
     <tr>
         <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: <br>3* SHC & FOO: </td>
+        <td>R0: coming soon</td>
     </tr>
     <tr>
-        <td>R1+: </td>
+        <td>R1+: coming soon</td>
     </tr>
     <tr>
         <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
@@ -338,7 +341,7 @@ In the CB special state, the support, active and resonance skill button function
     </tr>
     <tr>
         <td>Substats Priority</td>
-        <td>DEF% > Flat DEF/Crit/d2w > ATK% > Flat ATK > OS</td>
+        <td>DEF% > Crit rate > Crit DMG > flat DEF > ATK % > flat ATK > D2W > OS</td>
     </tr>
 </table>
 </div>
@@ -346,7 +349,7 @@ In the CB special state, the support, active and resonance skill button function
 Once your CR team achieves 4,800 DEF, it is recommended to start building for D2W/Crit instead of def.
 
 ##### About EEB
-The rotations suggested in this guide require high EEB to execute without any delays. If you do not have enough EEB, you may end up not using your Active Skill buff as often, meaning less than optimized damage. In general, the damage buff from consistently using the active skill is more valuable than the additional 10.5% def bonus from using a maxed def cube core mainstat instead of an EEB, assuming core substats are similar.
+The rotations suggested in this guide require high EEB to execute without any delays. If you do not have enough EEB, you may end up not using your Active Skill buff as often, meaning less than optimized damage. In general, the damage buff from consistently using the active skill is more valuable than the additional 10.5% def bonus from using a maxed def cube core mainstat instead of an EEB, assuming core substats are similar. If using an R-1 build in stable/directional orbits, an ORB may be used, but depending on the stage, 2EEB may be more desirable than an additional oath.
 
 ## Recommended Rotations
 CR performs best when using his signature weapon. It is NOT recommended to use the hunter claymore at all unless you intend to completely ignore the companion kit and depend only on the hunter claymore’s raw damage.
@@ -372,6 +375,13 @@ Always hold the active skill during CB to maximise damage - there is no need to 
 
 ##### About ORB:
 In 2 minute battles (like stable and energy orbits) with low stats, you may want to use more than the usual recommended 14% ORB (level 9) to be able to oath twice. When using UR as a last second nuke, the animation takes up real battle time and has to be executed with about 3-4s left on the timer. With 14% ORB, the first oath must be used almost immediately when it is ready to be able to use it a second time  before using UR. 17% ORB (level 12) can make the timing feel a little less strict in most battles.
+
+##### About Special Support inside CB:
+ If you need to use oath during the CB state, make sure to not interrupt Sylus’ support skill or you will lose out on lots of damage. Best options are: 
+- Use oath before using the hold-active skill.
+- Let Sylus’ support skill animation play before using oath: look for the spikes to start coming out of the ground before tapping the oath button. 
+- Use oath IMMEDIATELY after using the hold-active, and before his support is triggered - this can be tough to time, but doable with practice. If Sylus has started the animation (he will teleport away with a white pillar of light), using oath will cancel his support. 
+
 
 ### R1+
 For all mentions of CA below, make sure to dodge-cancel the animation after it has started. 
