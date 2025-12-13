@@ -417,3 +417,7 @@ With the R1 pair bonus, your UR attack can now make use of the maximum number of
 >etc.
 >
 >Play around with what works best for you, even if it is not one of the above rotations, as long as you can get 3 RM between resonances.
+
+
+---
+<sup>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>
