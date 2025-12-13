@@ -85,7 +85,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>
 >><img src="Images/cr/rose mark timer.webp" alt="Rose Mark charge status">
 >
->>[!column_kit | clean no-t]
+>>[!note | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
