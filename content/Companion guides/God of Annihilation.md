@@ -359,17 +359,24 @@ Brute force can be played with and without Reso depending if you need it. Withou
 
 **Brute force with reso:**
 >[!warning | no-title] 
->4BA -- CA -- Active -- CA -- Active -- CA -- Reso -- Deity -- Deity state rotation
+>Reso -- 4BA -- CA -- Active -- CA -- Active -- CA -- Reso -- Deity -- Deity state rotation
 
 As with stella matching, the CA before Reso is not necessary.
 If you want to use your oath at 1:01 or earlier, after second Deity use:
 Reso - Normal state rotation - Reso (to break the enemy) - Oath - Deity - Deity state rotation
 
+This rotation is usually using only for mob stages because of grouping with Reso and since mobs have only 2 shields.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1148349090?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DN r0 Brute Force: reso rotation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 **Brute force, no-reso:**
 >[!warning | no-title] 
->4BA -- CA -- Active -- CA -- Active -- <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> -- Deity -- Deity state rotation
+>4BA -- CA -- Active -- CA -- Active -- <span style="background:#fff88f"><font color="#3f3f3f">4BA -- CA</font></span> -- Deity -- Deity state rotation
 
-You can replace <span style="background:#fff88f"><font color="#3f3f3f">2BA -- CA</font></span> to 2CA to manage the Active Skill CD - it is okay to enter Deity state with 2-3 sec remaining for the Active skill CD.
+Use one more stack of 4 Arrows <span style="background:#fff88f"><font color="#3f3f3f">4BA -- CA</font></span> before entering Deity to manage the Active Skill CD - it is okay to enter Deity state with 2-3 sec remaining for the Active skill CD.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1148332666?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DN r0 Brute Force: no-reso rotation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ##### R1 and R2
 Read previous notes for R0 gameplay before continuing.
 
@@ -399,4 +406,4 @@ Deity state’s rotation is shorter than weakness states, so it is recommended t
 >Reso -- BA + Support -- Deity -- Deity state rotation
 
 ---
-<sup>v1.0 - by @kemrian. Proofreading by @anan1n, @jayci_3280<br>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280, @.kitty143</sup>
+<sup>v1.1 - by @kemrian. Minor changes to text, add more video examples<br>v1.0 - by @kemrian. Proofreading by @anan1n, @jayci_3280<br>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280, @.kitty143</sup>

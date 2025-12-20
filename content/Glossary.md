@@ -119,10 +119,12 @@ tags:
 5 star:
 - CA - [Relentless Conqueror] (Standard Myth, pink)
 - AS - [[Abysm Sovereign]] (Limited Myth, green)
+- CR - [[Silverwing Fiend]] (Limited Myth, blue)
 
 4 star:
 - RZ - pink
 - BN - blue
+- IY - purple
 
 **Caleb**:
 
