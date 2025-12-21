@@ -295,10 +295,10 @@ A no-reso rotation is also an option to save time and increase overall damage ou
     </tr>
     <tr>
         <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Ice Orbit: 1 HP / 1 ORB + 1 EEB<br>3* SHC & FOO: 1 HP + 1 EEB</td>
+        <td>R0:<br>OO / Ice Orbit: 1 HP / 1 ORB + 1 EEB<br>3* SHC & FOO: 1 HP + 1 EEB<br>No-reso (any stage): 2 HP</td>
     </tr>
     <tr>
-        <td>R1+: 1 HP + 1 EEB</td>
+        <td>R1+: 1 HP + 1 EEB<br>No-reso (any stage): 2 HP</td>
     </tr>
     <tr>
         <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
