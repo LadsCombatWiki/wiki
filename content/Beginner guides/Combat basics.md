@@ -41,11 +41,11 @@ The bottom half of the screen is where the majority of the active combat control
 - **Basic Attack (BA)**: Tapping the button will make MC use her basic attack. Tapping repeatedly will execute a chain of basic attacks. Usually, a chain of attacks is referred to as 4BA or 2BA, etc.  The number before BA indicates how many attacks in the chain you need to do. 2BA is also sometimes written as “ba ba dash/dodge”
 
 <p style="text-align: center;"> <img src="/Images/battle_controls/BA.webp" alt="Basic attack" /> </p>
-<p style="text-align: center;"> <img src="/Images/battle_controls/4ba.webp" alt="Chain of 4 Basic attacks" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/4BA.webp" alt="Chain of 4 Basic attacks" /> </p>
 
 - **Cancel animation**: The dodge button is often used to cancel long skill animations or to interrupt the basic attack chain to save time and deal more damage.
 
-<p style="text-align: center;"> <img src="/Images/battle_controls/2ba.webp" alt="Chain of 2 Basic attacks with cancel" /> </p>
+<p style="text-align: center;"> <img src="/Images/battle_controls/2BA.webp" alt="Chain of 2 Basic attacks with cancel" /> </p>
 
 - **Charged Attack (CA)**: Holding the button will make MC use a charged attack. 
 
