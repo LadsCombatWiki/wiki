@@ -276,11 +276,14 @@ A no-reso rotation is also an option to save time and increase overall damage ou
         <th colspan="2">Stella Matched</th>
     </tr>
     <tr>
-        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td rowspan="3"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
         <td>R0:<br>OO / Ice Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 1 HP + 1 EEB</td>
     </tr>
     <tr>
-        <td>R1+: 1 HP + 1 EEB</td>
+        <td>R1: 1 HP + 1 EEB</td>
+    </tr>
+    <tr>
+        <td>R2+: 2 HP</td>
     </tr>
     <tr>
         <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
@@ -294,11 +297,14 @@ A no-reso rotation is also an option to save time and increase overall damage ou
         <th colspan="2">Brute Force</th>
     </tr>
     <tr>
-        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
+        <td rowspan="3"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
         <td>R0:<br>OO / Ice Orbit: 1 HP / 1 ORB + 1 EEB<br>3* SHC & FOO: 1 HP + 1 EEB<br>No-reso (any stage): 2 HP</td>
     </tr>
     <tr>
-        <td>R1+: 1 HP + 1 EEB<br>No-reso (any stage): 2 HP</td>
+        <td>R1: 1 HP + 1 EEB<br>No-reso (any stage): 2 HP</td>
+    </tr>
+    <tr>
+        <td>R2+: 2 HP</td>
     </tr>
     <tr>
         <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
@@ -406,4 +412,4 @@ Deity state’s rotation is shorter than weakness states, so it is recommended t
 >Reso -- BA + Support -- Deity -- Deity state rotation
 
 ---
-<sup>v1.1 - by @kemrian. Minor changes to text, add more video examples<br>v1.0 - by @kemrian. Proofreading by @anan1n, @jayci_3280<br>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280, @.kitty143</sup>
+<sup>v1.2 - changes in core recommendation for r2+<br>v1.1 - by @kemrian. Minor changes to text, add more video examples<br>v1.0 - by @kemrian. Proofreading by @anan1n, @jayci_3280<br>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280, @.kitty143</sup>

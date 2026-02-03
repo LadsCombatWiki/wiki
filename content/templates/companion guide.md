@@ -36,12 +36,6 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 ![[<% tp.file.title %>#Core Recommendations| clean]]
 
 #### Rotation
-##### Outside weakness
-
-##### Entering weakness (also Deity State rotation)
-
-
-##### Brute force
 
 
 ---
@@ -117,7 +111,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >>[!skills | clean no-t]
 >>
 >><Carousel>
->><img src="Images/as/ba combo.gif" alt="Basic attacks combo">
+>><img src="Images/as/ba combo.webp" alt="Basic attacks combo">
 >><img src="Images/as/Charged attack.webp" alt="Charged attack">
 >></Carousel>
 >
@@ -126,7 +120,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/ba_icon.png" alt="Basic Attack" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/as/ba_icon.webp" alt="Basic Attack" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;"></td>
 >>    </tr>
 >>    <tr>
@@ -142,14 +136,14 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >
 >>[!skills | clean no-t]
 >>
->><img src="Images/as/active.gif" alt="Active">
+>><img src="Images/as/active.webp" alt="Active">
 >
 >>[!skills | clean no-t]
 >>
 >><div class="skill-table">
 >><table>
 >>    <tr>
->>        <td rowspan="2" width="60"><img src="Images/as/active_icon.png" alt="Active" width="100"></td>
+>>        <td rowspan="2" width="60"><img src="Images/as/active_icon.webp" alt="Active" width="100"></td>
 >>        <td style="vertical-align: top; padding: 0.4rem 0.7rem; font-weight: bold; font-size: 150%;">d</td>
 >>    </tr>
 >>    <tr>
