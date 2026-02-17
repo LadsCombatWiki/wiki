@@ -348,6 +348,12 @@ In the CB special state, the support, active and resonance skill button function
 
 Once your CR team achieves 4,800 DEF, it is recommended to start building for D2W/Crit instead of def.
 
+> [!note | no-icon]- Preset
+> >[!warning] Always check cores before starting battle.
+> 
+><img src="Images/cr/preset.png" alt="Preset">
+
+
 ##### About EEB
 The rotations suggested in this guide require high EEB to execute without any delays. If you do not have enough EEB, you may end up not using your Active Skill buff as often, meaning less than optimized damage. In general, the damage buff from consistently using the active skill is more valuable than the additional 10.5% def bonus from using a maxed def cube core mainstat instead of an EEB, assuming core substats are similar. If using an R-1 build in stable/directional orbits, an ORB may be used, but depending on the stage, 2EEB may be more desirable than an additional oath.
 
@@ -420,4 +426,4 @@ With the R1 pair bonus, your UR attack can now make use of the maximum number of
 
 
 ---
-<sup>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>
+<sup>v.1.1 - added presets by @jayci_3280<br>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>

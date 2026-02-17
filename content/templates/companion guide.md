@@ -220,6 +220,11 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 </table>
 </div>
 
+> [!note | no-icon]- Preset
+> >[!warning] Always check cores before starting battle.
+> 
+><img src="Images/ca/preset.png" alt="Preset">
+
 ## Recommended Rotations
 
 

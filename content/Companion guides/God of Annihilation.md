@@ -317,6 +317,11 @@ A no-reso rotation is also an option to save time and increase overall damage ou
 </table>
 </div>
 
+> [!note | no-icon]- Preset
+> >[!warning] Always check cores before starting battle.
+> 
+><img src="Images/dn/preset.png" alt="Preset">
+
 ### Recommended Rotations
 ##### General Notes:
 DN has two states and each has a different rotation: “normal state” and “deity state”. 
@@ -412,4 +417,4 @@ Deity state’s rotation is shorter than weakness states, so it is recommended t
 >Reso -- BA + Support -- Deity -- Deity state rotation
 
 ---
-<sup>v1.2 - changes in core recommendation for r2+<br>v1.1 - by @kemrian. Minor changes to text, add more video examples<br>v1.0 - by @kemrian. Proofreading by @anan1n, @jayci_3280<br>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280, @.kitty143</sup>
+<sup>v.1.3 - added presets by @kemrian<br>v1.2 - changes in core recommendation for r2+<br>v1.1 - by @kemrian. Minor changes to text, add more video examples<br>v1.0 - by @kemrian. Proofreading by @anan1n, @jayci_3280<br>v0.1 - quick summary by @kemrian. Proofreading by @jayci_3280, @.kitty143</sup>

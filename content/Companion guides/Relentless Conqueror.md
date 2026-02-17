@@ -239,6 +239,12 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 
 Once your CA team achieves 10,000 ATK, it is recommended to start building for D2W/Crit instead of ATK.
 
+> [!note | no-icon]- Preset
+> >[!warning] Always check cores before starting battle.
+> 
+><img src="Images/ca/preset.png" alt="Preset">
+
+
 ## Recommended Rotations
 CA’s gameplay primarily centers around the Devour Mark burst damage. He excels against large groups of mobs because of the signature’s weapon passive skill that lets you drop lots of Dark Energy (reducing active CD and refunding energy), letting you spam it repeatedly without needing to wait. However, this mechanic is not as great against single targets and in these cares, the preferred weapon is the hunter claymore, unless you have high stats.
 
@@ -277,3 +283,6 @@ In brute force stages against bosses, the R0 & R1 bonus can be used to your adva
 
 #### R3
 The same recommendations as R1&R2, but depending on stats, it may be valuable to constantly pick up dark energy anyway. The additional damage from the R3 bonus may win over timing burst damage in weakness. Play around to see which will be more effective with your stats. If you choose to endlessly pick up Dark Energy, you can also use Sylus’ support whenever it is available.
+
+---
+<sup>v.1.1 - added presets by @jayci_3280<br>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>

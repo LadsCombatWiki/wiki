@@ -31,46 +31,7 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 
 ---
 ## Build Summary
-<div class="core-table">
-<table>
-    <tr>
-        <th colspan="2">Stella Matched</th>
-    </tr>
-    <tr>
-        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
-    </tr>
-    <tr>
-        <td>R1+: 2 x EEB</td>
-    </tr>
-    <tr>
-        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
-        <td>4 d2w<br>OR<br>1crit rate + 3 d2w</td>
-    </tr>
-    <tr>
-        <td>Substats Priority</td>
-        <td>HP% > D2W > Crit Rate = flat HP > Crit DMG</td>
-    </tr>
-    <tr>
-        <th colspan="2">Brute Force</th>
-    </tr>
-    <tr>
-        <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
-    </tr>
-    <tr>
-        <td>R1+: 2 x EEB</td>
-    </tr>
-    <tr>
-        <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
-        <td>3 crit rate + 1 crit dmg<br>OR<br>2 crit rate + 2 crit dmg</td>
-    </tr>
-    <tr>
-        <td>Substats Priority</td>
-        <td>HP% > Crit rate > Crit DMG > flat HP > D2W</td>
-    </tr>
-</table>
-</div>
+![[Abysm Sovereign#Core Recommendations| clean]]
 
 ##### Recommended Rotations:
 >[!tip] R0
@@ -263,6 +224,11 @@ Sylus: Abysm Sovereign is an HP scaling companion that excels at raw damage in b
 >[!note] Expert/whale notes
 >ex. Once your AS team achieves 200,000 HP, it is recommended to start building for D2W/Crit instead.
 
+> [!note | no-icon]- Preset
+> >[!warning] Always check cores before starting battle.
+> 
+><img src="Images/as/preset.png" alt="Preset">
+
 ## Recommended Rotations
 AS performs best when using his signature weapon. It is not recommended to pair the hunter claymore with AS unless you have really bad HP cores and really good ATK cores. If you choose to use a weapon that is not the signature one, you will have to be very careful with HP management as you will no longer have any damage reduction at low HP.
 
@@ -294,4 +260,4 @@ The increased EEB allows you to more freely use your active skill, meaning you c
 
 
 ---
-<sup>v1.0 by @jayci_3280. Proofreading by @anan1n @kiironiichan @.kitty143 @kemrian</sup>
+<sup>v1.1 - added presets by @jayci_3280<br>v1.0 by @jayci_3280. Proofreading by @anan1n @kiironiichan @.kitty143 @kemrian</sup>

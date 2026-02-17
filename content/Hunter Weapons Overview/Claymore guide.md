@@ -15,6 +15,12 @@ Best users of the claymore: 
 - Sylus’ Standard Myth: Relentless Conquerer (CA)
 
 *Please see companion guides for tips on how to use the claymore with each individual kit.*
+
+> [!note | no-icon]- Preset
+> >[!warning] Always check cores before starting battle.
+> 
+><img src="Images/claymore/preset.png" alt="Preset">
+
 # How to Use the Hunter Claymore
 ## Basic & Charged Attacks
 > [!column | flex]
