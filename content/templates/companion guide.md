@@ -56,7 +56,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 ></table>
 ></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -82,7 +82,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -106,7 +106,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >></div>
 
 ## Signature Weapon: s
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -132,7 +132,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 >></table>
 >></div>
 
->[!column | flex]
+>[!column_kit | flex]
 >
 >>[!skills | clean no-t]
 >>
@@ -172,10 +172,10 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 ></div>
 
 ## Active Pair Bonuses
-- R0 - 
-- R1 - 
-- R2 - 
-- R3 - 
+- **R0** - 
+- **R1** - 
+- **R2** - 
+- **R3** - 
 ## Core Recommendations
 [[Protocores basics|In-depth core guide]]
 
