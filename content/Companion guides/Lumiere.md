@@ -243,3 +243,6 @@ The R2 pair bonus results in the active cooldown being reduced quickly as Xavier
 
 ### Hunter Claymore Rotations
 Despite being a DEF scaling companion, Lumiere works well with the Hunter Claymore since the strongest part of his kit is the crowd control, which is tied to his support skill, and not his signature weapon. Grouping with just the claymore is tricky, so combining it with Lumiere’s grouping ability makes the claymore’s damage especially effective against mobs. There are no specific notes for Lumiere when using the Hunter Claymore, just follow the usual [[Claymore guide|Claymore Rotation]].
+
+---
+<sup>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>

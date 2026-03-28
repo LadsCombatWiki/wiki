@@ -76,8 +76,8 @@ tags:
 **Xavier**:
 
 5 star:
-- LT - [Lightseeker] (Standard Myth, green)
-- MN - [Lumiere] (Limited Myth, yellow)
+- LT - [[Lightseeker]] (Standard Myth, green)
+- MN - [[Lumiere]] (Limited Myth, yellow)
 - NV - [King of Darknight] (Limited Myth, red)
 
 4 star:
@@ -90,7 +90,7 @@ tags:
 **Rafayel**:
 
 5 star:
-- AB - [Abysswalker] (Standard Myth, purple)
+- AB - [[Abysswalker]] (Standard Myth, purple)
 - TP - [God of the Tides] (Limited Myth, pink)
 - MS - [Lemurian Sea God] (Limited Myth, yellow)
 
@@ -117,7 +117,7 @@ tags:
 **Sylus**:
 
 5 star:
-- CA - [Relentless Conqueror] (Standard Myth, pink)
+- CA - [[Relentless Conqueror]] (Standard Myth, pink)
 - AS - [[Abysm Sovereign]] (Limited Myth, green)
 - CR - [[Silverwing Fiend]] (Limited Myth, blue)
 

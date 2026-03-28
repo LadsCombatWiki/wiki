@@ -36,11 +36,17 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
 
 #### Rotation
 ##### Normal State
->[!error | no-icon] Stella-Matched, all ranks
+>[!error | no-icon] Stella-Matched, all ranks OR Brute Force Mobs
 >Active -- Reso -- Support + CA -- (3BA dash) x2 -- CA -- (3BA dash) x2 -- CA -- Active -- Reso
 
->[!error | no-icon] Brute Force
->WIP
+>[!error | no-icon] Brute Force Bosses
+>Active dash -- Support + CA -- 3BA -- reso -- CA -- (3BA Active dash) + Support -- 3BA dash -- CA 
+>
+>OR
+>
+>Active dash -- Support + CA -- 3BA -- reso -- CA spam + support
+
+Brute force rotations can vary depending on the enemy but this rotation will **generally** provide the most damage overall while unlocking CB in the shortest amount of time.
 
 ##### Special State: Crimson Bond (CB)
 >[!error | no-icon] R0
@@ -326,14 +332,14 @@ In the CB special state, the support, active and resonance skill button function
         <td>DEF% > Flat DEF/Crit/d2w > ATK% > Flat ATK > OS</td>
     </tr>
     <tr>
-        <th colspan="2">Brute Force WIP</th>
+        <th colspan="2">Brute Force</th>
     </tr>
     <tr>
         <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0: coming soon</td>
+        <td>Bosses:<br>R0: OO: 1 DEF + 1 ORB<br>SHC and FOO: 2 DEF or 1 DEF + 1 OS<br><br>R1+, all battles: 2 DEF or 1 DEF + 1 OS</td>
     </tr>
     <tr>
-        <td>R1+: coming soon</td>
+        <td>Mobs:<br>Follow Stella Matched Recommendations</td>
     </tr>
     <tr>
         <td><img src="Images/protocores_basics/delta.png" alt="Delta" width="100"></td>
@@ -346,7 +352,7 @@ In the CB special state, the support, active and resonance skill button function
 </table>
 </div>
 
-Once your CR team achieves 4,800 DEF, it is recommended to start building for D2W/Crit instead of def.
+Once your CR team achieves 5000 DEF, it is recommended to start focusing on building for D2W/Crit instead of def
 
 > [!note | no-icon]- Preset
 > >[!warning] Always check cores before starting battle.
@@ -355,12 +361,14 @@ Once your CR team achieves 4,800 DEF, it is recommended to start building for D2
 
 
 ##### About EEB
-The rotations suggested in this guide require high EEB to execute without any delays. If you do not have enough EEB, you may end up not using your Active Skill buff as often, meaning less than optimized damage. In general, the damage buff from consistently using the active skill is more valuable than the additional 10.5% def bonus from using a maxed def cube core mainstat instead of an EEB, assuming core substats are similar. If using an R-1 build in stable/directional orbits, an ORB may be used, but depending on the stage, 2EEB may be more desirable than an additional oath.
+The stella match rotations suggested in this guide require high EEB to execute without any delays. If you do not have enough EEB, you may end up not using your Active Skill buff as often, meaning less than optimized damage. In general, the damage buff from consistently using the active skill is more valuable than the additional 10.5% def bonus from using a maxed def cube core mainstat instead of an EEB, assuming core substats are similar. If using an R-1 build in stable/directional orbits, an ORB may be used, but depending on the stage, 2EEB may be more desirable than an additional oath.
 
+In brute force boss battles, you will not have to use resonance as often so EEB is not required since only the active skill will be used. <br>When in 1:30 battles with R0+, even when stella matched, you may not need EEB either due to the shorter duration of the battle and waiting time between waves that can charge energy.
 ## Recommended Rotations
 CR performs best when using his signature weapon. It is NOT recommended to use the hunter claymore at all unless you intend to completely ignore the companion kit and depend only on the hunter claymore’s raw damage.
 
-### R0 & R-1
+### Stella Matched teams
+#### R0 & R-1
 For all mentions of CA below, make sure to dodge-cancel the animation after it has started. <br>
 EEB should be 24% (one level 15 core) on R0 to have enough energy to reliably execute the below rotation. R-1 needs 2 EEB cores (48% EEB is ideal) for optimal damage. Note that these are recommendations to be able to follow the rotations below - if you have lower EEB, you can adjust by not using the active skill as often.
 
@@ -377,6 +385,9 @@ During the normal state, focus on consuming 3 Rose Marks to maximise CA damage. 
 
 Always hold the active skill during CB to maximise damage - there is no need to animation-cancel this with a dash. It is recommended to use UR as soon as it is available to ensure that you can capture the damage in the weakened state. UR has an 8s cooldown before you can use it, which can make it tight on timing during weakness states. Use CB as soon as the normal resonance animation is over to ensure UR is available before enemies shield up again. At R0, UR can only be buffed by 1 rose bloom during a single weakness state.
 
+>[!note]+ Expert note
+>Depending on the opponent, it may be an option to extend the CB state to use a second Special Active to be able to increase your UR damage. However, this should only be used in battles with multiple waves, where it takes time for the next wave to appear, allowing you to wait for the second active CD to be over.
+
 <div style="padding:71.43% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1145694977?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CR R0 rotation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ##### About ORB:
@@ -389,7 +400,7 @@ In 2 minute battles (like stable and energy orbits) with low stats, you may want
 - Use oath IMMEDIATELY after using the hold-active, and before his support is triggered - this can be tough to time, but doable with practice. If Sylus has started the animation (he will teleport away with a white pillar of light), using oath will cancel his support. 
 
 
-### R1+
+#### R1+
 For all mentions of CA below, make sure to dodge-cancel the animation after it has started. 
 
 For ease of gameplay, there is no mandatory change to the normal state rotation from R0 because the CR’s pair bonuses only affect the CB special state.
@@ -424,6 +435,25 @@ With the R1 pair bonus, your UR attack can now make use of the maximum number of
 >
 >Play around with what works best for you, even if it is not one of the above rotations, as long as you can get 3 RM between resonances.
 
+### Brute Force Teams
+For brute forcing mobs, it is recommended to follow the stella match notes. Resonance is useful to group enemies, regardless of whether they are shielded, and CB (which is the strongest part of the kit) will be during weakness states for the most damage. In most cases, this will mean a hybrid build for the team. If you are using a full crit build, UR can be used outside of weakness since it can crit. 
+
+For brute forcing boss battles, a full crit build is recommended. The main goal is to unlock CB state as soon as possible and do massive damage with UR. **A no-resonance rotation is not recommended.** CR’s resonance takes a lot of time, but provides more damage than basic attacks during the same time span. It also provides a lot of points towards unlocking the special state sooner than depending only on BA. Depending on the stage, using resonance can eventually break all the boss’ shield, so you can also use oath in weakness.
+
+>[!error | no-icon] Normal State
+>Active dash -- Support + CA -- 3BA -- reso -- CA -- (3BA Active dash) + Support -- 3BA dash -- CA 
+>
+>OR
+>
+>Active dash -- Support + CA -- 3BA -- reso -- CA spam + support
+
+Make sure to use Sylus’ support at the beginning of the rotation to make sure you can get a second one to help charge for the CB state. His support also does huge damage when executed completely, so CA -- 3BA to let it play out before using resonance. RM will be charged again once the resonance animation is complete, which optimizes timing. 
+
+You can use continuous CA spam after resonance as long as you make sure to fit 3 RM per normal state rotation. CA generally does more damage than BA, but charges RM and CB slower - choose between whichever option maximizes damage for your team/stage.
+
+While in the Crimson Bond special state when NOT in weakness, you want to use UR as soon as it is ready, so that you can immediately start stacking for the next CB state. 
+
+In stable open orbit stages, you should be able to fit 4 CB states in a single stage to maximize damage. In SHC stages or when trying to 3* FOO stages, you may have to adjust the rotation based on the types of enemies in the wave(s).
 
 ---
-<sup>v.1.1 - added presets by @jayci_3280<br>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>
+<sup>v2.0 - brute force guide by @jayci_3280<br>v1.1 - added presets by @jayci_3280<br>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>

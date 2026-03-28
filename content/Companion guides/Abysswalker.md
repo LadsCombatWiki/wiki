@@ -254,3 +254,6 @@ Hunter claymore works very well with Abysswalker because its charged attacks hav
 For all ranks, Abysswalker’s resonance puts you back quite a distance from the enemy. This means that your claymore rotation becomes tighter on timing when trying to do two Frangere Slashes in a single weakness state. You will have to dash ONCE towards the enemy before pressing the active button. Practice the [[Claymore guide|Claymore]] rotations with AB to get the timing down. 
 
 As usual, Hunter Claymore gameplay requires lots of EEB to consistently use the active skill. If you are using R0 AB in orbits, you can consider still using 2 EEB instead of 1 EEB and 1 ORB because the overall damage from additional Frangere Slashes may outweigh the damage an Oath will do, depending on your stats. You can experiment between the two if you are trying to min-stat clear a stage.
+
+---
+<sup>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>

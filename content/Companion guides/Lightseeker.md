@@ -235,3 +235,6 @@ Companions are usually very good at dodging attacks on their own, but when Xavie
 
 ### R0 & R-1
 Most myths at R0 and R-1 need to equip an ORB in 2-minute battles but LT is unique in that using empowered supports will charge up the oath. R0 LT (and R-1 on other R0 pair cards) needs two empowered supports to get an oath within 1 minute (four in a 2 minute battle to get both oaths). For R-1 with an R1+ 4* solar pair, the R1 pairbonus provides 10% ORB, so only one support is needed per oath within a minute (two in a 2 minute battle to get both oaths). If you are not confident about triggering the required empowered supports, you can equip an ORB at level 9 or higher as usual.
+
+---
+<sup>v1.0 by @jayci_3280. Proofreading by @kemrian</sup>
