@@ -53,7 +53,7 @@ tags:
 > >>    <tr>
 > >>        <td class="fixed-column">10</td>
 > >>        <td>191</td>
-> >>        <td>212</td>
+> >>        <td>217</td>
 > >>        <td>87</td>
 > >>        <td>99</td>
 > >>        <td>3480</td>
