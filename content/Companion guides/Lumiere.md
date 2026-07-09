@@ -189,7 +189,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
     </tr>
     <tr>
         <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
+        <td>R0:<br>OO / Light Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
     </tr>
     <tr>
         <td>R1+: 2 x EEB</td>
@@ -207,7 +207,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
     </tr>
     <tr>
         <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
+        <td>R0:<br>OO / Light Orbit: 1 EEB + 1 ORB<br>3* SHC & FOO: 2 EEB</td>
     </tr>
     <tr>
         <td>R1+: 2 x EEB</td>

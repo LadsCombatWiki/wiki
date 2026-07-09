@@ -233,7 +233,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
     </tr>
     <tr>
         <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: 1 DEF/OS + 1 ORB<br>3* SHC & FOO: 2 DEF or 1 DEF + 1 OS or 2 OS</td>
+        <td>R0:<br>OO / Gravity Orbit: 1 DEF/OS + 1 ORB<br>3* SHC & FOO: 2 DEF or 1 DEF + 1 OS or 2 OS</td>
     </tr>
     <tr>
         <td>R1+: 2 DEF or 1 DEF + 1 OS or 2 OS</td>
@@ -251,7 +251,7 @@ If you don't know what acronyms means, you can find them in [[Glossary]].
     </tr>
     <tr>
         <td rowspan="2"><img src="Images/protocores_basics/cube.png" alt="Cube" width="100"></td>
-        <td>R0:<br>OO / Energy Orbit: 1 DEF/OS + 1 ORB<br>3* SHC & FOO: 2 DEF or 1 DEF + 1 OS or 2 OS</td>
+        <td>R0:<br>OO / Gravity Orbit: 1 DEF/OS + 1 ORB<br>3* SHC & FOO: 2 DEF or 1 DEF + 1 OS or 2 OS</td>
     </tr>
     <tr>
         <td>R1+: 2 DEF or 1 DEF + 1 OS or 2 OS</td>

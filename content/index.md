@@ -1,6 +1,11 @@
 ---
 title: Home page
 ---
+# Important notice
+We have decided to cancel both the current guide in progress and any further guides for the new myths. We also commit that no additional changes will be introduced in future content plans.
+
+#CombatWikiCanceled
+# Welcome
 Welcome to Love and Deepspace combat wiki.
 
 Our beginner guides are ready to help you take the first steps into understanding combat in this game! We understand that some guides are still missing, and we will continue to work on updates to this site so please be patient! In the meantime, enjoy your time here and we hope you can learn lots about the complicated battle mechanics in this game. 
